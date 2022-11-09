@@ -1,0 +1,578 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+    xmlns:mets="http://www.loc.gov/METS/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2022-11-08T09:01:25Z</responseDate>
+    <request verb="GetRecord" metadataPrefix="mets" identifier="5654690">https://digital.blb-karlsruhe.de/oai/</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:digital.blb-karlsruhe.de:5654690</identifier>
+                <datestamp>2020-09-18T12:44:51Z</datestamp>
+                <setSpec>blbihd</setSpec>
+                <setSpec>book</setSpec>
+            </header>
+            <metadata>
+                <mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xmlns:vls="http://semantics.de/vls" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version112/mets.xsd" OBJID="3" LABEL="Inhouse-Digitalisierung">
+                    <mets:metsHdr CREATEDATE="2022-11-08T10:01:25">
+                        <mets:agent ROLE="OTHER" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+                            <mets:name>vls/2209</mets:name>
+                        </mets:agent>
+                        <mets:agent ROLE="OTHER" TYPE="OTHER" OTHERTYPE="INSTANCE">
+                            <mets:name>blb</mets:name>
+                        </mets:agent>
+                        <mets:agent ROLE="OTHER" TYPE="OTHER" OTHERTYPE="REPOSITORY">
+                            <mets:name>digital.blb-karlsruhe.de</mets:name>
+                        </mets:agent>
+                        <mets:agent ROLE="OTHER" TYPE="OTHER" OTHERTYPE="BUILDER">
+                            <mets:name>vd</mets:name>
+                        </mets:agent>
+                    </mets:metsHdr>
+                    <mets:dmdSec ID="md5654690">
+                        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+                            <mets:xmlData>
+                                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                                    <mods:titleInfo>
+                                        <mods:title>Karte der Badischen Eisenbahn von Mannheim bis Basel, in 4 Sectionen</mods:title>
+                                        <mods:subTitle>carte du chemin de fer badois de Mannheim à Bale, en 4 feuilles</mods:subTitle>
+                                    </mods:titleInfo>
+                                    <mods:typeOfResource>text</mods:typeOfResource>
+                                    <mods:originInfo eventType="publication">
+                                        <mods:place>
+                                            <mods:placeTerm type="text">Carlsruhe</mods:placeTerm>
+                                        </mods:place>
+                                        <mods:publisher>Franz Nöldeke</mods:publisher>
+                                        <mods:dateIssued encoding="w3cdtf" keyDate="yes">1851</mods:dateIssued>
+                                        <mods:issuance>monographic</mods:issuance>
+                                    </mods:originInfo>
+                                    <mods:language>
+                                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                                    </mods:language>
+                                    <mods:physicalDescription>
+                                        <mods:extent>1 Karte auf 4 Blättern</mods:extent>
+                                    </mods:physicalDescription>
+                                    <mods:note>Da die Strecke nur bis etwa Haltingen, aber noch nicht bis Basel eingezeichnet ist, muss sie nach 1851, aber vor 1855 erschienen sein</mods:note>
+                                    <mods:identifier type="urn">urn:nbn:de:bsz:31-127413</mods:identifier>
+                                    <mods:identifier type="kxp">1688650660</mods:identifier>
+                                    <mods:relatedItem type="otherFormat" displayLabel="selfreferencing digital edition">
+                                        <mods:titleInfo>
+                                            <mods:title>Karte der Badischen Eisenbahn von Mannheim bis Basel, in 4 Sectionen</mods:title>
+                                            <mods:subTitle>carte du chemin de fer badois de Mannheim à Bale, en 4 feuilles</mods:subTitle>
+                                        </mods:titleInfo>
+                                        <mods:originInfo eventType="publication">
+                                            <mods:place>
+                                                <mods:placeTerm type="text">Carlsruhe</mods:placeTerm>
+                                            </mods:place>
+                                            <mods:publisher>Franz Nöldeke</mods:publisher>
+                                            <mods:dateIssued encoding="iso8601" keyDate="yes">1851</mods:dateIssued>
+                                            <mods:dateIssued qualifier="inferred">[zwischen 1851 und 1855]</mods:dateIssued>
+                                            <mods:issuance>monographic</mods:issuance>
+                                        </mods:originInfo>
+                                        <mods:originInfo>
+                                            <mods:place>
+                                                <mods:placeTerm type="text">Karlsruhe</mods:placeTerm>
+                                            </mods:place>
+                                            <mods:publisher>Badische Landesbibliothek</mods:publisher>
+                                            <mods:dateIssued encoding="iso8601" keyDate="yes">2020</mods:dateIssued>
+                                            <mods:edition>[Electronic ed.]</mods:edition>
+                                        </mods:originInfo>
+                                        <mods:recordInfo>
+                                            <mods:recordIdentifier source="blbihd">168352389X</mods:recordIdentifier>
+                                        </mods:recordInfo>
+                                    </mods:relatedItem>
+                                    <mods:location>
+                                        <mods:physicalLocation>BLB Karlsruhe</mods:physicalLocation>
+                                        <mods:shelfLocator>119 E 2903 R</mods:shelfLocator>
+                                    </mods:location>
+                                    <mods:location>
+                                        <mods:url displayLabel="Digitalisierung" note="Kostenfrei zugänglich ohne Registrierung">https://digital.blb-karlsruhe.de/id/5654690</mods:url>
+                                    </mods:location>
+                                    <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/" displayLabel="CC-BY-SA-Lizenz (4.0)">cc-by-sa_4</mods:accessCondition>
+                                    <mods:extension>
+                                        <vlz:externalType xmlns:vlz="http://visuallibrary.net/vlz/1.0/" recordSyntax="pica" code="Oa"/>
+                                        <vlz:info xmlns:vlz="http://visuallibrary.net/vlz/1.0/" version="2"/>
+                                        <vls:topstruct>
+                                            <vls:node caption="Drucke" type="collection" otid="20951" rel="link">
+                                                <vls:node caption="Wirtschaft, Technik und Verkehr" type="classification" otid="5912519" rel="link"/>
+                                            </vls:node>
+                                        </vls:topstruct>
+                                    </mods:extension>
+                                    <mods:recordInfo>
+                                        <mods:recordCreationDate encoding="marc">28-01-20</mods:recordCreationDate>
+                                        <mods:recordChangeDate encoding="marc">26-10-20</mods:recordChangeDate>
+                                        <mods:recordIdentifier source="blbihd">1688650660</mods:recordIdentifier>
+                                        <mods:descriptionStandard>rda</mods:descriptionStandard>
+                                    </mods:recordInfo>
+                                </mods:mods>
+                            </mets:xmlData>
+                        </mets:mdWrap>
+                    </mets:dmdSec>
+                    <mets:amdSec ID="amd5654690">
+                        <mets:rightsMD ID="rights5654690">
+                            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                                <mets:xmlData>
+                                    <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                                        <dv:ownerLogo>https://digital.blb-karlsruhe.de//domainresource/static/graphics/connectors/viewerLogo.gif</dv:ownerLogo>
+                                        <dv:owner>Badische Landesbibliothek Karlsruhe</dv:owner>
+                                        <dv:ownerSiteURL>http://www.blb-karlsruhe.de/</dv:ownerSiteURL>
+                                        <dv:ownerContact>mailto:digitalisierung@blb-karlsruhe.de</dv:ownerContact>
+                                        <dv:license>cc-by-sa</dv:license>
+                                    </dv:rights>
+                                </mets:xmlData>
+                            </mets:mdWrap>
+                        </mets:rightsMD>
+                        <mets:digiprovMD ID="digiprov5654690">
+                            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                                <mets:xmlData>
+                                    <dv:links xmlns:dv="http://dfg-viewer.de/">
+                                        <dv:reference>https://blb.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&amp;sp=SOPAC00&amp;sp=SAKSWB-IdNr1688650660</dv:reference>
+                                        <dv:presentation>https://digital.blb-karlsruhe.de/id/5654690</dv:presentation>
+                                        <dv:iiif>https://digital.blb-karlsruhe.de/i3f/v20/5654690/manifest</dv:iiif>
+                                        <dv:sru>https://digital.blb-karlsruhe.de/proto_ftsearch/5654690</dv:sru>
+                                    </dv:links>
+                                </mets:xmlData>
+                            </mets:mdWrap>
+                        </mets:digiprovMD>
+                    </mets:amdSec>
+                    <mets:fileSec>
+                        <mets:fileGrp USE="DOWNLOAD">
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="b9958cfd549487a5430abe1f8bf2af553b3ffe16" CREATED="2020-09-19T03:42:59.480300Z" CHECKSUMTYPE="SHA-1" SIZE="3998747" ID="PDF_5654690">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/5654690" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="ba4e19f995010fd4bdaaf732dffed5bbe27b33fb" CREATED="2020-09-19T23:00:26.423100Z" CHECKSUMTYPE="SHA-1" SIZE="464151" ID="PDF_6090361">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090361" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="ec011295a7ff7fad216c4e66bd6cceac4b0aa295" CREATED="2020-09-19T23:00:30.525200Z" CHECKSUMTYPE="SHA-1" SIZE="126223" ID="PDF_6090368">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090368" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="5c338f023aebc1fc9da4416272a0e0aff06f4b13" CREATED="2020-09-19T23:00:27.997000Z" CHECKSUMTYPE="SHA-1" SIZE="743622" ID="PDF_6090363">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090363" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="8b55dd110481e784f6e812bd1fe31b5cf2510c12" CREATED="2020-09-19T23:00:28.730500Z" CHECKSUMTYPE="SHA-1" SIZE="758916" ID="PDF_6090364">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090364" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="7873459f366d315c7f88b0671da957348e07e9d6" CREATED="2020-09-19T23:00:29.341300Z" CHECKSUMTYPE="SHA-1" SIZE="784839" ID="PDF_6090365">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090365" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="f72f7a0a637aa66936dd1eaf4c6646b6042c92b8" CREATED="2020-09-19T23:00:29.977600Z" CHECKSUMTYPE="SHA-1" SIZE="928958" ID="PDF_6090366">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090366" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="application/pdf" CHECKSUM="77e3c94039f144e4ee89a043915902c10f61fcc2" CREATED="2020-09-19T23:00:27.072000Z" CHECKSUMTYPE="SHA-1" SIZE="547704" ID="PDF_6090362">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/pdf/6090362" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                        <mets:fileGrp USE="TEASER">
+                            <mets:file MIMETYPE="image/jpeg" CREATED="2020-09-16T08:07:50.662200Z" ID="IMG_TEASER_6089811">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/304/6089811" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                        <mets:fileGrp USE="DEFAULT">
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089809">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089809" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089810">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089810" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089811">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089811" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089812">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089812" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6091470">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6091470" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089813">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089813" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089814">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089814" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6091472">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6091472" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089815">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089815" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089816">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089816" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6091473">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6091473" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089817">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089817" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089818">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089818" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6091474">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6091474" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089819">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089819" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089820">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089820" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089821">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089821" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089822">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089822" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_DEFAULT_6089823">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/1000/6089823" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                        <mets:fileGrp USE="THUMBS">
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089809">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089809" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089810">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089810" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089811">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089811" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089812">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089812" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6091470">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6091470" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089813">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089813" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089814">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089814" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6091472">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6091472" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089815">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089815" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089816">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089816" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6091473">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6091473" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089817">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089817" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089818">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089818" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6091474">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6091474" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089819">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089819" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089820">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089820" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089821">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089821" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089822">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089822" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_THUMBS_6089823">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/128/6089823" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                        <mets:fileGrp USE="MIN">
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089809">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089809" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089810">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089810" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089811">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089811" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089812">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089812" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6091470">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6091470" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089813">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089813" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089814">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089814" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6091472">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6091472" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089815">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089815" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089816">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089816" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6091473">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6091473" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089817">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089817" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089818">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089818" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6091474">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6091474" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089819">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089819" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089820">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089820" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089821">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089821" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089822">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089822" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MIN_6089823">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/600/6089823" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                        <mets:fileGrp USE="MAX">
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089809">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089809" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089810">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089810" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089811">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089811" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089812">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089812" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6091470">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6091470" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089813">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089813" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089814">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089814" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6091472">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6091472" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089815">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089815" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089816">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089816" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6091473">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6091473" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089817">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089817" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089818">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089818" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6091474">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6091474" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089819">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089819" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089820">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089820" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089821">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089821" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089822">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089822" LOCTYPE="URL"/>
+                            </mets:file>
+                            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_6089823">
+                                <mets:FLocat xlink:href="https://digital.blb-karlsruhe.de/download/webcache/0/6089823" LOCTYPE="URL"/>
+                            </mets:file>
+                        </mets:fileGrp>
+                    </mets:fileSec>
+                    <mets:structMap TYPE="PHYSICAL">
+                        <mets:div TYPE="physSequence" ID="physroot">
+                            <mets:div ID="phys6089809" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089809" ORDER="1">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089809"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089809"/>
+                                <mets:fptr FILEID="IMG_MIN_6089809"/>
+                                <mets:fptr FILEID="IMG_MAX_6089809"/>
+                            </mets:div>
+                            <mets:div ID="phys6089810" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089810" ORDER="2">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089810"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089810"/>
+                                <mets:fptr FILEID="IMG_MIN_6089810"/>
+                                <mets:fptr FILEID="IMG_MAX_6089810"/>
+                            </mets:div>
+                            <mets:div ID="phys6089811" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089811" ORDER="3">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089811"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089811"/>
+                                <mets:fptr FILEID="IMG_MIN_6089811"/>
+                                <mets:fptr FILEID="IMG_MAX_6089811"/>
+                            </mets:div>
+                            <mets:div ID="phys6089812" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089812" ORDER="4">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089812"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089812"/>
+                                <mets:fptr FILEID="IMG_MIN_6089812"/>
+                                <mets:fptr FILEID="IMG_MAX_6089812"/>
+                            </mets:div>
+                            <mets:div ID="phys6091470" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6091470" ORDER="5">
+                                <mets:fptr FILEID="IMG_DEFAULT_6091470"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6091470"/>
+                                <mets:fptr FILEID="IMG_MIN_6091470"/>
+                                <mets:fptr FILEID="IMG_MAX_6091470"/>
+                            </mets:div>
+                            <mets:div ID="phys6089813" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089813" ORDER="6">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089813"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089813"/>
+                                <mets:fptr FILEID="IMG_MIN_6089813"/>
+                                <mets:fptr FILEID="IMG_MAX_6089813"/>
+                            </mets:div>
+                            <mets:div ID="phys6089814" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089814" ORDER="7">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089814"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089814"/>
+                                <mets:fptr FILEID="IMG_MIN_6089814"/>
+                                <mets:fptr FILEID="IMG_MAX_6089814"/>
+                            </mets:div>
+                            <mets:div ID="phys6091472" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6091472" ORDER="8">
+                                <mets:fptr FILEID="IMG_DEFAULT_6091472"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6091472"/>
+                                <mets:fptr FILEID="IMG_MIN_6091472"/>
+                                <mets:fptr FILEID="IMG_MAX_6091472"/>
+                            </mets:div>
+                            <mets:div ID="phys6089815" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089815" ORDER="9">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089815"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089815"/>
+                                <mets:fptr FILEID="IMG_MIN_6089815"/>
+                                <mets:fptr FILEID="IMG_MAX_6089815"/>
+                            </mets:div>
+                            <mets:div ID="phys6089816" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089816" ORDER="10">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089816"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089816"/>
+                                <mets:fptr FILEID="IMG_MIN_6089816"/>
+                                <mets:fptr FILEID="IMG_MAX_6089816"/>
+                            </mets:div>
+                            <mets:div ID="phys6091473" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6091473" ORDER="11">
+                                <mets:fptr FILEID="IMG_DEFAULT_6091473"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6091473"/>
+                                <mets:fptr FILEID="IMG_MIN_6091473"/>
+                                <mets:fptr FILEID="IMG_MAX_6091473"/>
+                            </mets:div>
+                            <mets:div ID="phys6089817" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089817" ORDER="12">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089817"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089817"/>
+                                <mets:fptr FILEID="IMG_MIN_6089817"/>
+                                <mets:fptr FILEID="IMG_MAX_6089817"/>
+                            </mets:div>
+                            <mets:div ID="phys6089818" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089818" ORDER="13">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089818"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089818"/>
+                                <mets:fptr FILEID="IMG_MIN_6089818"/>
+                                <mets:fptr FILEID="IMG_MAX_6089818"/>
+                            </mets:div>
+                            <mets:div ID="phys6091474" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6091474" ORDER="14">
+                                <mets:fptr FILEID="IMG_DEFAULT_6091474"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6091474"/>
+                                <mets:fptr FILEID="IMG_MIN_6091474"/>
+                                <mets:fptr FILEID="IMG_MAX_6091474"/>
+                            </mets:div>
+                            <mets:div ID="phys6089819" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089819" ORDER="15">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089819"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089819"/>
+                                <mets:fptr FILEID="IMG_MIN_6089819"/>
+                                <mets:fptr FILEID="IMG_MAX_6089819"/>
+                            </mets:div>
+                            <mets:div ID="phys6089820" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089820" ORDER="16">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089820"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089820"/>
+                                <mets:fptr FILEID="IMG_MIN_6089820"/>
+                                <mets:fptr FILEID="IMG_MAX_6089820"/>
+                            </mets:div>
+                            <mets:div ID="phys6089821" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089821" ORDER="17">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089821"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089821"/>
+                                <mets:fptr FILEID="IMG_MIN_6089821"/>
+                                <mets:fptr FILEID="IMG_MAX_6089821"/>
+                            </mets:div>
+                            <mets:div ID="phys6089822" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089822" ORDER="18">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089822"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089822"/>
+                                <mets:fptr FILEID="IMG_MIN_6089822"/>
+                                <mets:fptr FILEID="IMG_MAX_6089822"/>
+                            </mets:div>
+                            <mets:div ID="phys6089823" TYPE="page" LABEL="[Seite]" CONTENTIDS="urn:nbn:de:bsz:31-127413/fragment/page=6089823" ORDER="19">
+                                <mets:fptr FILEID="IMG_DEFAULT_6089823"/>
+                                <mets:fptr FILEID="IMG_THUMBS_6089823"/>
+                                <mets:fptr FILEID="IMG_MIN_6089823"/>
+                                <mets:fptr FILEID="IMG_MAX_6089823"/>
+                            </mets:div>
+                        </mets:div>
+                    </mets:structMap>
+                    <mets:structMap TYPE="LOGICAL">
+                        <mets:div ID="log5654690" DMDID="md5654690" ADMID="amd5654690" TYPE="monograph" LABEL="Karte der Badischen Eisenbahn von Mannheim bis Basel, in 4 Sectionen" ORDER="1" CONTENTIDS="urn:nbn:de:bsz:31-127413">
+                            <mets:fptr FILEID="PDF_5654690"/>
+                            <mets:fptr FILEID="IMG_TEASER_6089811"/>
+                            <mets:div ID="log6090361" TYPE="cover_front" ORDER="1">
+                                <mets:fptr FILEID="PDF_6090361"/>
+                            </mets:div>
+                            <mets:div ID="log6090368" TYPE="map" LABEL="Karte: Karte der Badischen Eisenbahn von Mannheim bis Basel&#13;&#10;" ORDER="2">
+                                <mets:fptr FILEID="PDF_6090368"/>
+                            </mets:div>
+                            <mets:div ID="log6090363" TYPE="map" LABEL="Karte: Mannheim- Karlsruhe &#13;&#10;" ORDER="3">
+                                <mets:fptr FILEID="PDF_6090363"/>
+                            </mets:div>
+                            <mets:div ID="log6090364" TYPE="map" LABEL="Karte: Rastatt- Offenburg- Kehl (Strassburg)&#13;&#10;" ORDER="4">
+                                <mets:fptr FILEID="PDF_6090364"/>
+                            </mets:div>
+                            <mets:div ID="log6090365" TYPE="map" LABEL="Karte: Offenburg- Freiburg" ORDER="5">
+                                <mets:fptr FILEID="PDF_6090365"/>
+                            </mets:div>
+                            <mets:div ID="log6090366" TYPE="map" LABEL="Karte: Freiburg- Basel" ORDER="6">
+                                <mets:fptr FILEID="PDF_6090366"/>
+                            </mets:div>
+                            <mets:div ID="log6090362" TYPE="cover_back" ORDER="7">
+                                <mets:fptr FILEID="PDF_6090362"/>
+                            </mets:div>
+                        </mets:div>
+                    </mets:structMap>
+                    <mets:structLink>
+                        <mets:smLink xlink:from="log5654690" xlink:to="physroot"/>
+                        <mets:smLink xlink:from="log6090361" xlink:to="phys6089809"/>
+                        <mets:smLink xlink:from="log6090361" xlink:to="phys6089810"/>
+                        <mets:smLink xlink:from="log6090368" xlink:to="phys6089811"/>
+                        <mets:smLink xlink:from="log6090368" xlink:to="phys6089812"/>
+                        <mets:smLink xlink:from="log6090363" xlink:to="phys6091470"/>
+                        <mets:smLink xlink:from="log6090363" xlink:to="phys6089813"/>
+                        <mets:smLink xlink:from="log6090363" xlink:to="phys6089814"/>
+                        <mets:smLink xlink:from="log6090364" xlink:to="phys6091472"/>
+                        <mets:smLink xlink:from="log6090364" xlink:to="phys6089815"/>
+                        <mets:smLink xlink:from="log6090364" xlink:to="phys6089816"/>
+                        <mets:smLink xlink:from="log6090365" xlink:to="phys6091473"/>
+                        <mets:smLink xlink:from="log6090365" xlink:to="phys6089817"/>
+                        <mets:smLink xlink:from="log6090365" xlink:to="phys6089818"/>
+                        <mets:smLink xlink:from="log6090366" xlink:to="phys6091474"/>
+                        <mets:smLink xlink:from="log6090366" xlink:to="phys6089819"/>
+                        <mets:smLink xlink:from="log6090366" xlink:to="phys6089820"/>
+                        <mets:smLink xlink:from="log6090366" xlink:to="phys6089821"/>
+                        <mets:smLink xlink:from="log6090362" xlink:to="phys6089822"/>
+                        <mets:smLink xlink:from="log6090362" xlink:to="phys6089823"/>
+                    </mets:structLink>
+                </mets:mets>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>

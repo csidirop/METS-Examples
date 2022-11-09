@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:zvdd="http://zvdd.gdz-cms.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd">
+    <mets:dmdSec ID="DMD">
+        <mets:mdWrap MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Einführung in das wissenschaftliche Studium - UEI Cod. sm 1194</title>
+                    </titleInfo>
+                    <titleInfo type="alternative">
+                        <title>Schellings Methode d. akademischen Studiums</title>
+                    </titleInfo>
+                    <titleInfo type="alternative">
+                        <title>des</title>
+                    </titleInfo>
+                    <name type="personal" usage="primary" valueURI="http://d-nb.info/gnd/118607057">
+                        <namePart type="given">Friedrich Wilhelm Joseph von</namePart>
+                        <namePart type="family">Schelling</namePart>
+                        <namePart type="date">1775-1854</namePart>
+                        <role>
+                            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" valueURI="http://d-nb.info/gnd/1154416704">
+                        <namePart type="given">Franz Anton</namePart>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="date">1809-1882</namePart>
+                        <role>
+                            <roleTerm type="text">Sonstige</roleTerm>
+                        </role>
+                        <role>
+                            <roleTerm authority="marcrelator" type="code">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource manuscript="yes">text</typeOfResource>
+                    <genre authority="gnd-content" valueURI="http://d-nb.info/gnd/4023287-6">Handschrift</genre>
+                    <language>
+                        <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent>104 Seiten 20,5 x 16,5 cm</extent>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <originInfo>
+                        <place>
+                            <placeTerm type="text">[München]</placeTerm>
+                        </place>
+                        <dateIssued>1828-1829</dateIssued>
+                        <dateIssued encoding="iso8601" keyDate="yes">1828</dateIssued>
+                    </originInfo>
+                    <originInfo>
+                        <edition>[Electronic ed.]</edition>
+                        <place>
+                            <placeTerm type="text">Eichstätt</placeTerm>
+                        </place>
+                        <publisher>Universitätsbibliothek Eichstätt</publisher>
+                        <dateCaptured encoding="iso8601">2018</dateCaptured>
+                    </originInfo>
+                    <note type="statement of responsibility" altRepGroup="00">Friedrich Wilhelm Joseph von Schelling ; [Schreiber] Fr. A. Richter, Cooperator</note>
+                    <note>Literatur: Kellner, Stephan: Die neuzeitlichen Handschriften der Universitätsbibliothek Eichstätt 3</note>
+                    <note>Kurzaufnahme einer Handschrift</note>
+                    <note>Umschlagtitel: Schellings Methode d. akademischen Studiums 1829</note>
+                    <location>
+                        <physicalLocation>Universitätsbibliothek Eichstätt</physicalLocation>
+                        <shelfLocator>Cod. sm 1194</shelfLocator>
+                        <url access="raw object">http://nbn-resolving.de/urn:nbn:de:bvb:824-cod-sm-1194-1</url>
+                    </location>
+                    <identifier type="uei-hss">Cod. sm 1194</identifier>
+                    <identifier type="oclc">1028908389</identifier>
+                    <identifier type="urn">urn:nbn:de:bvb:824-cod-sm-1194-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier source="bvbdigital">BV044863436</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:amdSec ID="AMD">
+        <mets:rightsMD ID="rightsMD">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Eichstätt-Ingolstadt</dv:owner>
+                        <dv:ownerLogo>http://digipool.bib-bvb.de/bvb/DFGViewer/logos/Logo-KU.jpg</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ku-eichstaett.de/Bibliothek</dv:ownerSiteURL>
+                    </dv:rights>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+        <mets:digiprovMD ID="digiprovMD">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                    <dv:links>
+                        <dv:reference>http://digipool.bib-bvb.de/extern/katalog/BV044863436</dv:reference>
+                        <dv:presentation>http://digipool.bib-bvb.de/extern/presentation/13400522</dv:presentation>
+                    </dv:links>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:digiprovMD>
+    </mets:amdSec>
+    <mets:fileSec>
+        <mets:fileGrp ID="Filegrp-1" USE="DEFAULT">
+            <mets:file ID="file_DTL329" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400523"/>
+            </mets:file>
+            <mets:file ID="file_DTL330" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400524"/>
+            </mets:file>
+            <mets:file ID="file_DTL334" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400525"/>
+            </mets:file>
+            <mets:file ID="file_DTL335" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400526"/>
+            </mets:file>
+            <mets:file ID="file_DTL336" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400527"/>
+            </mets:file>
+            <mets:file ID="file_DTL337" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400528"/>
+            </mets:file>
+            <mets:file ID="file_DTL338" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400529"/>
+            </mets:file>
+            <mets:file ID="file_DTL339" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400530"/>
+            </mets:file>
+            <mets:file ID="file_DTL340" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400531"/>
+            </mets:file>
+            <mets:file ID="file_DTL341" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400532"/>
+            </mets:file>
+            <mets:file ID="file_DTL342" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400533"/>
+            </mets:file>
+            <mets:file ID="file_DTL343" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400534"/>
+            </mets:file>
+            <mets:file ID="file_DTL344" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400535"/>
+            </mets:file>
+            <mets:file ID="file_DTL345" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400536"/>
+            </mets:file>
+            <mets:file ID="file_DTL346" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400537"/>
+            </mets:file>
+            <mets:file ID="file_DTL347" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400538"/>
+            </mets:file>
+            <mets:file ID="file_DTL348" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400539"/>
+            </mets:file>
+            <mets:file ID="file_DTL349" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400540"/>
+            </mets:file>
+            <mets:file ID="file_DTL350" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400541"/>
+            </mets:file>
+            <mets:file ID="file_DTL351" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400542"/>
+            </mets:file>
+            <mets:file ID="file_DTL352" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400543"/>
+            </mets:file>
+            <mets:file ID="file_DTL353" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400544"/>
+            </mets:file>
+            <mets:file ID="file_DTL354" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400545"/>
+            </mets:file>
+            <mets:file ID="file_DTL355" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400546"/>
+            </mets:file>
+            <mets:file ID="file_DTL356" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400547"/>
+            </mets:file>
+            <mets:file ID="file_DTL357" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400548"/>
+            </mets:file>
+            <mets:file ID="file_DTL358" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400549"/>
+            </mets:file>
+            <mets:file ID="file_DTL359" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400550"/>
+            </mets:file>
+            <mets:file ID="file_DTL360" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400551"/>
+            </mets:file>
+            <mets:file ID="file_DTL361" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400552"/>
+            </mets:file>
+            <mets:file ID="file_DTL362" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400553"/>
+            </mets:file>
+            <mets:file ID="file_DTL363" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400554"/>
+            </mets:file>
+            <mets:file ID="file_DTL364" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400555"/>
+            </mets:file>
+            <mets:file ID="file_DTL365" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400556"/>
+            </mets:file>
+            <mets:file ID="file_DTL366" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400557"/>
+            </mets:file>
+            <mets:file ID="file_DTL367" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400558"/>
+            </mets:file>
+            <mets:file ID="file_DTL368" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400559"/>
+            </mets:file>
+            <mets:file ID="file_DTL369" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400560"/>
+            </mets:file>
+            <mets:file ID="file_DTL370" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400561"/>
+            </mets:file>
+            <mets:file ID="file_DTL371" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400562"/>
+            </mets:file>
+            <mets:file ID="file_DTL372" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400563"/>
+            </mets:file>
+            <mets:file ID="file_DTL373" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400564"/>
+            </mets:file>
+            <mets:file ID="file_DTL374" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400565"/>
+            </mets:file>
+            <mets:file ID="file_DTL375" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400566"/>
+            </mets:file>
+            <mets:file ID="file_DTL376" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400567"/>
+            </mets:file>
+            <mets:file ID="file_DTL377" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400568"/>
+            </mets:file>
+            <mets:file ID="file_DTL378" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400569"/>
+            </mets:file>
+            <mets:file ID="file_DTL379" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400570"/>
+            </mets:file>
+            <mets:file ID="file_DTL380" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400571"/>
+            </mets:file>
+            <mets:file ID="file_DTL381" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400572"/>
+            </mets:file>
+            <mets:file ID="file_DTL382" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400573"/>
+            </mets:file>
+            <mets:file ID="file_DTL383" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400574"/>
+            </mets:file>
+            <mets:file ID="file_DTL384" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400575"/>
+            </mets:file>
+            <mets:file ID="file_DTL385" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400576"/>
+            </mets:file>
+            <mets:file ID="file_DTL386" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400577"/>
+            </mets:file>
+            <mets:file ID="file_DTL387" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400578"/>
+            </mets:file>
+            <mets:file ID="file_DTL388" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400579"/>
+            </mets:file>
+            <mets:file ID="file_DTL389" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400580"/>
+            </mets:file>
+            <mets:file ID="file_DTL390" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400581"/>
+            </mets:file>
+            <mets:file ID="file_DTL391" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400582"/>
+            </mets:file>
+            <mets:file ID="file_DTL392" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400583"/>
+            </mets:file>
+            <mets:file ID="file_DTL393" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400584"/>
+            </mets:file>
+            <mets:file ID="file_DTL394" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400585"/>
+            </mets:file>
+            <mets:file ID="file_DTL395" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400586"/>
+            </mets:file>
+            <mets:file ID="file_DTL396" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400587"/>
+            </mets:file>
+            <mets:file ID="file_DTL397" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400588"/>
+            </mets:file>
+            <mets:file ID="file_DTL398" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400589"/>
+            </mets:file>
+            <mets:file ID="file_DTL399" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400590"/>
+            </mets:file>
+            <mets:file ID="file_DTL400" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400591"/>
+            </mets:file>
+            <mets:file ID="file_DTL401" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400592"/>
+            </mets:file>
+            <mets:file ID="file_DTL402" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400593"/>
+            </mets:file>
+            <mets:file ID="file_DTL403" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400594"/>
+            </mets:file>
+            <mets:file ID="file_DTL404" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400595"/>
+            </mets:file>
+            <mets:file ID="file_DTL405" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400596"/>
+            </mets:file>
+            <mets:file ID="file_DTL406" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400597"/>
+            </mets:file>
+            <mets:file ID="file_DTL407" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400598"/>
+            </mets:file>
+            <mets:file ID="file_DTL408" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400599"/>
+            </mets:file>
+            <mets:file ID="file_DTL409" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400600"/>
+            </mets:file>
+            <mets:file ID="file_DTL410" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400601"/>
+            </mets:file>
+            <mets:file ID="file_DTL411" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400602"/>
+            </mets:file>
+            <mets:file ID="file_DTL412" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400603"/>
+            </mets:file>
+            <mets:file ID="file_DTL413" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400604"/>
+            </mets:file>
+            <mets:file ID="file_DTL414" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400605"/>
+            </mets:file>
+            <mets:file ID="file_DTL415" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400606"/>
+            </mets:file>
+            <mets:file ID="file_DTL416" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400607"/>
+            </mets:file>
+            <mets:file ID="file_DTL417" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400608"/>
+            </mets:file>
+            <mets:file ID="file_DTL418" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400609"/>
+            </mets:file>
+            <mets:file ID="file_DTL419" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400610"/>
+            </mets:file>
+            <mets:file ID="file_DTL420" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400611"/>
+            </mets:file>
+            <mets:file ID="file_DTL421" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400612"/>
+            </mets:file>
+            <mets:file ID="file_DTL422" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400613"/>
+            </mets:file>
+            <mets:file ID="file_DTL423" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400614"/>
+            </mets:file>
+            <mets:file ID="file_DTL424" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400615"/>
+            </mets:file>
+            <mets:file ID="file_DTL425" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400616"/>
+            </mets:file>
+            <mets:file ID="file_DTL426" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400617"/>
+            </mets:file>
+            <mets:file ID="file_DTL427" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400618"/>
+            </mets:file>
+            <mets:file ID="file_DTL428" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400619"/>
+            </mets:file>
+            <mets:file ID="file_DTL429" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400620"/>
+            </mets:file>
+            <mets:file ID="file_DTL430" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400621"/>
+            </mets:file>
+            <mets:file ID="file_DTL431" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400622"/>
+            </mets:file>
+            <mets:file ID="file_DTL432" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400623"/>
+            </mets:file>
+            <mets:file ID="file_DTL433" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400624"/>
+            </mets:file>
+            <mets:file ID="file_DTL434" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400625"/>
+            </mets:file>
+            <mets:file ID="file_DTL435" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400626"/>
+            </mets:file>
+            <mets:file ID="file_DTL436" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400627"/>
+            </mets:file>
+            <mets:file ID="file_DTL437" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400628"/>
+            </mets:file>
+            <mets:file ID="file_DTL438" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400629"/>
+            </mets:file>
+            <mets:file ID="file_DTL333" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/view/13400630"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp ID="Filegrp-2" USE="THUMBS">
+            <mets:file ID="thumb_DTL329" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400523"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL330" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400524"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL334" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400525"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL335" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400526"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL336" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400527"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL337" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400528"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL338" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400529"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL339" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400530"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL340" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400531"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL341" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400532"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL342" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400533"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL343" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400534"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL344" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400535"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL345" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400536"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL346" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400537"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL347" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400538"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL348" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400539"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL349" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400540"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL350" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400541"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL351" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400542"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL352" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400543"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL353" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400544"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL354" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400545"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL355" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400546"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL356" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400547"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL357" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400548"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL358" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400549"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL359" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400550"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL360" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400551"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL361" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400552"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL362" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400553"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL363" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400554"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL364" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400555"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL365" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400556"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL366" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400557"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL367" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400558"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL368" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400559"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL369" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400560"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL370" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400561"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL371" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400562"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL372" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400563"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL373" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400564"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL374" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400565"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL375" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400566"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL376" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400567"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL377" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400568"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL378" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400569"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL379" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400570"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL380" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400571"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL381" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400572"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL382" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400573"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL383" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400574"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL384" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400575"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL385" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400576"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL386" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400577"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL387" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400578"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL388" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400579"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL389" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400580"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL390" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400581"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL391" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400582"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL392" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400583"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL393" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400584"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL394" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400585"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL395" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400586"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL396" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400587"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL397" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400588"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL398" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400589"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL399" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400590"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL400" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400591"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL401" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400592"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL402" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400593"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL403" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400594"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL404" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400595"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL405" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400596"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL406" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400597"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL407" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400598"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL408" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400599"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL409" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400600"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL410" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400601"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL411" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400602"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL412" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400603"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL413" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400604"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL414" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400605"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL415" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400606"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL416" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400607"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL417" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400608"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL418" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400609"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL419" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400610"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL420" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400611"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL421" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400612"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL422" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400613"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL423" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400614"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL424" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400615"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL425" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400616"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL426" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400617"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL427" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400618"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL428" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400619"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL429" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400620"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL430" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400621"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL431" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400622"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL432" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400623"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL433" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400624"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL434" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400625"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL435" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400626"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL436" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400627"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL437" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400628"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL438" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400629"/>
+            </mets:file>
+            <mets:file ID="thumb_DTL333" MIMETYPE="image/gif">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400630"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp ID="Filegrp-3" USE="DOWNLOAD">
+            <mets:file ID="PDF">
+                <mets:FLocat xlink:href="http://digipool.bib-bvb.de/extern/download/13400522"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp ID="Filegrp-4" USE="TEASER">
+            <mets:file ID="Thumbnail">
+                <mets:FLocat xlink:href="http://digipool.bib-bvb.de/extern/thumb/13400522"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="PHYSICAL">
+        <mets:div ID="phys" TYPE="physSequence">
+            <mets:div ID="pDTL329" ORDER="1" ORDERLABEL="Vorderdeckel mit Umschlagtitel" TYPE="page" LABEL="Vorderdeckel mit Umschlagtitel">
+                <mets:fptr FILEID="file_DTL329"/>
+                <mets:fptr FILEID="thumb_DTL329"/>
+            </mets:div>
+            <mets:div ID="pDTL330" ORDER="2" ORDERLABEL="Vorderer Spiegel / Exlibris" TYPE="page" LABEL="Vorderer Spiegel / Exlibris">
+                <mets:fptr FILEID="file_DTL330"/>
+                <mets:fptr FILEID="thumb_DTL330"/>
+            </mets:div>
+            <mets:div ID="pDTL334" ORDER="3" ORDERLABEL="1" TYPE="page" LABEL="1">
+                <mets:fptr FILEID="file_DTL334"/>
+                <mets:fptr FILEID="thumb_DTL334"/>
+            </mets:div>
+            <mets:div ID="pDTL335" ORDER="4" ORDERLABEL="2" TYPE="page" LABEL="2">
+                <mets:fptr FILEID="file_DTL335"/>
+                <mets:fptr FILEID="thumb_DTL335"/>
+            </mets:div>
+            <mets:div ID="pDTL336" ORDER="5" ORDERLABEL="3" TYPE="page" LABEL="3">
+                <mets:fptr FILEID="file_DTL336"/>
+                <mets:fptr FILEID="thumb_DTL336"/>
+            </mets:div>
+            <mets:div ID="pDTL337" ORDER="6" ORDERLABEL="4" TYPE="page" LABEL="4">
+                <mets:fptr FILEID="file_DTL337"/>
+                <mets:fptr FILEID="thumb_DTL337"/>
+            </mets:div>
+            <mets:div ID="pDTL338" ORDER="7" ORDERLABEL="5" TYPE="page" LABEL="5">
+                <mets:fptr FILEID="file_DTL338"/>
+                <mets:fptr FILEID="thumb_DTL338"/>
+            </mets:div>
+            <mets:div ID="pDTL339" ORDER="8" ORDERLABEL="6" TYPE="page" LABEL="6">
+                <mets:fptr FILEID="file_DTL339"/>
+                <mets:fptr FILEID="thumb_DTL339"/>
+            </mets:div>
+            <mets:div ID="pDTL340" ORDER="9" ORDERLABEL="7" TYPE="page" LABEL="7">
+                <mets:fptr FILEID="file_DTL340"/>
+                <mets:fptr FILEID="thumb_DTL340"/>
+            </mets:div>
+            <mets:div ID="pDTL341" ORDER="10" ORDERLABEL="8" TYPE="page" LABEL="8">
+                <mets:fptr FILEID="file_DTL341"/>
+                <mets:fptr FILEID="thumb_DTL341"/>
+            </mets:div>
+            <mets:div ID="pDTL342" ORDER="11" ORDERLABEL="9" TYPE="page" LABEL="9">
+                <mets:fptr FILEID="file_DTL342"/>
+                <mets:fptr FILEID="thumb_DTL342"/>
+            </mets:div>
+            <mets:div ID="pDTL343" ORDER="12" ORDERLABEL="10" TYPE="page" LABEL="10">
+                <mets:fptr FILEID="file_DTL343"/>
+                <mets:fptr FILEID="thumb_DTL343"/>
+            </mets:div>
+            <mets:div ID="pDTL344" ORDER="13" ORDERLABEL="11" TYPE="page" LABEL="11">
+                <mets:fptr FILEID="file_DTL344"/>
+                <mets:fptr FILEID="thumb_DTL344"/>
+            </mets:div>
+            <mets:div ID="pDTL345" ORDER="14" ORDERLABEL="12" TYPE="page" LABEL="12">
+                <mets:fptr FILEID="file_DTL345"/>
+                <mets:fptr FILEID="thumb_DTL345"/>
+            </mets:div>
+            <mets:div ID="pDTL346" ORDER="15" ORDERLABEL="13" TYPE="page" LABEL="13">
+                <mets:fptr FILEID="file_DTL346"/>
+                <mets:fptr FILEID="thumb_DTL346"/>
+            </mets:div>
+            <mets:div ID="pDTL347" ORDER="16" ORDERLABEL="14" TYPE="page" LABEL="14">
+                <mets:fptr FILEID="file_DTL347"/>
+                <mets:fptr FILEID="thumb_DTL347"/>
+            </mets:div>
+            <mets:div ID="pDTL348" ORDER="17" ORDERLABEL="15" TYPE="page" LABEL="15">
+                <mets:fptr FILEID="file_DTL348"/>
+                <mets:fptr FILEID="thumb_DTL348"/>
+            </mets:div>
+            <mets:div ID="pDTL349" ORDER="18" ORDERLABEL="16" TYPE="page" LABEL="16">
+                <mets:fptr FILEID="file_DTL349"/>
+                <mets:fptr FILEID="thumb_DTL349"/>
+            </mets:div>
+            <mets:div ID="pDTL350" ORDER="19" ORDERLABEL="17" TYPE="page" LABEL="17">
+                <mets:fptr FILEID="file_DTL350"/>
+                <mets:fptr FILEID="thumb_DTL350"/>
+            </mets:div>
+            <mets:div ID="pDTL351" ORDER="20" ORDERLABEL="18" TYPE="page" LABEL="18">
+                <mets:fptr FILEID="file_DTL351"/>
+                <mets:fptr FILEID="thumb_DTL351"/>
+            </mets:div>
+            <mets:div ID="pDTL352" ORDER="21" ORDERLABEL="19" TYPE="page" LABEL="19">
+                <mets:fptr FILEID="file_DTL352"/>
+                <mets:fptr FILEID="thumb_DTL352"/>
+            </mets:div>
+            <mets:div ID="pDTL353" ORDER="22" ORDERLABEL="20" TYPE="page" LABEL="20">
+                <mets:fptr FILEID="file_DTL353"/>
+                <mets:fptr FILEID="thumb_DTL353"/>
+            </mets:div>
+            <mets:div ID="pDTL354" ORDER="23" ORDERLABEL="21" TYPE="page" LABEL="21">
+                <mets:fptr FILEID="file_DTL354"/>
+                <mets:fptr FILEID="thumb_DTL354"/>
+            </mets:div>
+            <mets:div ID="pDTL355" ORDER="24" ORDERLABEL="22" TYPE="page" LABEL="22">
+                <mets:fptr FILEID="file_DTL355"/>
+                <mets:fptr FILEID="thumb_DTL355"/>
+            </mets:div>
+            <mets:div ID="pDTL356" ORDER="25" ORDERLABEL="23" TYPE="page" LABEL="23">
+                <mets:fptr FILEID="file_DTL356"/>
+                <mets:fptr FILEID="thumb_DTL356"/>
+            </mets:div>
+            <mets:div ID="pDTL357" ORDER="26" ORDERLABEL="24" TYPE="page" LABEL="24">
+                <mets:fptr FILEID="file_DTL357"/>
+                <mets:fptr FILEID="thumb_DTL357"/>
+            </mets:div>
+            <mets:div ID="pDTL358" ORDER="27" ORDERLABEL="25" TYPE="page" LABEL="25">
+                <mets:fptr FILEID="file_DTL358"/>
+                <mets:fptr FILEID="thumb_DTL358"/>
+            </mets:div>
+            <mets:div ID="pDTL359" ORDER="28" ORDERLABEL="26" TYPE="page" LABEL="26">
+                <mets:fptr FILEID="file_DTL359"/>
+                <mets:fptr FILEID="thumb_DTL359"/>
+            </mets:div>
+            <mets:div ID="pDTL360" ORDER="29" ORDERLABEL="27" TYPE="page" LABEL="27">
+                <mets:fptr FILEID="file_DTL360"/>
+                <mets:fptr FILEID="thumb_DTL360"/>
+            </mets:div>
+            <mets:div ID="pDTL361" ORDER="30" ORDERLABEL="28" TYPE="page" LABEL="28">
+                <mets:fptr FILEID="file_DTL361"/>
+                <mets:fptr FILEID="thumb_DTL361"/>
+            </mets:div>
+            <mets:div ID="pDTL362" ORDER="31" ORDERLABEL="29" TYPE="page" LABEL="29">
+                <mets:fptr FILEID="file_DTL362"/>
+                <mets:fptr FILEID="thumb_DTL362"/>
+            </mets:div>
+            <mets:div ID="pDTL363" ORDER="32" ORDERLABEL="30" TYPE="page" LABEL="30">
+                <mets:fptr FILEID="file_DTL363"/>
+                <mets:fptr FILEID="thumb_DTL363"/>
+            </mets:div>
+            <mets:div ID="pDTL364" ORDER="33" ORDERLABEL="31" TYPE="page" LABEL="31">
+                <mets:fptr FILEID="file_DTL364"/>
+                <mets:fptr FILEID="thumb_DTL364"/>
+            </mets:div>
+            <mets:div ID="pDTL365" ORDER="34" ORDERLABEL="32" TYPE="page" LABEL="32">
+                <mets:fptr FILEID="file_DTL365"/>
+                <mets:fptr FILEID="thumb_DTL365"/>
+            </mets:div>
+            <mets:div ID="pDTL366" ORDER="35" ORDERLABEL="33" TYPE="page" LABEL="33">
+                <mets:fptr FILEID="file_DTL366"/>
+                <mets:fptr FILEID="thumb_DTL366"/>
+            </mets:div>
+            <mets:div ID="pDTL367" ORDER="36" ORDERLABEL="34" TYPE="page" LABEL="34">
+                <mets:fptr FILEID="file_DTL367"/>
+                <mets:fptr FILEID="thumb_DTL367"/>
+            </mets:div>
+            <mets:div ID="pDTL368" ORDER="37" ORDERLABEL="35" TYPE="page" LABEL="35">
+                <mets:fptr FILEID="file_DTL368"/>
+                <mets:fptr FILEID="thumb_DTL368"/>
+            </mets:div>
+            <mets:div ID="pDTL369" ORDER="38" ORDERLABEL="36" TYPE="page" LABEL="36">
+                <mets:fptr FILEID="file_DTL369"/>
+                <mets:fptr FILEID="thumb_DTL369"/>
+            </mets:div>
+            <mets:div ID="pDTL370" ORDER="39" ORDERLABEL="37" TYPE="page" LABEL="37">
+                <mets:fptr FILEID="file_DTL370"/>
+                <mets:fptr FILEID="thumb_DTL370"/>
+            </mets:div>
+            <mets:div ID="pDTL371" ORDER="40" ORDERLABEL="38" TYPE="page" LABEL="38">
+                <mets:fptr FILEID="file_DTL371"/>
+                <mets:fptr FILEID="thumb_DTL371"/>
+            </mets:div>
+            <mets:div ID="pDTL372" ORDER="41" ORDERLABEL="39" TYPE="page" LABEL="39">
+                <mets:fptr FILEID="file_DTL372"/>
+                <mets:fptr FILEID="thumb_DTL372"/>
+            </mets:div>
+            <mets:div ID="pDTL373" ORDER="42" ORDERLABEL="40" TYPE="page" LABEL="40">
+                <mets:fptr FILEID="file_DTL373"/>
+                <mets:fptr FILEID="thumb_DTL373"/>
+            </mets:div>
+            <mets:div ID="pDTL374" ORDER="43" ORDERLABEL="41" TYPE="page" LABEL="41">
+                <mets:fptr FILEID="file_DTL374"/>
+                <mets:fptr FILEID="thumb_DTL374"/>
+            </mets:div>
+            <mets:div ID="pDTL375" ORDER="44" ORDERLABEL="42" TYPE="page" LABEL="42">
+                <mets:fptr FILEID="file_DTL375"/>
+                <mets:fptr FILEID="thumb_DTL375"/>
+            </mets:div>
+            <mets:div ID="pDTL376" ORDER="45" ORDERLABEL="43" TYPE="page" LABEL="43">
+                <mets:fptr FILEID="file_DTL376"/>
+                <mets:fptr FILEID="thumb_DTL376"/>
+            </mets:div>
+            <mets:div ID="pDTL377" ORDER="46" ORDERLABEL="44" TYPE="page" LABEL="44">
+                <mets:fptr FILEID="file_DTL377"/>
+                <mets:fptr FILEID="thumb_DTL377"/>
+            </mets:div>
+            <mets:div ID="pDTL378" ORDER="47" ORDERLABEL="45" TYPE="page" LABEL="45">
+                <mets:fptr FILEID="file_DTL378"/>
+                <mets:fptr FILEID="thumb_DTL378"/>
+            </mets:div>
+            <mets:div ID="pDTL379" ORDER="48" ORDERLABEL="46" TYPE="page" LABEL="46">
+                <mets:fptr FILEID="file_DTL379"/>
+                <mets:fptr FILEID="thumb_DTL379"/>
+            </mets:div>
+            <mets:div ID="pDTL380" ORDER="49" ORDERLABEL="47" TYPE="page" LABEL="47">
+                <mets:fptr FILEID="file_DTL380"/>
+                <mets:fptr FILEID="thumb_DTL380"/>
+            </mets:div>
+            <mets:div ID="pDTL381" ORDER="50" ORDERLABEL="48" TYPE="page" LABEL="48">
+                <mets:fptr FILEID="file_DTL381"/>
+                <mets:fptr FILEID="thumb_DTL381"/>
+            </mets:div>
+            <mets:div ID="pDTL382" ORDER="51" ORDERLABEL="49" TYPE="page" LABEL="49">
+                <mets:fptr FILEID="file_DTL382"/>
+                <mets:fptr FILEID="thumb_DTL382"/>
+            </mets:div>
+            <mets:div ID="pDTL383" ORDER="52" ORDERLABEL="50" TYPE="page" LABEL="50">
+                <mets:fptr FILEID="file_DTL383"/>
+                <mets:fptr FILEID="thumb_DTL383"/>
+            </mets:div>
+            <mets:div ID="pDTL384" ORDER="53" ORDERLABEL="51" TYPE="page" LABEL="51">
+                <mets:fptr FILEID="file_DTL384"/>
+                <mets:fptr FILEID="thumb_DTL384"/>
+            </mets:div>
+            <mets:div ID="pDTL385" ORDER="54" ORDERLABEL="52" TYPE="page" LABEL="52">
+                <mets:fptr FILEID="file_DTL385"/>
+                <mets:fptr FILEID="thumb_DTL385"/>
+            </mets:div>
+            <mets:div ID="pDTL386" ORDER="55" ORDERLABEL="53" TYPE="page" LABEL="53">
+                <mets:fptr FILEID="file_DTL386"/>
+                <mets:fptr FILEID="thumb_DTL386"/>
+            </mets:div>
+            <mets:div ID="pDTL387" ORDER="56" ORDERLABEL="54" TYPE="page" LABEL="54">
+                <mets:fptr FILEID="file_DTL387"/>
+                <mets:fptr FILEID="thumb_DTL387"/>
+            </mets:div>
+            <mets:div ID="pDTL388" ORDER="57" ORDERLABEL="55" TYPE="page" LABEL="55">
+                <mets:fptr FILEID="file_DTL388"/>
+                <mets:fptr FILEID="thumb_DTL388"/>
+            </mets:div>
+            <mets:div ID="pDTL389" ORDER="58" ORDERLABEL="56" TYPE="page" LABEL="56">
+                <mets:fptr FILEID="file_DTL389"/>
+                <mets:fptr FILEID="thumb_DTL389"/>
+            </mets:div>
+            <mets:div ID="pDTL390" ORDER="59" ORDERLABEL="57" TYPE="page" LABEL="57">
+                <mets:fptr FILEID="file_DTL390"/>
+                <mets:fptr FILEID="thumb_DTL390"/>
+            </mets:div>
+            <mets:div ID="pDTL391" ORDER="60" ORDERLABEL="58" TYPE="page" LABEL="58">
+                <mets:fptr FILEID="file_DTL391"/>
+                <mets:fptr FILEID="thumb_DTL391"/>
+            </mets:div>
+            <mets:div ID="pDTL392" ORDER="61" ORDERLABEL="59" TYPE="page" LABEL="59">
+                <mets:fptr FILEID="file_DTL392"/>
+                <mets:fptr FILEID="thumb_DTL392"/>
+            </mets:div>
+            <mets:div ID="pDTL393" ORDER="62" ORDERLABEL="60" TYPE="page" LABEL="60">
+                <mets:fptr FILEID="file_DTL393"/>
+                <mets:fptr FILEID="thumb_DTL393"/>
+            </mets:div>
+            <mets:div ID="pDTL394" ORDER="63" ORDERLABEL="61" TYPE="page" LABEL="61">
+                <mets:fptr FILEID="file_DTL394"/>
+                <mets:fptr FILEID="thumb_DTL394"/>
+            </mets:div>
+            <mets:div ID="pDTL395" ORDER="64" ORDERLABEL="62" TYPE="page" LABEL="62">
+                <mets:fptr FILEID="file_DTL395"/>
+                <mets:fptr FILEID="thumb_DTL395"/>
+            </mets:div>
+            <mets:div ID="pDTL396" ORDER="65" ORDERLABEL="63" TYPE="page" LABEL="63">
+                <mets:fptr FILEID="file_DTL396"/>
+                <mets:fptr FILEID="thumb_DTL396"/>
+            </mets:div>
+            <mets:div ID="pDTL397" ORDER="66" ORDERLABEL="64" TYPE="page" LABEL="64">
+                <mets:fptr FILEID="file_DTL397"/>
+                <mets:fptr FILEID="thumb_DTL397"/>
+            </mets:div>
+            <mets:div ID="pDTL398" ORDER="67" ORDERLABEL="65" TYPE="page" LABEL="65">
+                <mets:fptr FILEID="file_DTL398"/>
+                <mets:fptr FILEID="thumb_DTL398"/>
+            </mets:div>
+            <mets:div ID="pDTL399" ORDER="68" ORDERLABEL="66" TYPE="page" LABEL="66">
+                <mets:fptr FILEID="file_DTL399"/>
+                <mets:fptr FILEID="thumb_DTL399"/>
+            </mets:div>
+            <mets:div ID="pDTL400" ORDER="69" ORDERLABEL="67" TYPE="page" LABEL="67">
+                <mets:fptr FILEID="file_DTL400"/>
+                <mets:fptr FILEID="thumb_DTL400"/>
+            </mets:div>
+            <mets:div ID="pDTL401" ORDER="70" ORDERLABEL="68" TYPE="page" LABEL="68">
+                <mets:fptr FILEID="file_DTL401"/>
+                <mets:fptr FILEID="thumb_DTL401"/>
+            </mets:div>
+            <mets:div ID="pDTL402" ORDER="71" ORDERLABEL="69" TYPE="page" LABEL="69">
+                <mets:fptr FILEID="file_DTL402"/>
+                <mets:fptr FILEID="thumb_DTL402"/>
+            </mets:div>
+            <mets:div ID="pDTL403" ORDER="72" ORDERLABEL="70" TYPE="page" LABEL="70">
+                <mets:fptr FILEID="file_DTL403"/>
+                <mets:fptr FILEID="thumb_DTL403"/>
+            </mets:div>
+            <mets:div ID="pDTL404" ORDER="73" ORDERLABEL="71" TYPE="page" LABEL="71">
+                <mets:fptr FILEID="file_DTL404"/>
+                <mets:fptr FILEID="thumb_DTL404"/>
+            </mets:div>
+            <mets:div ID="pDTL405" ORDER="74" ORDERLABEL="72" TYPE="page" LABEL="72">
+                <mets:fptr FILEID="file_DTL405"/>
+                <mets:fptr FILEID="thumb_DTL405"/>
+            </mets:div>
+            <mets:div ID="pDTL406" ORDER="75" ORDERLABEL="73" TYPE="page" LABEL="73">
+                <mets:fptr FILEID="file_DTL406"/>
+                <mets:fptr FILEID="thumb_DTL406"/>
+            </mets:div>
+            <mets:div ID="pDTL407" ORDER="76" ORDERLABEL="74" TYPE="page" LABEL="74">
+                <mets:fptr FILEID="file_DTL407"/>
+                <mets:fptr FILEID="thumb_DTL407"/>
+            </mets:div>
+            <mets:div ID="pDTL408" ORDER="77" ORDERLABEL="75" TYPE="page" LABEL="75">
+                <mets:fptr FILEID="file_DTL408"/>
+                <mets:fptr FILEID="thumb_DTL408"/>
+            </mets:div>
+            <mets:div ID="pDTL409" ORDER="78" ORDERLABEL="76" TYPE="page" LABEL="76">
+                <mets:fptr FILEID="file_DTL409"/>
+                <mets:fptr FILEID="thumb_DTL409"/>
+            </mets:div>
+            <mets:div ID="pDTL410" ORDER="79" ORDERLABEL="77" TYPE="page" LABEL="77">
+                <mets:fptr FILEID="file_DTL410"/>
+                <mets:fptr FILEID="thumb_DTL410"/>
+            </mets:div>
+            <mets:div ID="pDTL411" ORDER="80" ORDERLABEL="78" TYPE="page" LABEL="78">
+                <mets:fptr FILEID="file_DTL411"/>
+                <mets:fptr FILEID="thumb_DTL411"/>
+            </mets:div>
+            <mets:div ID="pDTL412" ORDER="81" ORDERLABEL="79" TYPE="page" LABEL="79">
+                <mets:fptr FILEID="file_DTL412"/>
+                <mets:fptr FILEID="thumb_DTL412"/>
+            </mets:div>
+            <mets:div ID="pDTL413" ORDER="82" ORDERLABEL="80" TYPE="page" LABEL="80">
+                <mets:fptr FILEID="file_DTL413"/>
+                <mets:fptr FILEID="thumb_DTL413"/>
+            </mets:div>
+            <mets:div ID="pDTL414" ORDER="83" ORDERLABEL="81" TYPE="page" LABEL="81">
+                <mets:fptr FILEID="file_DTL414"/>
+                <mets:fptr FILEID="thumb_DTL414"/>
+            </mets:div>
+            <mets:div ID="pDTL415" ORDER="84" ORDERLABEL="82" TYPE="page" LABEL="82">
+                <mets:fptr FILEID="file_DTL415"/>
+                <mets:fptr FILEID="thumb_DTL415"/>
+            </mets:div>
+            <mets:div ID="pDTL416" ORDER="85" ORDERLABEL="83" TYPE="page" LABEL="83">
+                <mets:fptr FILEID="file_DTL416"/>
+                <mets:fptr FILEID="thumb_DTL416"/>
+            </mets:div>
+            <mets:div ID="pDTL417" ORDER="86" ORDERLABEL="84" TYPE="page" LABEL="84">
+                <mets:fptr FILEID="file_DTL417"/>
+                <mets:fptr FILEID="thumb_DTL417"/>
+            </mets:div>
+            <mets:div ID="pDTL418" ORDER="87" ORDERLABEL="85" TYPE="page" LABEL="85">
+                <mets:fptr FILEID="file_DTL418"/>
+                <mets:fptr FILEID="thumb_DTL418"/>
+            </mets:div>
+            <mets:div ID="pDTL419" ORDER="88" ORDERLABEL="86" TYPE="page" LABEL="86">
+                <mets:fptr FILEID="file_DTL419"/>
+                <mets:fptr FILEID="thumb_DTL419"/>
+            </mets:div>
+            <mets:div ID="pDTL420" ORDER="89" ORDERLABEL="87" TYPE="page" LABEL="87">
+                <mets:fptr FILEID="file_DTL420"/>
+                <mets:fptr FILEID="thumb_DTL420"/>
+            </mets:div>
+            <mets:div ID="pDTL421" ORDER="90" ORDERLABEL="88" TYPE="page" LABEL="88">
+                <mets:fptr FILEID="file_DTL421"/>
+                <mets:fptr FILEID="thumb_DTL421"/>
+            </mets:div>
+            <mets:div ID="pDTL422" ORDER="91" ORDERLABEL="89" TYPE="page" LABEL="89">
+                <mets:fptr FILEID="file_DTL422"/>
+                <mets:fptr FILEID="thumb_DTL422"/>
+            </mets:div>
+            <mets:div ID="pDTL423" ORDER="92" ORDERLABEL="90" TYPE="page" LABEL="90">
+                <mets:fptr FILEID="file_DTL423"/>
+                <mets:fptr FILEID="thumb_DTL423"/>
+            </mets:div>
+            <mets:div ID="pDTL424" ORDER="93" ORDERLABEL="91" TYPE="page" LABEL="91">
+                <mets:fptr FILEID="file_DTL424"/>
+                <mets:fptr FILEID="thumb_DTL424"/>
+            </mets:div>
+            <mets:div ID="pDTL425" ORDER="94" ORDERLABEL="92" TYPE="page" LABEL="92">
+                <mets:fptr FILEID="file_DTL425"/>
+                <mets:fptr FILEID="thumb_DTL425"/>
+            </mets:div>
+            <mets:div ID="pDTL426" ORDER="95" ORDERLABEL="93" TYPE="page" LABEL="93">
+                <mets:fptr FILEID="file_DTL426"/>
+                <mets:fptr FILEID="thumb_DTL426"/>
+            </mets:div>
+            <mets:div ID="pDTL427" ORDER="96" ORDERLABEL="94" TYPE="page" LABEL="94">
+                <mets:fptr FILEID="file_DTL427"/>
+                <mets:fptr FILEID="thumb_DTL427"/>
+            </mets:div>
+            <mets:div ID="pDTL428" ORDER="97" ORDERLABEL="95" TYPE="page" LABEL="95">
+                <mets:fptr FILEID="file_DTL428"/>
+                <mets:fptr FILEID="thumb_DTL428"/>
+            </mets:div>
+            <mets:div ID="pDTL429" ORDER="98" ORDERLABEL="96" TYPE="page" LABEL="96">
+                <mets:fptr FILEID="file_DTL429"/>
+                <mets:fptr FILEID="thumb_DTL429"/>
+            </mets:div>
+            <mets:div ID="pDTL430" ORDER="99" ORDERLABEL="97" TYPE="page" LABEL="97">
+                <mets:fptr FILEID="file_DTL430"/>
+                <mets:fptr FILEID="thumb_DTL430"/>
+            </mets:div>
+            <mets:div ID="pDTL431" ORDER="100" ORDERLABEL="98" TYPE="page" LABEL="98">
+                <mets:fptr FILEID="file_DTL431"/>
+                <mets:fptr FILEID="thumb_DTL431"/>
+            </mets:div>
+            <mets:div ID="pDTL432" ORDER="101" ORDERLABEL="99" TYPE="page" LABEL="99">
+                <mets:fptr FILEID="file_DTL432"/>
+                <mets:fptr FILEID="thumb_DTL432"/>
+            </mets:div>
+            <mets:div ID="pDTL433" ORDER="102" ORDERLABEL="100" TYPE="page" LABEL="100">
+                <mets:fptr FILEID="file_DTL433"/>
+                <mets:fptr FILEID="thumb_DTL433"/>
+            </mets:div>
+            <mets:div ID="pDTL434" ORDER="103" ORDERLABEL="101" TYPE="page" LABEL="101">
+                <mets:fptr FILEID="file_DTL434"/>
+                <mets:fptr FILEID="thumb_DTL434"/>
+            </mets:div>
+            <mets:div ID="pDTL435" ORDER="104" ORDERLABEL="102" TYPE="page" LABEL="102">
+                <mets:fptr FILEID="file_DTL435"/>
+                <mets:fptr FILEID="thumb_DTL435"/>
+            </mets:div>
+            <mets:div ID="pDTL436" ORDER="105" ORDERLABEL="103" TYPE="page" LABEL="103">
+                <mets:fptr FILEID="file_DTL436"/>
+                <mets:fptr FILEID="thumb_DTL436"/>
+            </mets:div>
+            <mets:div ID="pDTL437" ORDER="106" ORDERLABEL="104" TYPE="page" LABEL="104">
+                <mets:fptr FILEID="file_DTL437"/>
+                <mets:fptr FILEID="thumb_DTL437"/>
+            </mets:div>
+            <mets:div ID="pDTL438" ORDER="107" ORDERLABEL="Hinterer Spiegel" TYPE="page" LABEL="Hinterer Spiegel">
+                <mets:fptr FILEID="file_DTL438"/>
+                <mets:fptr FILEID="thumb_DTL438"/>
+            </mets:div>
+            <mets:div ID="pDTL333" ORDER="108" ORDERLABEL="Rückdeckel" TYPE="page" LABEL="Rückdeckel">
+                <mets:fptr FILEID="file_DTL333"/>
+                <mets:fptr FILEID="thumb_DTL333"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div ID="log" ADMID="ADM" DMDID="DMD" TYPE="Monograph" LABEL="Schelling, Friedrich Wilhelm Joseph von (1775-1854): Einführung in das wissenschaftliche Studium - UEI Cod. sm 1194" CONTENTIDS="urn:nbn:de:bvb:824-cod-sm-1194-1">
+            <mets:div ID="DTL329" LABEL="Vorderdeckel mit Umschlagtitel" TYPE="cover_front"/>
+            <mets:div ID="DTL331" LABEL="Schellings Methode des akademischen Studiums 1829, WS 1828/29" TYPE="section"/>
+            <mets:div ID="DTL332" LABEL="Notizen, v.a. Auszüge aus Thaddäus Anselm Rixner, Aphorismen der gesamten Philosophie" TYPE="section"/>
+            <mets:div ID="DTL333" LABEL="Rückdeckel" TYPE="cover_back"/>
+        </mets:div>
+    </mets:structMap>
+    <mets:structLink>
+        <mets:smLink xlink:from="log" xlink:to="phys"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL329"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL330"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL334"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL335"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL336"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL337"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL338"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL339"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL340"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL341"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL342"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL343"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL344"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL345"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL346"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL347"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL348"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL349"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL350"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL351"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL352"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL353"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL354"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL355"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL356"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL357"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL358"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL359"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL360"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL361"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL362"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL363"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL364"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL365"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL366"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL367"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL368"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL369"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL370"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL371"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL372"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL373"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL374"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL375"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL376"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL377"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL378"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL379"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL380"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL381"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL382"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL383"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL384"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL385"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL386"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL387"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL388"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL389"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL390"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL391"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL392"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL393"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL394"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL395"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL396"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL397"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL398"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL399"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL400"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL401"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL402"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL403"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL404"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL405"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL406"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL407"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL408"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL409"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL410"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL411"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL412"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL413"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL414"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL415"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL416"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL417"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL418"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL419"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL420"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL421"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL422"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL423"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL424"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL425"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL426"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL427"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL428"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL429"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL430"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL431"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL432"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL433"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL434"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL435"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL436"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL437"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL438"/>
+        <mets:smLink xlink:from="log" xlink:to="pDTL333"/>
+        <mets:smLink xlink:from="DTL329" xlink:to="pDTL329"/>
+        <mets:smLink xlink:from="DTL333" xlink:to="pDTL333"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL334"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL335"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL336"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL337"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL338"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL339"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL340"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL341"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL342"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL343"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL344"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL345"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL346"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL347"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL348"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL349"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL350"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL351"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL352"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL353"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL354"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL355"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL356"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL357"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL358"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL359"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL360"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL361"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL362"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL363"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL364"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL365"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL366"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL367"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL368"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL369"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL370"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL371"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL372"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL373"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL374"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL375"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL376"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL377"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL378"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL379"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL380"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL381"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL382"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL383"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL384"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL385"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL386"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL387"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL388"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL389"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL390"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL391"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL392"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL393"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL394"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL395"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL396"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL397"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL398"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL399"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL400"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL401"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL402"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL403"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL404"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL405"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL406"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL407"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL408"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL409"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL410"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL411"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL412"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL413"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL414"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL415"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL416"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL417"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL418"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL419"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL420"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL421"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL422"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL423"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL424"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL425"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL426"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL427"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL428"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL429"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL430"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL431"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL432"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL433"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL434"/>
+        <mets:smLink xlink:from="DTL331" xlink:to="pDTL435"/>
+        <mets:smLink xlink:from="DTL332" xlink:to="pDTL436"/>
+        <mets:smLink xlink:from="DTL332" xlink:to="pDTL437"/>
+        <mets:smLink xlink:from="DTL332" xlink:to="pDTL438"/>
+    </mets:structLink>
+</mets:mets>

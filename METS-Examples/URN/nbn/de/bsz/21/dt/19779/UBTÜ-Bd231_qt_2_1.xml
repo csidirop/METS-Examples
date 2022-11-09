@@ -1,0 +1,304 @@
+<mets xmlns="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mets/mets.xsd http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <metsHdr>
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>Universitätsbibliothek Tübingen</name>
+        </agent>
+        <agent OTHERROLE="Sponsor" ROLE="OTHER" TYPE="ORGANIZATION">
+            <name>Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg</name>
+        </agent>
+    </metsHdr>
+    <dmdSec ID="dmdSec_Bd231_qt_2_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Grundtlicher Bericht von den zwo roten Neben-Sonnen</mods:title>
+                        <mods:subTitle>welche Freytags den 28. deß jüngst abgeloffnen Monats Junij vormittag umb 9. Uhr erschinen: eben dazumal als die namhaffte Schlacht an der Weser bey Oldendorp under Hammeln vorgangen</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="urn">urn:nbn:de:bsz:21-dt-19779</mods:identifier>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-19779</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="swb-ppn">1651580979</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:location>
+                        <mods:physicalLocation>Universitätsbibliothek Tübingen</mods:physicalLocation>
+                        <mods:shelfLocator>Bd 231.4</mods:shelfLocator>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=1</mods:url>
+                    </mods:location>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                    <mods:subject>
+                        <mods:topic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4171387-4">
+                            <mods:displayForm>Nebensonnen</mods:displayForm>
+                        </mods:topic>
+                    </mods:subject>
+                    <mods:name type="personal">
+                        <mods:displayForm>Schickard, Wilhelm </mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">[Straßburg]</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1633</mods:dateIssued>
+                        <mods:dateIssued>1633</mods:dateIssued>
+                    </mods:originInfo>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bd231_qt_2_2">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Titelblatt</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=1</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bd231_qt_2_3">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>A2r-A4v</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=3</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bd231_qt_2_4">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>B1r-B4v</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=9</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bd231_qt_2_5">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>C1r-C2v</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=17</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bd231_qt_2_6">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Farbkeil</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2#p=21</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amdSec_Bd231_qt_2">
+        <rightsMD ID="rightsMD_Bd231_qt_2">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Tübingen</dv:owner>
+                        <dv:ownerLogo>http://idb.ub.uni-tuebingen.de/static/img/logo_dfgviewer.gif</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ub.uni-tuebingen.de</dv:ownerSiteURL>
+                        <dv:license>pdm</dv:license>
+                    </dv:rights>
+                </xmlData>
+            </mdWrap>
+        </rightsMD>
+        <digiprovMD ID="digiprovMD_Bd231_qt_2">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <xmlData>
+                    <dv:links>
+                        <dv:reference>https://katalog.ub.uni-tuebingen.de/opac/RDSIndex/Results?type0[]=ex&amp;lookfor0[]=id:1651580979</dv:reference>
+                        <dv:presentation>http://idb.ub.uni-tuebingen.de/opendigi/Bd231_qt_2</dv:presentation>
+                    </dv:links>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="DEFAULT">
+            <file ID="file_Bd231_qt_2_1" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_01.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_2" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_02.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_3" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_03.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_4" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_04.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_5" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_05.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_6" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_06.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_7" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_07.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_8" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_08.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_9" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_09.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_10" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_10.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_11" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_11.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_12" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_12.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_13" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_13.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_14" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_14.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_15" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_15.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_16" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_16.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_17" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_17.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_18" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_18.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_19" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_19.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_20" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_20.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bd231_qt_2_21" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bd231_qt_2/Bd231_qt_2_21.jp2/full/full/0/default.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="PHYSICAL">
+        <div ID="phys_Bd231_qt_2" TYPE="physSequence">
+            <div ID="phys_Bd231_qt_2_1" ORDER="1" ORDERLABEL="A1r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_1"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_2" ORDER="2" ORDERLABEL="A1v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_2"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_3" ORDER="3" ORDERLABEL="A2r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_3"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_4" ORDER="4" ORDERLABEL="A2v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_4"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_5" ORDER="5" ORDERLABEL="A3r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_5"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_6" ORDER="6" ORDERLABEL="A3v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_6"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_7" ORDER="7" ORDERLABEL="A4r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_7"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_8" ORDER="8" ORDERLABEL="A4v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_8"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_9" ORDER="9" ORDERLABEL="B1r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_9"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_10" ORDER="10" ORDERLABEL="B1v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_10"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_11" ORDER="11" ORDERLABEL="B2r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_11"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_12" ORDER="12" ORDERLABEL="B2v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_12"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_13" ORDER="13" ORDERLABEL="B3r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_13"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_14" ORDER="14" ORDERLABEL="B3v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_14"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_15" ORDER="15" ORDERLABEL="B4r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_15"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_16" ORDER="16" ORDERLABEL="B4v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_16"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_17" ORDER="17" ORDERLABEL="C1r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_17"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_18" ORDER="18" ORDERLABEL="C1v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_18"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_19" ORDER="19" ORDERLABEL="C2r" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_19"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_20" ORDER="20" ORDERLABEL="C2v" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_20"/>
+            </div>
+            <div ID="phys_Bd231_qt_2_21" ORDER="21" ORDERLABEL="C2a" TYPE="page">
+                <fptr FILEID="file_Bd231_qt_2_21"/>
+            </div>
+        </div>
+    </structMap>
+    <structMap TYPE="LOGICAL">
+        <div DMDID="dmdSec_Bd231_qt_2_1" ID="log_Bd231_qt_2_1" LABEL="Grundtlicher Bericht von den zwo roten Neben-Sonnen" TYPE="monograph">
+            <div DMDID="dmdSec_Bd231_qt_2_2" ID="log_Bd231_qt_2_2" LABEL="Titelblatt" TYPE="chapter"/>
+            <div DMDID="dmdSec_Bd231_qt_2_3" ID="log_Bd231_qt_2_3" LABEL="A2r-A4v" TYPE="chapter"/>
+            <div DMDID="dmdSec_Bd231_qt_2_4" ID="log_Bd231_qt_2_4" LABEL="B1r-B4v" TYPE="chapter"/>
+            <div DMDID="dmdSec_Bd231_qt_2_5" ID="log_Bd231_qt_2_5" LABEL="C1r-C2v" TYPE="chapter"/>
+            <div DMDID="dmdSec_Bd231_qt_2_6" ID="log_Bd231_qt_2_6" LABEL="Farbkeil" TYPE="chapter"/>
+        </div>
+    </structMap>
+    <structLink>
+        <smLink xlink:from="log_Bd231_qt_2_1" xlink:to="phys_Bd231_qt_2_1"/>
+        <smLink xlink:from="log_Bd231_qt_2_2" xlink:to="phys_Bd231_qt_2_1"/>
+        <smLink xlink:from="log_Bd231_qt_2_3" xlink:to="phys_Bd231_qt_2_3"/>
+        <smLink xlink:from="log_Bd231_qt_2_4" xlink:to="phys_Bd231_qt_2_9"/>
+        <smLink xlink:from="log_Bd231_qt_2_5" xlink:to="phys_Bd231_qt_2_17"/>
+        <smLink xlink:from="log_Bd231_qt_2_6" xlink:to="phys_Bd231_qt_2_21"/>
+    </structLink>
+</mets>

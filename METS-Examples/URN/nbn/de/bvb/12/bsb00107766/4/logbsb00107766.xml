@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:eb="http://sunsite.berkeley.edu/Ebind" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd">
+  <mets:metsHdr CREATEDATE="2022-11-08T10:51:59+00:00" LASTMODDATE="2022-11-08T10:51:59+00:00">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Bayerische Staatsbibliothek</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Münchener Digitalisierungszentrum</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="mdbsb00107766">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+      <mets:xmlData>
+        <mods xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+          <identifier type=""/>
+          <titleInfo>
+            <title>Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden und der kanonischen Literatur der Sarvāstivāda-Schule </title>
+          </titleInfo>
+          <name type="personal">
+            <displayForm>Waldschmidt, Ernst</displayForm>
+          </name>
+          <name type="personal">
+            <displayForm>Bechert, Heinz</displayForm>
+          </name>
+          <originInfo>
+            <place>
+              <placeTerm type="text">Göttingen</placeTerm>
+            </place>
+            <dateIssued>2008</dateIssued>
+          </originInfo>
+        </mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdbsb00107766">
+    <mets:rightsMD ID="rightsbsb00107766">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+        <mets:xmlData>
+          <dv:rights xmlns:dv="http://dfg-viewer.de/">
+            <dv:owner>Bayerische Staatsbibliothek</dv:owner>
+            <dv:ownerContact>mailto:digitale.bibliothek@bsb-muenchen.de</dv:ownerContact>
+            <dv:ownerLogo>https://daten.digitale-sammlungen.de/~zend-bsb/bsblogo_dfgviewer.jpg</dv:ownerLogo>
+            <dv:ownerSiteURL>http://www.digitale-sammlungen.de</dv:ownerSiteURL>
+          </dv:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="digiprovbsb00107766">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference linktext="OPACplus">http://opacplus.bsb-muenchen.de/search?query=BV019269612</dv:reference>
+            <dv:presentation>https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/</dv:presentation>
+          </dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="DEFAULT">
+      <mets:file ID="img100-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-3" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00003.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-4" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00004.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-5" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00005.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-6" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00006.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-7" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00007.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-8" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00008.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-9" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00009.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-10" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00010.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-11" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00011.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-12" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00012.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-13" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00013.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-14" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00014.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-15" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00015.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-16" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00016.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-17" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00017.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-18" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00018.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-19" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00019.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-20" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00020.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-21" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00021.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-22" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00022.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-23" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00023.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-24" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00024.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-25" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00025.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-26" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00026.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-27" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00027.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-28" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00028.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-29" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00029.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-30" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00030.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-31" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00031.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-32" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00032.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-33" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00033.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-34" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00034.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-35" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00035.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-36" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00036.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-37" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00037.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-38" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00038.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-39" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00039.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-40" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00040.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-41" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00041.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-42" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00042.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-43" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00043.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-44" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00044.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-45" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00045.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-46" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00046.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-47" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00047.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-48" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00048.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-49" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00049.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-50" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00050.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-51" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00051.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-52" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00052.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-53" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00053.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-54" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00054.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-55" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00055.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-56" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00056.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-57" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00057.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-58" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00058.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-59" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00059.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-60" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00060.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-61" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00061.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-62" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00062.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-63" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00063.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-64" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00064.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-65" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00065.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-66" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00066.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-67" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00067.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-68" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00068.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-69" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00069.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-70" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00070.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-71" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00071.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-72" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00072.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-73" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00073.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-74" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00074.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-75" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00075.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-76" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00076.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-77" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00077.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-78" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00078.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-79" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00079.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-80" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00080.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-81" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00081.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-82" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00082.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-83" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00083.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-84" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00084.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="MAX">
+      <mets:file ID="imgmax-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-3" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00003.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-4" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00004.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-5" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00005.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-6" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00006.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-7" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00007.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-8" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00008.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-9" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00009.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-10" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00010.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-11" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00011.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-12" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00012.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-13" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00013.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-14" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00014.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-15" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00015.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-16" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00016.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-17" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00017.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-18" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00018.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-19" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00019.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-20" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00020.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-21" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00021.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-22" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00022.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-23" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00023.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-24" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00024.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-25" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00025.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-26" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00026.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-27" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00027.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-28" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00028.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-29" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00029.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-30" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00030.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-31" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00031.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-32" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00032.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-33" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00033.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-34" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00034.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-35" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00035.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-36" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00036.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-37" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00037.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-38" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00038.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-39" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00039.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-40" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00040.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-41" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00041.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-42" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00042.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-43" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00043.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-44" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00044.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-45" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00045.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-46" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00046.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-47" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00047.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-48" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00048.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-49" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00049.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-50" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00050.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-51" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00051.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-52" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00052.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-53" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00053.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-54" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00054.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-55" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00055.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-56" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00056.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-57" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00057.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-58" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00058.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-59" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00059.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-60" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00060.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-61" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00061.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-62" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00062.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-63" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00063.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-64" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00064.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-65" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00065.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-66" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00066.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-67" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00067.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-68" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00068.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-69" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00069.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-70" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00070.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-71" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00071.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-72" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00072.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-73" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00073.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-74" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00074.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-75" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00075.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-76" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00076.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-77" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00077.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-78" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00078.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-79" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00079.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-80" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00080.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-81" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00081.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-82" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00082.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-83" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00083.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-84" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/300/bsb00107766_00084.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="MIN"/>
+    <mets:fileGrp USE="THUMBS">
+      <mets:file ID="imgthm-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-3" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00003.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-4" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00004.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-5" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00005.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-6" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00006.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-7" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00007.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-8" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00008.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-9" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00009.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-10" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00010.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-11" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00011.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-12" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00012.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-13" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00013.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-14" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00014.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-15" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00015.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-16" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00016.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-17" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00017.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-18" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00018.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-19" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00019.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-20" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00020.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-21" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00021.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-22" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00022.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-23" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00023.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-24" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00024.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-25" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00025.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-26" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00026.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-27" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00027.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-28" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00028.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-29" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00029.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-30" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00030.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-31" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00031.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-32" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00032.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-33" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00033.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-34" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00034.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-35" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00035.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-36" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00036.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-37" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00037.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-38" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00038.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-39" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00039.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-40" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00040.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-41" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00041.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-42" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00042.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-43" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00043.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-44" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00044.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-45" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00045.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-46" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00046.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-47" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00047.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-48" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00048.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-49" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00049.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-50" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00050.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-51" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00051.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-52" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00052.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-53" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00053.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-54" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00054.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-55" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00055.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-56" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00056.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-57" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00057.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-58" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00058.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-59" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00059.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-60" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00060.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-61" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00061.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-62" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00062.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-63" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00063.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-64" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00064.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-65" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00065.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-66" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00066.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-67" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00067.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-68" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00068.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-69" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00069.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-70" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00070.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-71" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00071.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-72" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00072.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-73" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00073.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-74" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00074.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-75" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00075.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-76" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00076.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-77" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00077.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-78" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00078.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-79" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00079.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-80" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00080.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-81" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00081.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-82" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00082.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-83" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00083.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-84" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/images/bsb00107766_00084.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DOWNLOAD">
+      <mets:file ID="bsb00107766_PDF" MIMETYPE="application/pdf">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00107766"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div ID="phys" TYPE="physSequence">
+      <mets:fptr FILEID="bsb00107766_PDF"/>
+      <mets:div ID="div1" ORDER="1" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_1">
+        <mets:fptr FILEID="img100-1"/>
+        <mets:fptr FILEID="imgmax-1"/>
+        <mets:fptr FILEID="imgthm-1"/>
+      </mets:div>
+      <mets:div ID="div2" ORDER="2" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_2">
+        <mets:fptr FILEID="img100-2"/>
+        <mets:fptr FILEID="imgmax-2"/>
+        <mets:fptr FILEID="imgthm-2"/>
+      </mets:div>
+      <mets:div ID="div3" ORDER="3" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_3">
+        <mets:fptr FILEID="img100-3"/>
+        <mets:fptr FILEID="imgmax-3"/>
+        <mets:fptr FILEID="imgthm-3"/>
+      </mets:div>
+      <mets:div ID="div4" ORDER="4" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_4">
+        <mets:fptr FILEID="img100-4"/>
+        <mets:fptr FILEID="imgmax-4"/>
+        <mets:fptr FILEID="imgthm-4"/>
+      </mets:div>
+      <mets:div ID="div5" ORDER="5" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_5">
+        <mets:fptr FILEID="img100-5"/>
+        <mets:fptr FILEID="imgmax-5"/>
+        <mets:fptr FILEID="imgthm-5"/>
+      </mets:div>
+      <mets:div ID="div6" ORDER="6" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_6">
+        <mets:fptr FILEID="img100-6"/>
+        <mets:fptr FILEID="imgmax-6"/>
+        <mets:fptr FILEID="imgthm-6"/>
+      </mets:div>
+      <mets:div ID="div7" ORDER="7" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_7">
+        <mets:fptr FILEID="img100-7"/>
+        <mets:fptr FILEID="imgmax-7"/>
+        <mets:fptr FILEID="imgthm-7"/>
+      </mets:div>
+      <mets:div ID="div8" ORDER="8" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_8">
+        <mets:fptr FILEID="img100-8"/>
+        <mets:fptr FILEID="imgmax-8"/>
+        <mets:fptr FILEID="imgthm-8"/>
+      </mets:div>
+      <mets:div ID="div9" ORDER="9" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_9">
+        <mets:fptr FILEID="img100-9"/>
+        <mets:fptr FILEID="imgmax-9"/>
+        <mets:fptr FILEID="imgthm-9"/>
+      </mets:div>
+      <mets:div ID="div10" ORDER="10" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_10">
+        <mets:fptr FILEID="img100-10"/>
+        <mets:fptr FILEID="imgmax-10"/>
+        <mets:fptr FILEID="imgthm-10"/>
+      </mets:div>
+      <mets:div ID="div11" ORDER="11" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_11">
+        <mets:fptr FILEID="img100-11"/>
+        <mets:fptr FILEID="imgmax-11"/>
+        <mets:fptr FILEID="imgthm-11"/>
+      </mets:div>
+      <mets:div ID="div12" ORDER="12" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_12">
+        <mets:fptr FILEID="img100-12"/>
+        <mets:fptr FILEID="imgmax-12"/>
+        <mets:fptr FILEID="imgthm-12"/>
+      </mets:div>
+      <mets:div ID="div13" ORDER="13" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_13">
+        <mets:fptr FILEID="img100-13"/>
+        <mets:fptr FILEID="imgmax-13"/>
+        <mets:fptr FILEID="imgthm-13"/>
+      </mets:div>
+      <mets:div ID="div14" ORDER="14" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_14">
+        <mets:fptr FILEID="img100-14"/>
+        <mets:fptr FILEID="imgmax-14"/>
+        <mets:fptr FILEID="imgthm-14"/>
+      </mets:div>
+      <mets:div ID="div15" ORDER="15" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_15">
+        <mets:fptr FILEID="img100-15"/>
+        <mets:fptr FILEID="imgmax-15"/>
+        <mets:fptr FILEID="imgthm-15"/>
+      </mets:div>
+      <mets:div ID="div16" ORDER="16" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_16">
+        <mets:fptr FILEID="img100-16"/>
+        <mets:fptr FILEID="imgmax-16"/>
+        <mets:fptr FILEID="imgthm-16"/>
+      </mets:div>
+      <mets:div ID="div17" ORDER="17" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_17">
+        <mets:fptr FILEID="img100-17"/>
+        <mets:fptr FILEID="imgmax-17"/>
+        <mets:fptr FILEID="imgthm-17"/>
+      </mets:div>
+      <mets:div ID="div18" ORDER="18" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_18">
+        <mets:fptr FILEID="img100-18"/>
+        <mets:fptr FILEID="imgmax-18"/>
+        <mets:fptr FILEID="imgthm-18"/>
+      </mets:div>
+      <mets:div ID="div19" ORDER="19" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_19">
+        <mets:fptr FILEID="img100-19"/>
+        <mets:fptr FILEID="imgmax-19"/>
+        <mets:fptr FILEID="imgthm-19"/>
+      </mets:div>
+      <mets:div ID="div20" ORDER="20" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_20">
+        <mets:fptr FILEID="img100-20"/>
+        <mets:fptr FILEID="imgmax-20"/>
+        <mets:fptr FILEID="imgthm-20"/>
+      </mets:div>
+      <mets:div ID="div21" ORDER="21" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_21">
+        <mets:fptr FILEID="img100-21"/>
+        <mets:fptr FILEID="imgmax-21"/>
+        <mets:fptr FILEID="imgthm-21"/>
+      </mets:div>
+      <mets:div ID="div22" ORDER="22" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_22">
+        <mets:fptr FILEID="img100-22"/>
+        <mets:fptr FILEID="imgmax-22"/>
+        <mets:fptr FILEID="imgthm-22"/>
+      </mets:div>
+      <mets:div ID="div23" ORDER="23" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_23">
+        <mets:fptr FILEID="img100-23"/>
+        <mets:fptr FILEID="imgmax-23"/>
+        <mets:fptr FILEID="imgthm-23"/>
+      </mets:div>
+      <mets:div ID="div24" ORDER="24" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_24">
+        <mets:fptr FILEID="img100-24"/>
+        <mets:fptr FILEID="imgmax-24"/>
+        <mets:fptr FILEID="imgthm-24"/>
+      </mets:div>
+      <mets:div ID="div25" ORDER="25" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_25">
+        <mets:fptr FILEID="img100-25"/>
+        <mets:fptr FILEID="imgmax-25"/>
+        <mets:fptr FILEID="imgthm-25"/>
+      </mets:div>
+      <mets:div ID="div26" ORDER="26" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_26">
+        <mets:fptr FILEID="img100-26"/>
+        <mets:fptr FILEID="imgmax-26"/>
+        <mets:fptr FILEID="imgthm-26"/>
+      </mets:div>
+      <mets:div ID="div27" ORDER="27" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_27">
+        <mets:fptr FILEID="img100-27"/>
+        <mets:fptr FILEID="imgmax-27"/>
+        <mets:fptr FILEID="imgthm-27"/>
+      </mets:div>
+      <mets:div ID="div28" ORDER="28" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_28">
+        <mets:fptr FILEID="img100-28"/>
+        <mets:fptr FILEID="imgmax-28"/>
+        <mets:fptr FILEID="imgthm-28"/>
+      </mets:div>
+      <mets:div ID="div29" ORDER="29" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_29">
+        <mets:fptr FILEID="img100-29"/>
+        <mets:fptr FILEID="imgmax-29"/>
+        <mets:fptr FILEID="imgthm-29"/>
+      </mets:div>
+      <mets:div ID="div30" ORDER="30" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_30">
+        <mets:fptr FILEID="img100-30"/>
+        <mets:fptr FILEID="imgmax-30"/>
+        <mets:fptr FILEID="imgthm-30"/>
+      </mets:div>
+      <mets:div ID="div31" ORDER="31" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_31">
+        <mets:fptr FILEID="img100-31"/>
+        <mets:fptr FILEID="imgmax-31"/>
+        <mets:fptr FILEID="imgthm-31"/>
+      </mets:div>
+      <mets:div ID="div32" ORDER="32" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_32">
+        <mets:fptr FILEID="img100-32"/>
+        <mets:fptr FILEID="imgmax-32"/>
+        <mets:fptr FILEID="imgthm-32"/>
+      </mets:div>
+      <mets:div ID="div33" ORDER="33" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_33">
+        <mets:fptr FILEID="img100-33"/>
+        <mets:fptr FILEID="imgmax-33"/>
+        <mets:fptr FILEID="imgthm-33"/>
+      </mets:div>
+      <mets:div ID="div34" ORDER="34" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_34">
+        <mets:fptr FILEID="img100-34"/>
+        <mets:fptr FILEID="imgmax-34"/>
+        <mets:fptr FILEID="imgthm-34"/>
+      </mets:div>
+      <mets:div ID="div35" ORDER="35" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_35">
+        <mets:fptr FILEID="img100-35"/>
+        <mets:fptr FILEID="imgmax-35"/>
+        <mets:fptr FILEID="imgthm-35"/>
+      </mets:div>
+      <mets:div ID="div36" ORDER="36" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_36">
+        <mets:fptr FILEID="img100-36"/>
+        <mets:fptr FILEID="imgmax-36"/>
+        <mets:fptr FILEID="imgthm-36"/>
+      </mets:div>
+      <mets:div ID="div37" ORDER="37" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_37">
+        <mets:fptr FILEID="img100-37"/>
+        <mets:fptr FILEID="imgmax-37"/>
+        <mets:fptr FILEID="imgthm-37"/>
+      </mets:div>
+      <mets:div ID="div38" ORDER="38" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_38">
+        <mets:fptr FILEID="img100-38"/>
+        <mets:fptr FILEID="imgmax-38"/>
+        <mets:fptr FILEID="imgthm-38"/>
+      </mets:div>
+      <mets:div ID="div39" ORDER="39" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_39">
+        <mets:fptr FILEID="img100-39"/>
+        <mets:fptr FILEID="imgmax-39"/>
+        <mets:fptr FILEID="imgthm-39"/>
+      </mets:div>
+      <mets:div ID="div40" ORDER="40" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_40">
+        <mets:fptr FILEID="img100-40"/>
+        <mets:fptr FILEID="imgmax-40"/>
+        <mets:fptr FILEID="imgthm-40"/>
+      </mets:div>
+      <mets:div ID="div41" ORDER="41" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_41">
+        <mets:fptr FILEID="img100-41"/>
+        <mets:fptr FILEID="imgmax-41"/>
+        <mets:fptr FILEID="imgthm-41"/>
+      </mets:div>
+      <mets:div ID="div42" ORDER="42" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_42">
+        <mets:fptr FILEID="img100-42"/>
+        <mets:fptr FILEID="imgmax-42"/>
+        <mets:fptr FILEID="imgthm-42"/>
+      </mets:div>
+      <mets:div ID="div43" ORDER="43" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_43">
+        <mets:fptr FILEID="img100-43"/>
+        <mets:fptr FILEID="imgmax-43"/>
+        <mets:fptr FILEID="imgthm-43"/>
+      </mets:div>
+      <mets:div ID="div44" ORDER="44" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_44">
+        <mets:fptr FILEID="img100-44"/>
+        <mets:fptr FILEID="imgmax-44"/>
+        <mets:fptr FILEID="imgthm-44"/>
+      </mets:div>
+      <mets:div ID="div45" ORDER="45" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_45">
+        <mets:fptr FILEID="img100-45"/>
+        <mets:fptr FILEID="imgmax-45"/>
+        <mets:fptr FILEID="imgthm-45"/>
+      </mets:div>
+      <mets:div ID="div46" ORDER="46" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_46">
+        <mets:fptr FILEID="img100-46"/>
+        <mets:fptr FILEID="imgmax-46"/>
+        <mets:fptr FILEID="imgthm-46"/>
+      </mets:div>
+      <mets:div ID="div47" ORDER="47" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_47">
+        <mets:fptr FILEID="img100-47"/>
+        <mets:fptr FILEID="imgmax-47"/>
+        <mets:fptr FILEID="imgthm-47"/>
+      </mets:div>
+      <mets:div ID="div48" ORDER="48" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_48">
+        <mets:fptr FILEID="img100-48"/>
+        <mets:fptr FILEID="imgmax-48"/>
+        <mets:fptr FILEID="imgthm-48"/>
+      </mets:div>
+      <mets:div ID="div49" ORDER="49" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_49">
+        <mets:fptr FILEID="img100-49"/>
+        <mets:fptr FILEID="imgmax-49"/>
+        <mets:fptr FILEID="imgthm-49"/>
+      </mets:div>
+      <mets:div ID="div50" ORDER="50" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_50">
+        <mets:fptr FILEID="img100-50"/>
+        <mets:fptr FILEID="imgmax-50"/>
+        <mets:fptr FILEID="imgthm-50"/>
+      </mets:div>
+      <mets:div ID="div51" ORDER="51" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_51">
+        <mets:fptr FILEID="img100-51"/>
+        <mets:fptr FILEID="imgmax-51"/>
+        <mets:fptr FILEID="imgthm-51"/>
+      </mets:div>
+      <mets:div ID="div52" ORDER="52" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_52">
+        <mets:fptr FILEID="img100-52"/>
+        <mets:fptr FILEID="imgmax-52"/>
+        <mets:fptr FILEID="imgthm-52"/>
+      </mets:div>
+      <mets:div ID="div53" ORDER="53" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_53">
+        <mets:fptr FILEID="img100-53"/>
+        <mets:fptr FILEID="imgmax-53"/>
+        <mets:fptr FILEID="imgthm-53"/>
+      </mets:div>
+      <mets:div ID="div54" ORDER="54" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_54">
+        <mets:fptr FILEID="img100-54"/>
+        <mets:fptr FILEID="imgmax-54"/>
+        <mets:fptr FILEID="imgthm-54"/>
+      </mets:div>
+      <mets:div ID="div55" ORDER="55" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_55">
+        <mets:fptr FILEID="img100-55"/>
+        <mets:fptr FILEID="imgmax-55"/>
+        <mets:fptr FILEID="imgthm-55"/>
+      </mets:div>
+      <mets:div ID="div56" ORDER="56" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_56">
+        <mets:fptr FILEID="img100-56"/>
+        <mets:fptr FILEID="imgmax-56"/>
+        <mets:fptr FILEID="imgthm-56"/>
+      </mets:div>
+      <mets:div ID="div57" ORDER="57" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_57">
+        <mets:fptr FILEID="img100-57"/>
+        <mets:fptr FILEID="imgmax-57"/>
+        <mets:fptr FILEID="imgthm-57"/>
+      </mets:div>
+      <mets:div ID="div58" ORDER="58" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_58">
+        <mets:fptr FILEID="img100-58"/>
+        <mets:fptr FILEID="imgmax-58"/>
+        <mets:fptr FILEID="imgthm-58"/>
+      </mets:div>
+      <mets:div ID="div59" ORDER="59" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_59">
+        <mets:fptr FILEID="img100-59"/>
+        <mets:fptr FILEID="imgmax-59"/>
+        <mets:fptr FILEID="imgthm-59"/>
+      </mets:div>
+      <mets:div ID="div60" ORDER="60" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_60">
+        <mets:fptr FILEID="img100-60"/>
+        <mets:fptr FILEID="imgmax-60"/>
+        <mets:fptr FILEID="imgthm-60"/>
+      </mets:div>
+      <mets:div ID="div61" ORDER="61" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_61">
+        <mets:fptr FILEID="img100-61"/>
+        <mets:fptr FILEID="imgmax-61"/>
+        <mets:fptr FILEID="imgthm-61"/>
+      </mets:div>
+      <mets:div ID="div62" ORDER="62" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_62">
+        <mets:fptr FILEID="img100-62"/>
+        <mets:fptr FILEID="imgmax-62"/>
+        <mets:fptr FILEID="imgthm-62"/>
+      </mets:div>
+      <mets:div ID="div63" ORDER="63" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_63">
+        <mets:fptr FILEID="img100-63"/>
+        <mets:fptr FILEID="imgmax-63"/>
+        <mets:fptr FILEID="imgthm-63"/>
+      </mets:div>
+      <mets:div ID="div64" ORDER="64" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_64">
+        <mets:fptr FILEID="img100-64"/>
+        <mets:fptr FILEID="imgmax-64"/>
+        <mets:fptr FILEID="imgthm-64"/>
+      </mets:div>
+      <mets:div ID="div65" ORDER="65" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_65">
+        <mets:fptr FILEID="img100-65"/>
+        <mets:fptr FILEID="imgmax-65"/>
+        <mets:fptr FILEID="imgthm-65"/>
+      </mets:div>
+      <mets:div ID="div66" ORDER="66" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_66">
+        <mets:fptr FILEID="img100-66"/>
+        <mets:fptr FILEID="imgmax-66"/>
+        <mets:fptr FILEID="imgthm-66"/>
+      </mets:div>
+      <mets:div ID="div67" ORDER="67" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_67">
+        <mets:fptr FILEID="img100-67"/>
+        <mets:fptr FILEID="imgmax-67"/>
+        <mets:fptr FILEID="imgthm-67"/>
+      </mets:div>
+      <mets:div ID="div68" ORDER="68" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_68">
+        <mets:fptr FILEID="img100-68"/>
+        <mets:fptr FILEID="imgmax-68"/>
+        <mets:fptr FILEID="imgthm-68"/>
+      </mets:div>
+      <mets:div ID="div69" ORDER="69" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_69">
+        <mets:fptr FILEID="img100-69"/>
+        <mets:fptr FILEID="imgmax-69"/>
+        <mets:fptr FILEID="imgthm-69"/>
+      </mets:div>
+      <mets:div ID="div70" ORDER="70" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_70">
+        <mets:fptr FILEID="img100-70"/>
+        <mets:fptr FILEID="imgmax-70"/>
+        <mets:fptr FILEID="imgthm-70"/>
+      </mets:div>
+      <mets:div ID="div71" ORDER="71" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_71">
+        <mets:fptr FILEID="img100-71"/>
+        <mets:fptr FILEID="imgmax-71"/>
+        <mets:fptr FILEID="imgthm-71"/>
+      </mets:div>
+      <mets:div ID="div72" ORDER="72" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_72">
+        <mets:fptr FILEID="img100-72"/>
+        <mets:fptr FILEID="imgmax-72"/>
+        <mets:fptr FILEID="imgthm-72"/>
+      </mets:div>
+      <mets:div ID="div73" ORDER="73" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_73">
+        <mets:fptr FILEID="img100-73"/>
+        <mets:fptr FILEID="imgmax-73"/>
+        <mets:fptr FILEID="imgthm-73"/>
+      </mets:div>
+      <mets:div ID="div74" ORDER="74" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_74">
+        <mets:fptr FILEID="img100-74"/>
+        <mets:fptr FILEID="imgmax-74"/>
+        <mets:fptr FILEID="imgthm-74"/>
+      </mets:div>
+      <mets:div ID="div75" ORDER="75" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_75">
+        <mets:fptr FILEID="img100-75"/>
+        <mets:fptr FILEID="imgmax-75"/>
+        <mets:fptr FILEID="imgthm-75"/>
+      </mets:div>
+      <mets:div ID="div76" ORDER="76" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_76">
+        <mets:fptr FILEID="img100-76"/>
+        <mets:fptr FILEID="imgmax-76"/>
+        <mets:fptr FILEID="imgthm-76"/>
+      </mets:div>
+      <mets:div ID="div77" ORDER="77" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_77">
+        <mets:fptr FILEID="img100-77"/>
+        <mets:fptr FILEID="imgmax-77"/>
+        <mets:fptr FILEID="imgthm-77"/>
+      </mets:div>
+      <mets:div ID="div78" ORDER="78" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_78">
+        <mets:fptr FILEID="img100-78"/>
+        <mets:fptr FILEID="imgmax-78"/>
+        <mets:fptr FILEID="imgthm-78"/>
+      </mets:div>
+      <mets:div ID="div79" ORDER="79" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_79">
+        <mets:fptr FILEID="img100-79"/>
+        <mets:fptr FILEID="imgmax-79"/>
+        <mets:fptr FILEID="imgthm-79"/>
+      </mets:div>
+      <mets:div ID="div80" ORDER="80" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_80">
+        <mets:fptr FILEID="img100-80"/>
+        <mets:fptr FILEID="imgmax-80"/>
+        <mets:fptr FILEID="imgthm-80"/>
+      </mets:div>
+      <mets:div ID="div81" ORDER="81" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_81">
+        <mets:fptr FILEID="img100-81"/>
+        <mets:fptr FILEID="imgmax-81"/>
+        <mets:fptr FILEID="imgthm-81"/>
+      </mets:div>
+      <mets:div ID="div82" ORDER="82" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_82">
+        <mets:fptr FILEID="img100-82"/>
+        <mets:fptr FILEID="imgmax-82"/>
+        <mets:fptr FILEID="imgthm-82"/>
+      </mets:div>
+      <mets:div ID="div83" ORDER="83" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_83">
+        <mets:fptr FILEID="img100-83"/>
+        <mets:fptr FILEID="imgmax-83"/>
+        <mets:fptr FILEID="imgthm-83"/>
+      </mets:div>
+      <mets:div ID="div84" ORDER="84" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0010/bsb00107766/image_84">
+        <mets:fptr FILEID="img100-84"/>
+        <mets:fptr FILEID="imgmax-84"/>
+        <mets:fptr FILEID="imgthm-84"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div ID="logbsb00107766" DMDID="mdbsb00107766" ADMID="amdbsb00107766" TYPE="monograph" LABEL="Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden und der kanonischen Literatur der Sarvāstivāda-Schule " ORDER="1" CONTENTIDS="urn:nbn:de:bvb:12-bsb00107766-4">
+      <mets:fptr FILEID="bsb00107766_PDF"/>
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xlink:from="logbsb00107766" xlink:to="physbsb00107766"/>
+    <mets:smLink xlink:from="log1" xlink:to="div1"/>
+    <mets:smLink xlink:from="log2" xlink:to="div2"/>
+    <mets:smLink xlink:from="log3" xlink:to="div3"/>
+    <mets:smLink xlink:from="log4" xlink:to="div4"/>
+    <mets:smLink xlink:from="log5" xlink:to="div5"/>
+    <mets:smLink xlink:from="log6" xlink:to="div6"/>
+    <mets:smLink xlink:from="log7" xlink:to="div7"/>
+    <mets:smLink xlink:from="log8" xlink:to="div8"/>
+    <mets:smLink xlink:from="log9" xlink:to="div9"/>
+    <mets:smLink xlink:from="log10" xlink:to="div10"/>
+    <mets:smLink xlink:from="log11" xlink:to="div11"/>
+    <mets:smLink xlink:from="log12" xlink:to="div12"/>
+    <mets:smLink xlink:from="log13" xlink:to="div13"/>
+    <mets:smLink xlink:from="log14" xlink:to="div14"/>
+    <mets:smLink xlink:from="log15" xlink:to="div15"/>
+    <mets:smLink xlink:from="log16" xlink:to="div16"/>
+    <mets:smLink xlink:from="log17" xlink:to="div17"/>
+    <mets:smLink xlink:from="log18" xlink:to="div18"/>
+    <mets:smLink xlink:from="log19" xlink:to="div19"/>
+    <mets:smLink xlink:from="log20" xlink:to="div20"/>
+    <mets:smLink xlink:from="log21" xlink:to="div21"/>
+    <mets:smLink xlink:from="log22" xlink:to="div22"/>
+    <mets:smLink xlink:from="log23" xlink:to="div23"/>
+    <mets:smLink xlink:from="log24" xlink:to="div24"/>
+    <mets:smLink xlink:from="log25" xlink:to="div25"/>
+    <mets:smLink xlink:from="log26" xlink:to="div26"/>
+    <mets:smLink xlink:from="log27" xlink:to="div27"/>
+    <mets:smLink xlink:from="log28" xlink:to="div28"/>
+    <mets:smLink xlink:from="log29" xlink:to="div29"/>
+    <mets:smLink xlink:from="log30" xlink:to="div30"/>
+    <mets:smLink xlink:from="log31" xlink:to="div31"/>
+    <mets:smLink xlink:from="log32" xlink:to="div32"/>
+    <mets:smLink xlink:from="log33" xlink:to="div33"/>
+    <mets:smLink xlink:from="log34" xlink:to="div34"/>
+    <mets:smLink xlink:from="log35" xlink:to="div35"/>
+    <mets:smLink xlink:from="log36" xlink:to="div36"/>
+    <mets:smLink xlink:from="log37" xlink:to="div37"/>
+    <mets:smLink xlink:from="log38" xlink:to="div38"/>
+    <mets:smLink xlink:from="log39" xlink:to="div39"/>
+    <mets:smLink xlink:from="log40" xlink:to="div40"/>
+    <mets:smLink xlink:from="log41" xlink:to="div41"/>
+    <mets:smLink xlink:from="log42" xlink:to="div42"/>
+    <mets:smLink xlink:from="log43" xlink:to="div43"/>
+    <mets:smLink xlink:from="log44" xlink:to="div44"/>
+    <mets:smLink xlink:from="log45" xlink:to="div45"/>
+    <mets:smLink xlink:from="log46" xlink:to="div46"/>
+    <mets:smLink xlink:from="log47" xlink:to="div47"/>
+    <mets:smLink xlink:from="log48" xlink:to="div48"/>
+    <mets:smLink xlink:from="log49" xlink:to="div49"/>
+    <mets:smLink xlink:from="log50" xlink:to="div50"/>
+    <mets:smLink xlink:from="log51" xlink:to="div51"/>
+    <mets:smLink xlink:from="log52" xlink:to="div52"/>
+    <mets:smLink xlink:from="log53" xlink:to="div53"/>
+    <mets:smLink xlink:from="log54" xlink:to="div54"/>
+    <mets:smLink xlink:from="log55" xlink:to="div55"/>
+    <mets:smLink xlink:from="log56" xlink:to="div56"/>
+    <mets:smLink xlink:from="log57" xlink:to="div57"/>
+    <mets:smLink xlink:from="log58" xlink:to="div58"/>
+    <mets:smLink xlink:from="log59" xlink:to="div59"/>
+    <mets:smLink xlink:from="log60" xlink:to="div60"/>
+    <mets:smLink xlink:from="log61" xlink:to="div61"/>
+    <mets:smLink xlink:from="log62" xlink:to="div62"/>
+    <mets:smLink xlink:from="log63" xlink:to="div63"/>
+    <mets:smLink xlink:from="log64" xlink:to="div64"/>
+    <mets:smLink xlink:from="log65" xlink:to="div65"/>
+    <mets:smLink xlink:from="log66" xlink:to="div66"/>
+    <mets:smLink xlink:from="log67" xlink:to="div67"/>
+    <mets:smLink xlink:from="log68" xlink:to="div68"/>
+    <mets:smLink xlink:from="log69" xlink:to="div69"/>
+    <mets:smLink xlink:from="log70" xlink:to="div70"/>
+    <mets:smLink xlink:from="log71" xlink:to="div71"/>
+    <mets:smLink xlink:from="log72" xlink:to="div72"/>
+    <mets:smLink xlink:from="log73" xlink:to="div73"/>
+    <mets:smLink xlink:from="log74" xlink:to="div74"/>
+    <mets:smLink xlink:from="log75" xlink:to="div75"/>
+    <mets:smLink xlink:from="log76" xlink:to="div76"/>
+    <mets:smLink xlink:from="log77" xlink:to="div77"/>
+    <mets:smLink xlink:from="log78" xlink:to="div78"/>
+    <mets:smLink xlink:from="log79" xlink:to="div79"/>
+    <mets:smLink xlink:from="log80" xlink:to="div80"/>
+    <mets:smLink xlink:from="log81" xlink:to="div81"/>
+    <mets:smLink xlink:from="log82" xlink:to="div82"/>
+    <mets:smLink xlink:from="log83" xlink:to="div83"/>
+    <mets:smLink xlink:from="log84" xlink:to="div84"/>
+  </mets:structLink>
+</mets:mets>

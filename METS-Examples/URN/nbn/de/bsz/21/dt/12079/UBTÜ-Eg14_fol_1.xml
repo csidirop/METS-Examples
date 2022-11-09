@@ -1,0 +1,1693 @@
+<mets xmlns="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mets/mets.xsd http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <metsHdr>
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>Universitätsbibliothek Tübingen</name>
+        </agent>
+        <agent OTHERROLE="Sponsor" ROLE="OTHER" TYPE="ORGANIZATION">
+            <name>Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg</name>
+        </agent>
+    </metsHdr>
+    <dmdSec ID="dmdSec_Eg14_fol_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Die Wein-Rebe und ihre Früchte oder Beschreibung der für den Weinbau wichtigeren Wein-Reben-Arten nach einem naturgemäßen Classifications-System</mods:title>
+                        <mods:subTitle>ein Beitrag zur Naturkunde des Weinstocks</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="urn">urn:nbn:de:bsz:21-dt-12079</mods:identifier>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-12079</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="swb-ppn">1651044066</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:location>
+                        <mods:physicalLocation>Universitätsbibliothek Tübingen</mods:physicalLocation>
+                        <mods:shelfLocator>Eg 14.2</mods:shelfLocator>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=1</mods:url>
+                    </mods:location>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                    <mods:subject>
+                        <mods:geographic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4067029-6">
+                            <mods:displayForm>Württemberg</mods:displayForm>
+                        </mods:geographic>
+                    </mods:subject>
+                    <mods:subject>
+                        <mods:topic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4065174-5">
+                            <mods:displayForm>Weinrebe</mods:displayForm>
+                        </mods:topic>
+                    </mods:subject>
+                    <mods:name type="personal">
+                        <mods:displayForm>Gok, Carl Friedrich von</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">Stuttgart</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1836</mods:dateIssued>
+                        <mods:dateIssued>1836</mods:dateIssued>
+                    </mods:originInfo>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_2">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Titelblatt</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=1</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_3">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>[1. Abt.]</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=3</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_4">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>2. Abt.: Specielle Beschreibung der Rebsorten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=21</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_5">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Zwischentitel</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=21</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_6">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Vorwort</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=23</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_7">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>I. Classe: Blätter oben und unten fein behaart</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=27</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_8">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>II. Classe: Blätter oben kahl; unten feinhaarig oder wollig</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=46</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_9">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>III. Classe: Blätter oben und unten fast nackt</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=67</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_10">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>IV. Classe: Blätter unten filzig</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=97</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_11">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tafeln</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=129</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_12">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. A. Die Weinrebe</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=129</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_13">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. B. Der Rebstock</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=130</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_14">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. I. Klevner</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=131</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_15">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. II. Ruländer</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=132</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_16">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. III. Traminer</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=133</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_17">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. IV. Müllerrebe</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=134</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_18">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. V. Ortlieber</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=135</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_19">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. VI. Rissling</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=136</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_20">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. VII. Veltliner</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=137</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_21">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. VIII. Urben</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=138</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_22">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. IX. Elbling</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=139</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_23">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. X. Fürterer</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=140</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_24">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XI. Malvasier</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=141</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_25">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XII. Burgunder</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=142</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_26">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XIII. Silvaner</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=143</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_27">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XIV. Süsroth</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=144</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_28">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XV. Rother Hängling</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=145</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_29">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XVI. Rother Gutedel</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=146</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_30">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XVII. Petersilien Rebe</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=147</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_31">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XVIII. Weiss-gelber Muscateller</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=148</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_32">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XIX. Orleans</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=149</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_33">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XX. Zottelwelscher</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=150</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_34">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXI. Trollinger</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=151</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_35">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXII. Gänsefüsler</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=152</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_36">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXIII. Färber</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=153</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_37">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXIV. Geissdutte</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=154</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_38">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXV. Rundbeerige Cibebe</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=155</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_39">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXVI. Korinthe</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=156</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_40">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXVII. Tokayer</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=157</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Eg14_fol_41">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. XXVIII. Filziger Zottelwelscher</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol#p=158</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amdSec_Eg14_fol">
+        <rightsMD ID="rightsMD_Eg14_fol">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Tübingen</dv:owner>
+                        <dv:ownerLogo>http://idb.ub.uni-tuebingen.de/static/img/logo_dfgviewer.gif</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ub.uni-tuebingen.de</dv:ownerSiteURL>
+                        <dv:license>pdm</dv:license>
+                    </dv:rights>
+                </xmlData>
+            </mdWrap>
+        </rightsMD>
+        <digiprovMD ID="digiprovMD_Eg14_fol">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <xmlData>
+                    <dv:links>
+                        <dv:reference>https://katalog.ub.uni-tuebingen.de/opac/RDSIndex/Results?type0[]=ex&amp;lookfor0[]=id:1651044066</dv:reference>
+                        <dv:presentation>http://idb.ub.uni-tuebingen.de/opendigi/Eg14_fol</dv:presentation>
+                    </dv:links>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="DEFAULT">
+            <file ID="file_Eg14_fol_1" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_001.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_2" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_002.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_3" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_003.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_4" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_004.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_5" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_005.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_6" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_006.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_7" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_007.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_8" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_008.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_9" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_009.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_10" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_010.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_11" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_011.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_12" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_012.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_13" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_013.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_14" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_014.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_15" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_015.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_16" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_016.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_17" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_017.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_18" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_018.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_19" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_019.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_20" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_020.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_21" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_021.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_22" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_022.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_23" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_023.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_24" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_024.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_25" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_025.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_26" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_026.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_27" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_027.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_28" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_028.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_29" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_029.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_30" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_030.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_31" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_031.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_32" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_032.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_33" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_033.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_34" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_034.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_35" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_035.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_36" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_036.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_37" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_037.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_38" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_038.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_39" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_039.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_40" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_040.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_41" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_041.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_42" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_042.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_43" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_043.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_44" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_044.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_45" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_045.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_46" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_046.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_47" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_047.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_48" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_048.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_49" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_049.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_50" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_050.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_51" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_051.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_52" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_052.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_53" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_053.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_54" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_054.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_55" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_055.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_56" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_056.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_57" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_057.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_58" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_058.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_59" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_059.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_60" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_060.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_61" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_061.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_62" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_062.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_63" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_063.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_64" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_064.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_65" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_065.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_66" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_066.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_67" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_067.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_68" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_068.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_69" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_069.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_70" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_070.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_71" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_071.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_72" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_072.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_73" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_073.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_74" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_074.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_75" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_075.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_76" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_076.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_77" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_077.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_78" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_078.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_79" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_079.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_80" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_080.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_81" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_081.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_82" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_082.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_83" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_083.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_84" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_084.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_85" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_085.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_86" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_086.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_87" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_087.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_88" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_088.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_89" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_089.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_90" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_090.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_91" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_091.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_92" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_092.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_93" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_093.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_94" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_094.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_95" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_095.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_96" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_096.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_97" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_097.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_98" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_098.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_99" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_099.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_100" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_100.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_101" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_101.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_102" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_102.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_103" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_103.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_104" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_104.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_105" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_105.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_106" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_106.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_107" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_107.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_108" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_108.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_109" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_109.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_110" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_110.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_111" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_111.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_112" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_112.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_113" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_113.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_114" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_114.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_115" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_115.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_116" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_116.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_117" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_117.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_118" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_118.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_119" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_119.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_120" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_120.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_121" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_121.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_122" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_122.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_123" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_123.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_124" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_124.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_125" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_125.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_126" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_126.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_127" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_127.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_128" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_128.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_129" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab00A.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_130" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab00B.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_131" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab01.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_132" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab02.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_133" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab03.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_134" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab04.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_135" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab05.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_136" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab06.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_137" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab07.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_138" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab08.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_139" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab09.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_140" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab10.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_141" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab11.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_142" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab12.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_143" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab13.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_144" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab14.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_145" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab15.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_146" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab16.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_147" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab17.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_148" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab18.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_149" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab19.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_150" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab20.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_151" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab21.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_152" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab22.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_153" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab23.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_154" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab24.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_155" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab25.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_156" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab26.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_157" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab27.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Eg14_fol_158" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Eg14_fol/Eg14_fol_Tab28.jp2/full/full/0/default.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="PHYSICAL">
+        <div ID="phys_Eg14_fol" TYPE="physSequence">
+            <div ID="phys_Eg14_fol_1" ORDER="1" ORDERLABEL="0" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_1"/>
+            </div>
+            <div ID="phys_Eg14_fol_2" ORDER="2" ORDERLABEL="0a" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_2"/>
+            </div>
+            <div ID="phys_Eg14_fol_3" ORDER="3" ORDERLABEL="1" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_3"/>
+            </div>
+            <div ID="phys_Eg14_fol_4" ORDER="4" ORDERLABEL="2" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_4"/>
+            </div>
+            <div ID="phys_Eg14_fol_5" ORDER="5" ORDERLABEL="3" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_5"/>
+            </div>
+            <div ID="phys_Eg14_fol_6" ORDER="6" ORDERLABEL="4" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_6"/>
+            </div>
+            <div ID="phys_Eg14_fol_7" ORDER="7" ORDERLABEL="5" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_7"/>
+            </div>
+            <div ID="phys_Eg14_fol_8" ORDER="8" ORDERLABEL="6" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_8"/>
+            </div>
+            <div ID="phys_Eg14_fol_9" ORDER="9" ORDERLABEL="7" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_9"/>
+            </div>
+            <div ID="phys_Eg14_fol_10" ORDER="10" ORDERLABEL="8" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_10"/>
+            </div>
+            <div ID="phys_Eg14_fol_11" ORDER="11" ORDERLABEL="9" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_11"/>
+            </div>
+            <div ID="phys_Eg14_fol_12" ORDER="12" ORDERLABEL="10" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_12"/>
+            </div>
+            <div ID="phys_Eg14_fol_13" ORDER="13" ORDERLABEL="11" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_13"/>
+            </div>
+            <div ID="phys_Eg14_fol_14" ORDER="14" ORDERLABEL="12" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_14"/>
+            </div>
+            <div ID="phys_Eg14_fol_15" ORDER="15" ORDERLABEL="13" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_15"/>
+            </div>
+            <div ID="phys_Eg14_fol_16" ORDER="16" ORDERLABEL="14" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_16"/>
+            </div>
+            <div ID="phys_Eg14_fol_17" ORDER="17" ORDERLABEL="15" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_17"/>
+            </div>
+            <div ID="phys_Eg14_fol_18" ORDER="18" ORDERLABEL="16" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_18"/>
+            </div>
+            <div ID="phys_Eg14_fol_19" ORDER="19" ORDERLABEL="17" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_19"/>
+            </div>
+            <div ID="phys_Eg14_fol_20" ORDER="20" ORDERLABEL="18" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_20"/>
+            </div>
+            <div ID="phys_Eg14_fol_21" ORDER="21" ORDERLABEL="19" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_21"/>
+            </div>
+            <div ID="phys_Eg14_fol_22" ORDER="22" ORDERLABEL="20" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_22"/>
+            </div>
+            <div ID="phys_Eg14_fol_23" ORDER="23" ORDERLABEL="1" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_23"/>
+            </div>
+            <div ID="phys_Eg14_fol_24" ORDER="24" ORDERLABEL="2" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_24"/>
+            </div>
+            <div ID="phys_Eg14_fol_25" ORDER="25" ORDERLABEL="3" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_25"/>
+            </div>
+            <div ID="phys_Eg14_fol_26" ORDER="26" ORDERLABEL="4" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_26"/>
+            </div>
+            <div ID="phys_Eg14_fol_27" ORDER="27" ORDERLABEL="5" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_27"/>
+            </div>
+            <div ID="phys_Eg14_fol_28" ORDER="28" ORDERLABEL="6" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_28"/>
+            </div>
+            <div ID="phys_Eg14_fol_29" ORDER="29" ORDERLABEL="7" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_29"/>
+            </div>
+            <div ID="phys_Eg14_fol_30" ORDER="30" ORDERLABEL="8" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_30"/>
+            </div>
+            <div ID="phys_Eg14_fol_31" ORDER="31" ORDERLABEL="9" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_31"/>
+            </div>
+            <div ID="phys_Eg14_fol_32" ORDER="32" ORDERLABEL="10" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_32"/>
+            </div>
+            <div ID="phys_Eg14_fol_33" ORDER="33" ORDERLABEL="11" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_33"/>
+            </div>
+            <div ID="phys_Eg14_fol_34" ORDER="34" ORDERLABEL="12" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_34"/>
+            </div>
+            <div ID="phys_Eg14_fol_35" ORDER="35" ORDERLABEL="13" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_35"/>
+            </div>
+            <div ID="phys_Eg14_fol_36" ORDER="36" ORDERLABEL="14" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_36"/>
+            </div>
+            <div ID="phys_Eg14_fol_37" ORDER="37" ORDERLABEL="15" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_37"/>
+            </div>
+            <div ID="phys_Eg14_fol_38" ORDER="38" ORDERLABEL="16" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_38"/>
+            </div>
+            <div ID="phys_Eg14_fol_39" ORDER="39" ORDERLABEL="17" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_39"/>
+            </div>
+            <div ID="phys_Eg14_fol_40" ORDER="40" ORDERLABEL="18" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_40"/>
+            </div>
+            <div ID="phys_Eg14_fol_41" ORDER="41" ORDERLABEL="19" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_41"/>
+            </div>
+            <div ID="phys_Eg14_fol_42" ORDER="42" ORDERLABEL="20" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_42"/>
+            </div>
+            <div ID="phys_Eg14_fol_43" ORDER="43" ORDERLABEL="21" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_43"/>
+            </div>
+            <div ID="phys_Eg14_fol_44" ORDER="44" ORDERLABEL="22" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_44"/>
+            </div>
+            <div ID="phys_Eg14_fol_45" ORDER="45" ORDERLABEL="23" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_45"/>
+            </div>
+            <div ID="phys_Eg14_fol_46" ORDER="46" ORDERLABEL="24" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_46"/>
+            </div>
+            <div ID="phys_Eg14_fol_47" ORDER="47" ORDERLABEL="25" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_47"/>
+            </div>
+            <div ID="phys_Eg14_fol_48" ORDER="48" ORDERLABEL="26" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_48"/>
+            </div>
+            <div ID="phys_Eg14_fol_49" ORDER="49" ORDERLABEL="27" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_49"/>
+            </div>
+            <div ID="phys_Eg14_fol_50" ORDER="50" ORDERLABEL="28" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_50"/>
+            </div>
+            <div ID="phys_Eg14_fol_51" ORDER="51" ORDERLABEL="29" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_51"/>
+            </div>
+            <div ID="phys_Eg14_fol_52" ORDER="52" ORDERLABEL="30" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_52"/>
+            </div>
+            <div ID="phys_Eg14_fol_53" ORDER="53" ORDERLABEL="31" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_53"/>
+            </div>
+            <div ID="phys_Eg14_fol_54" ORDER="54" ORDERLABEL="32" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_54"/>
+            </div>
+            <div ID="phys_Eg14_fol_55" ORDER="55" ORDERLABEL="33" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_55"/>
+            </div>
+            <div ID="phys_Eg14_fol_56" ORDER="56" ORDERLABEL="34" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_56"/>
+            </div>
+            <div ID="phys_Eg14_fol_57" ORDER="57" ORDERLABEL="35" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_57"/>
+            </div>
+            <div ID="phys_Eg14_fol_58" ORDER="58" ORDERLABEL="36" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_58"/>
+            </div>
+            <div ID="phys_Eg14_fol_59" ORDER="59" ORDERLABEL="37" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_59"/>
+            </div>
+            <div ID="phys_Eg14_fol_60" ORDER="60" ORDERLABEL="38" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_60"/>
+            </div>
+            <div ID="phys_Eg14_fol_61" ORDER="61" ORDERLABEL="39" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_61"/>
+            </div>
+            <div ID="phys_Eg14_fol_62" ORDER="62" ORDERLABEL="40" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_62"/>
+            </div>
+            <div ID="phys_Eg14_fol_63" ORDER="63" ORDERLABEL="41" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_63"/>
+            </div>
+            <div ID="phys_Eg14_fol_64" ORDER="64" ORDERLABEL="42" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_64"/>
+            </div>
+            <div ID="phys_Eg14_fol_65" ORDER="65" ORDERLABEL="43" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_65"/>
+            </div>
+            <div ID="phys_Eg14_fol_66" ORDER="66" ORDERLABEL="44" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_66"/>
+            </div>
+            <div ID="phys_Eg14_fol_67" ORDER="67" ORDERLABEL="45" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_67"/>
+            </div>
+            <div ID="phys_Eg14_fol_68" ORDER="68" ORDERLABEL="46" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_68"/>
+            </div>
+            <div ID="phys_Eg14_fol_69" ORDER="69" ORDERLABEL="47" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_69"/>
+            </div>
+            <div ID="phys_Eg14_fol_70" ORDER="70" ORDERLABEL="48" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_70"/>
+            </div>
+            <div ID="phys_Eg14_fol_71" ORDER="71" ORDERLABEL="49" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_71"/>
+            </div>
+            <div ID="phys_Eg14_fol_72" ORDER="72" ORDERLABEL="50" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_72"/>
+            </div>
+            <div ID="phys_Eg14_fol_73" ORDER="73" ORDERLABEL="51" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_73"/>
+            </div>
+            <div ID="phys_Eg14_fol_74" ORDER="74" ORDERLABEL="52" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_74"/>
+            </div>
+            <div ID="phys_Eg14_fol_75" ORDER="75" ORDERLABEL="53" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_75"/>
+            </div>
+            <div ID="phys_Eg14_fol_76" ORDER="76" ORDERLABEL="54" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_76"/>
+            </div>
+            <div ID="phys_Eg14_fol_77" ORDER="77" ORDERLABEL="55" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_77"/>
+            </div>
+            <div ID="phys_Eg14_fol_78" ORDER="78" ORDERLABEL="56" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_78"/>
+            </div>
+            <div ID="phys_Eg14_fol_79" ORDER="79" ORDERLABEL="57" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_79"/>
+            </div>
+            <div ID="phys_Eg14_fol_80" ORDER="80" ORDERLABEL="58" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_80"/>
+            </div>
+            <div ID="phys_Eg14_fol_81" ORDER="81" ORDERLABEL="59" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_81"/>
+            </div>
+            <div ID="phys_Eg14_fol_82" ORDER="82" ORDERLABEL="60" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_82"/>
+            </div>
+            <div ID="phys_Eg14_fol_83" ORDER="83" ORDERLABEL="61" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_83"/>
+            </div>
+            <div ID="phys_Eg14_fol_84" ORDER="84" ORDERLABEL="62" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_84"/>
+            </div>
+            <div ID="phys_Eg14_fol_85" ORDER="85" ORDERLABEL="63" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_85"/>
+            </div>
+            <div ID="phys_Eg14_fol_86" ORDER="86" ORDERLABEL="64" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_86"/>
+            </div>
+            <div ID="phys_Eg14_fol_87" ORDER="87" ORDERLABEL="65" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_87"/>
+            </div>
+            <div ID="phys_Eg14_fol_88" ORDER="88" ORDERLABEL="66" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_88"/>
+            </div>
+            <div ID="phys_Eg14_fol_89" ORDER="89" ORDERLABEL="67" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_89"/>
+            </div>
+            <div ID="phys_Eg14_fol_90" ORDER="90" ORDERLABEL="68" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_90"/>
+            </div>
+            <div ID="phys_Eg14_fol_91" ORDER="91" ORDERLABEL="69" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_91"/>
+            </div>
+            <div ID="phys_Eg14_fol_92" ORDER="92" ORDERLABEL="70" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_92"/>
+            </div>
+            <div ID="phys_Eg14_fol_93" ORDER="93" ORDERLABEL="71" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_93"/>
+            </div>
+            <div ID="phys_Eg14_fol_94" ORDER="94" ORDERLABEL="72" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_94"/>
+            </div>
+            <div ID="phys_Eg14_fol_95" ORDER="95" ORDERLABEL="73" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_95"/>
+            </div>
+            <div ID="phys_Eg14_fol_96" ORDER="96" ORDERLABEL="74" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_96"/>
+            </div>
+            <div ID="phys_Eg14_fol_97" ORDER="97" ORDERLABEL="75" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_97"/>
+            </div>
+            <div ID="phys_Eg14_fol_98" ORDER="98" ORDERLABEL="76" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_98"/>
+            </div>
+            <div ID="phys_Eg14_fol_99" ORDER="99" ORDERLABEL="77" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_99"/>
+            </div>
+            <div ID="phys_Eg14_fol_100" ORDER="100" ORDERLABEL="78" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_100"/>
+            </div>
+            <div ID="phys_Eg14_fol_101" ORDER="101" ORDERLABEL="79" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_101"/>
+            </div>
+            <div ID="phys_Eg14_fol_102" ORDER="102" ORDERLABEL="80" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_102"/>
+            </div>
+            <div ID="phys_Eg14_fol_103" ORDER="103" ORDERLABEL="81" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_103"/>
+            </div>
+            <div ID="phys_Eg14_fol_104" ORDER="104" ORDERLABEL="82" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_104"/>
+            </div>
+            <div ID="phys_Eg14_fol_105" ORDER="105" ORDERLABEL="83" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_105"/>
+            </div>
+            <div ID="phys_Eg14_fol_106" ORDER="106" ORDERLABEL="84" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_106"/>
+            </div>
+            <div ID="phys_Eg14_fol_107" ORDER="107" ORDERLABEL="85" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_107"/>
+            </div>
+            <div ID="phys_Eg14_fol_108" ORDER="108" ORDERLABEL="86" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_108"/>
+            </div>
+            <div ID="phys_Eg14_fol_109" ORDER="109" ORDERLABEL="87" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_109"/>
+            </div>
+            <div ID="phys_Eg14_fol_110" ORDER="110" ORDERLABEL="88" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_110"/>
+            </div>
+            <div ID="phys_Eg14_fol_111" ORDER="111" ORDERLABEL="89" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_111"/>
+            </div>
+            <div ID="phys_Eg14_fol_112" ORDER="112" ORDERLABEL="90" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_112"/>
+            </div>
+            <div ID="phys_Eg14_fol_113" ORDER="113" ORDERLABEL="91" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_113"/>
+            </div>
+            <div ID="phys_Eg14_fol_114" ORDER="114" ORDERLABEL="92" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_114"/>
+            </div>
+            <div ID="phys_Eg14_fol_115" ORDER="115" ORDERLABEL="93" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_115"/>
+            </div>
+            <div ID="phys_Eg14_fol_116" ORDER="116" ORDERLABEL="94" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_116"/>
+            </div>
+            <div ID="phys_Eg14_fol_117" ORDER="117" ORDERLABEL="95" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_117"/>
+            </div>
+            <div ID="phys_Eg14_fol_118" ORDER="118" ORDERLABEL="96" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_118"/>
+            </div>
+            <div ID="phys_Eg14_fol_119" ORDER="119" ORDERLABEL="97" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_119"/>
+            </div>
+            <div ID="phys_Eg14_fol_120" ORDER="120" ORDERLABEL="98" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_120"/>
+            </div>
+            <div ID="phys_Eg14_fol_121" ORDER="121" ORDERLABEL="99" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_121"/>
+            </div>
+            <div ID="phys_Eg14_fol_122" ORDER="122" ORDERLABEL="100" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_122"/>
+            </div>
+            <div ID="phys_Eg14_fol_123" ORDER="123" ORDERLABEL="101" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_123"/>
+            </div>
+            <div ID="phys_Eg14_fol_124" ORDER="124" ORDERLABEL="102" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_124"/>
+            </div>
+            <div ID="phys_Eg14_fol_125" ORDER="125" ORDERLABEL="103" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_125"/>
+            </div>
+            <div ID="phys_Eg14_fol_126" ORDER="126" ORDERLABEL="104" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_126"/>
+            </div>
+            <div ID="phys_Eg14_fol_127" ORDER="127" ORDERLABEL="105" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_127"/>
+            </div>
+            <div ID="phys_Eg14_fol_128" ORDER="128" ORDERLABEL="106" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_128"/>
+            </div>
+            <div ID="phys_Eg14_fol_129" ORDER="129" ORDERLABEL="A" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_129"/>
+            </div>
+            <div ID="phys_Eg14_fol_130" ORDER="130" ORDERLABEL="B" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_130"/>
+            </div>
+            <div ID="phys_Eg14_fol_131" ORDER="131" ORDERLABEL="I" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_131"/>
+            </div>
+            <div ID="phys_Eg14_fol_132" ORDER="132" ORDERLABEL="II" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_132"/>
+            </div>
+            <div ID="phys_Eg14_fol_133" ORDER="133" ORDERLABEL="III" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_133"/>
+            </div>
+            <div ID="phys_Eg14_fol_134" ORDER="134" ORDERLABEL="IV" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_134"/>
+            </div>
+            <div ID="phys_Eg14_fol_135" ORDER="135" ORDERLABEL="V" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_135"/>
+            </div>
+            <div ID="phys_Eg14_fol_136" ORDER="136" ORDERLABEL="VI" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_136"/>
+            </div>
+            <div ID="phys_Eg14_fol_137" ORDER="137" ORDERLABEL="VII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_137"/>
+            </div>
+            <div ID="phys_Eg14_fol_138" ORDER="138" ORDERLABEL="VIII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_138"/>
+            </div>
+            <div ID="phys_Eg14_fol_139" ORDER="139" ORDERLABEL="IX" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_139"/>
+            </div>
+            <div ID="phys_Eg14_fol_140" ORDER="140" ORDERLABEL="X" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_140"/>
+            </div>
+            <div ID="phys_Eg14_fol_141" ORDER="141" ORDERLABEL="XI" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_141"/>
+            </div>
+            <div ID="phys_Eg14_fol_142" ORDER="142" ORDERLABEL="XII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_142"/>
+            </div>
+            <div ID="phys_Eg14_fol_143" ORDER="143" ORDERLABEL="XIII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_143"/>
+            </div>
+            <div ID="phys_Eg14_fol_144" ORDER="144" ORDERLABEL="XIV" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_144"/>
+            </div>
+            <div ID="phys_Eg14_fol_145" ORDER="145" ORDERLABEL="XV" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_145"/>
+            </div>
+            <div ID="phys_Eg14_fol_146" ORDER="146" ORDERLABEL="XVI" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_146"/>
+            </div>
+            <div ID="phys_Eg14_fol_147" ORDER="147" ORDERLABEL="XVII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_147"/>
+            </div>
+            <div ID="phys_Eg14_fol_148" ORDER="148" ORDERLABEL="XVIII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_148"/>
+            </div>
+            <div ID="phys_Eg14_fol_149" ORDER="149" ORDERLABEL="XIX" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_149"/>
+            </div>
+            <div ID="phys_Eg14_fol_150" ORDER="150" ORDERLABEL="XX" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_150"/>
+            </div>
+            <div ID="phys_Eg14_fol_151" ORDER="151" ORDERLABEL="XXI" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_151"/>
+            </div>
+            <div ID="phys_Eg14_fol_152" ORDER="152" ORDERLABEL="XXII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_152"/>
+            </div>
+            <div ID="phys_Eg14_fol_153" ORDER="153" ORDERLABEL="XXIII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_153"/>
+            </div>
+            <div ID="phys_Eg14_fol_154" ORDER="154" ORDERLABEL="XXIV" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_154"/>
+            </div>
+            <div ID="phys_Eg14_fol_155" ORDER="155" ORDERLABEL="XXV" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_155"/>
+            </div>
+            <div ID="phys_Eg14_fol_156" ORDER="156" ORDERLABEL="XXVI" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_156"/>
+            </div>
+            <div ID="phys_Eg14_fol_157" ORDER="157" ORDERLABEL="XXVII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_157"/>
+            </div>
+            <div ID="phys_Eg14_fol_158" ORDER="158" ORDERLABEL="XXVIII" TYPE="page">
+                <fptr FILEID="file_Eg14_fol_158"/>
+            </div>
+        </div>
+    </structMap>
+    <structMap TYPE="LOGICAL">
+        <div DMDID="dmdSec_Eg14_fol_1" ID="log_Eg14_fol_1" LABEL="Die Wein-Rebe und ihre Früchte oder Beschreibung der für den Weinbau wichtigeren Wein-Reben-Arten nach einem naturgemäßen Classifications-System" TYPE="monograph">
+            <div DMDID="dmdSec_Eg14_fol_2" ID="log_Eg14_fol_2" LABEL="Titelblatt" TYPE="chapter"/>
+            <div DMDID="dmdSec_Eg14_fol_3" ID="log_Eg14_fol_3" LABEL="[1. Abt.]" TYPE="chapter"/>
+            <div DMDID="dmdSec_Eg14_fol_4" ID="log_Eg14_fol_4" LABEL="2. Abt.: Specielle Beschreibung der Rebsorten" TYPE="chapter">
+                <div DMDID="dmdSec_Eg14_fol_5" ID="log_Eg14_fol_5" LABEL="Zwischentitel" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_6" ID="log_Eg14_fol_6" LABEL="Vorwort" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_7" ID="log_Eg14_fol_7" LABEL="I. Classe: Blätter oben und unten fein behaart" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_8" ID="log_Eg14_fol_8" LABEL="II. Classe: Blätter oben kahl; unten feinhaarig oder wollig" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_9" ID="log_Eg14_fol_9" LABEL="III. Classe: Blätter oben und unten fast nackt" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_10" ID="log_Eg14_fol_10" LABEL="IV. Classe: Blätter unten filzig" TYPE="chapter"/>
+            </div>
+            <div DMDID="dmdSec_Eg14_fol_11" ID="log_Eg14_fol_11" LABEL="Tafeln" TYPE="chapter">
+                <div DMDID="dmdSec_Eg14_fol_12" ID="log_Eg14_fol_12" LABEL="Tab. A. Die Weinrebe" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_13" ID="log_Eg14_fol_13" LABEL="Tab. B. Der Rebstock" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_14" ID="log_Eg14_fol_14" LABEL="Tab. I. Klevner" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_15" ID="log_Eg14_fol_15" LABEL="Tab. II. Ruländer" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_16" ID="log_Eg14_fol_16" LABEL="Tab. III. Traminer" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_17" ID="log_Eg14_fol_17" LABEL="Tab. IV. Müllerrebe" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_18" ID="log_Eg14_fol_18" LABEL="Tab. V. Ortlieber" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_19" ID="log_Eg14_fol_19" LABEL="Tab. VI. Rissling" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_20" ID="log_Eg14_fol_20" LABEL="Tab. VII. Veltliner" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_21" ID="log_Eg14_fol_21" LABEL="Tab. VIII. Urben" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_22" ID="log_Eg14_fol_22" LABEL="Tab. IX. Elbling" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_23" ID="log_Eg14_fol_23" LABEL="Tab. X. Fürterer" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_24" ID="log_Eg14_fol_24" LABEL="Tab. XI. Malvasier" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_25" ID="log_Eg14_fol_25" LABEL="Tab. XII. Burgunder" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_26" ID="log_Eg14_fol_26" LABEL="Tab. XIII. Silvaner" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_27" ID="log_Eg14_fol_27" LABEL="Tab. XIV. Süsroth" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_28" ID="log_Eg14_fol_28" LABEL="Tab. XV. Rother Hängling" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_29" ID="log_Eg14_fol_29" LABEL="Tab. XVI. Rother Gutedel" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_30" ID="log_Eg14_fol_30" LABEL="Tab. XVII. Petersilien Rebe" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_31" ID="log_Eg14_fol_31" LABEL="Tab. XVIII. Weiss-gelber Muscateller" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_32" ID="log_Eg14_fol_32" LABEL="Tab. XIX. Orleans" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_33" ID="log_Eg14_fol_33" LABEL="Tab. XX. Zottelwelscher" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_34" ID="log_Eg14_fol_34" LABEL="Tab. XXI. Trollinger" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_35" ID="log_Eg14_fol_35" LABEL="Tab. XXII. Gänsefüsler" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_36" ID="log_Eg14_fol_36" LABEL="Tab. XXIII. Färber" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_37" ID="log_Eg14_fol_37" LABEL="Tab. XXIV. Geissdutte" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_38" ID="log_Eg14_fol_38" LABEL="Tab. XXV. Rundbeerige Cibebe" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_39" ID="log_Eg14_fol_39" LABEL="Tab. XXVI. Korinthe" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_40" ID="log_Eg14_fol_40" LABEL="Tab. XXVII. Tokayer" TYPE="chapter"/>
+                <div DMDID="dmdSec_Eg14_fol_41" ID="log_Eg14_fol_41" LABEL="Tab. XXVIII. Filziger Zottelwelscher" TYPE="chapter"/>
+            </div>
+        </div>
+    </structMap>
+    <structLink>
+        <smLink xlink:from="log_Eg14_fol_1" xlink:to="phys_Eg14_fol_1"/>
+        <smLink xlink:from="log_Eg14_fol_2" xlink:to="phys_Eg14_fol_1"/>
+        <smLink xlink:from="log_Eg14_fol_3" xlink:to="phys_Eg14_fol_3"/>
+        <smLink xlink:from="log_Eg14_fol_4" xlink:to="phys_Eg14_fol_21"/>
+        <smLink xlink:from="log_Eg14_fol_5" xlink:to="phys_Eg14_fol_21"/>
+        <smLink xlink:from="log_Eg14_fol_6" xlink:to="phys_Eg14_fol_23"/>
+        <smLink xlink:from="log_Eg14_fol_7" xlink:to="phys_Eg14_fol_27"/>
+        <smLink xlink:from="log_Eg14_fol_8" xlink:to="phys_Eg14_fol_46"/>
+        <smLink xlink:from="log_Eg14_fol_9" xlink:to="phys_Eg14_fol_67"/>
+        <smLink xlink:from="log_Eg14_fol_10" xlink:to="phys_Eg14_fol_97"/>
+        <smLink xlink:from="log_Eg14_fol_11" xlink:to="phys_Eg14_fol_129"/>
+        <smLink xlink:from="log_Eg14_fol_12" xlink:to="phys_Eg14_fol_129"/>
+        <smLink xlink:from="log_Eg14_fol_13" xlink:to="phys_Eg14_fol_130"/>
+        <smLink xlink:from="log_Eg14_fol_14" xlink:to="phys_Eg14_fol_131"/>
+        <smLink xlink:from="log_Eg14_fol_15" xlink:to="phys_Eg14_fol_132"/>
+        <smLink xlink:from="log_Eg14_fol_16" xlink:to="phys_Eg14_fol_133"/>
+        <smLink xlink:from="log_Eg14_fol_17" xlink:to="phys_Eg14_fol_134"/>
+        <smLink xlink:from="log_Eg14_fol_18" xlink:to="phys_Eg14_fol_135"/>
+        <smLink xlink:from="log_Eg14_fol_19" xlink:to="phys_Eg14_fol_136"/>
+        <smLink xlink:from="log_Eg14_fol_20" xlink:to="phys_Eg14_fol_137"/>
+        <smLink xlink:from="log_Eg14_fol_21" xlink:to="phys_Eg14_fol_138"/>
+        <smLink xlink:from="log_Eg14_fol_22" xlink:to="phys_Eg14_fol_139"/>
+        <smLink xlink:from="log_Eg14_fol_23" xlink:to="phys_Eg14_fol_140"/>
+        <smLink xlink:from="log_Eg14_fol_24" xlink:to="phys_Eg14_fol_141"/>
+        <smLink xlink:from="log_Eg14_fol_25" xlink:to="phys_Eg14_fol_142"/>
+        <smLink xlink:from="log_Eg14_fol_26" xlink:to="phys_Eg14_fol_143"/>
+        <smLink xlink:from="log_Eg14_fol_27" xlink:to="phys_Eg14_fol_144"/>
+        <smLink xlink:from="log_Eg14_fol_28" xlink:to="phys_Eg14_fol_145"/>
+        <smLink xlink:from="log_Eg14_fol_29" xlink:to="phys_Eg14_fol_146"/>
+        <smLink xlink:from="log_Eg14_fol_30" xlink:to="phys_Eg14_fol_147"/>
+        <smLink xlink:from="log_Eg14_fol_31" xlink:to="phys_Eg14_fol_148"/>
+        <smLink xlink:from="log_Eg14_fol_32" xlink:to="phys_Eg14_fol_149"/>
+        <smLink xlink:from="log_Eg14_fol_33" xlink:to="phys_Eg14_fol_150"/>
+        <smLink xlink:from="log_Eg14_fol_34" xlink:to="phys_Eg14_fol_151"/>
+        <smLink xlink:from="log_Eg14_fol_35" xlink:to="phys_Eg14_fol_152"/>
+        <smLink xlink:from="log_Eg14_fol_36" xlink:to="phys_Eg14_fol_153"/>
+        <smLink xlink:from="log_Eg14_fol_37" xlink:to="phys_Eg14_fol_154"/>
+        <smLink xlink:from="log_Eg14_fol_38" xlink:to="phys_Eg14_fol_155"/>
+        <smLink xlink:from="log_Eg14_fol_39" xlink:to="phys_Eg14_fol_156"/>
+        <smLink xlink:from="log_Eg14_fol_40" xlink:to="phys_Eg14_fol_157"/>
+        <smLink xlink:from="log_Eg14_fol_41" xlink:to="phys_Eg14_fol_158"/>
+    </structLink>
+</mets>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:eb="http://sunsite.berkeley.edu/Ebind" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd">
+  <mets:metsHdr CREATEDATE="2022-11-08T14:16:59+00:00" LASTMODDATE="2022-11-08T14:16:59+00:00">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Bayerische Staatsbibliothek</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Münchener Digitalisierungszentrum</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="mdbsb00130104">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+      <mets:xmlData>
+        <mods xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+          <identifier type="ink">M-130 - GW M20654 - ISTC im00210500</identifier>
+          <titleInfo>
+            <title>Ein mans lob. in der brief weiß. in welchem liedt erzeigt wurdt gross wirdigkeit der man [et]c. </title>
+          </titleInfo>
+          <name type="personal">
+            <displayForm/>
+          </name>
+          <originInfo>
+            <place>
+              <placeTerm type="text">[Würzburg / Bamberg]</placeTerm>
+            </place>
+            <dateIssued>[16. Jh.]</dateIssued>
+          </originInfo>
+        </mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdbsb00130104">
+    <mets:rightsMD ID="rightsbsb00130104">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+        <mets:xmlData>
+          <dv:rights xmlns:dv="http://dfg-viewer.de/">
+            <dv:owner>Bayerische Staatsbibliothek</dv:owner>
+            <dv:ownerContact>mailto:digitale.bibliothek@bsb-muenchen.de</dv:ownerContact>
+            <dv:ownerLogo>https://daten.digitale-sammlungen.de/~zend-bsb/bsblogo_dfgviewer.jpg</dv:ownerLogo>
+            <dv:ownerSiteURL>http://www.digitale-sammlungen.de</dv:ownerSiteURL>
+          </dv:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="digiprovbsb00130104">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference linktext="OPACplus">http://opacplus.bsb-muenchen.de/search?query=BV037187482</dv:reference>
+            <dv:presentation>https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/</dv:presentation>
+          </dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="DEFAULT">
+      <mets:file ID="img100-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/bsb00130104_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="img100-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/bsb00130104_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="MAX">
+      <mets:file ID="imgmax-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/300/bsb00130104_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgmax-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/300/bsb00130104_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="MIN"/>
+    <mets:fileGrp USE="THUMBS">
+      <mets:file ID="imgthm-1" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/bsb00130104_00001.jpg" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="imgthm-2" MIMETYPE="image/jpeg">
+        <mets:FLocat xlink:href="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/images/bsb00130104_00002.jpg" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DOWNLOAD">
+      <mets:file ID="bsb00130104_PDF" MIMETYPE="application/pdf">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00130104"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div ID="phys" TYPE="physSequence">
+      <mets:fptr FILEID="bsb00130104_PDF"/>
+      <mets:div ID="div1" ORDER="1" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/image_1">
+        <mets:fptr FILEID="img100-1"/>
+        <mets:fptr FILEID="imgmax-1"/>
+        <mets:fptr FILEID="imgthm-1"/>
+      </mets:div>
+      <mets:div ID="div2" ORDER="2" ORDERLABEL="00" TYPE="page" LABEL="" CONTENTIDS="https://daten.digitale-sammlungen.de/~db/0013/bsb00130104/image_2">
+        <mets:fptr FILEID="img100-2"/>
+        <mets:fptr FILEID="imgmax-2"/>
+        <mets:fptr FILEID="imgthm-2"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div ID="logbsb00130104" DMDID="mdbsb00130104" ADMID="amdbsb00130104" TYPE="monograph" LABEL="Ein mans lob. in der brief weiß. in welchem liedt erzeigt wurdt gross wirdigkeit der man [et]c. " ORDER="1" CONTENTIDS="urn:nbn:de:bvb:12-bsb00130104-1">
+      <mets:fptr FILEID="bsb00130104_PDF"/>
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xlink:from="logbsb00130104" xlink:to="physbsb00130104"/>
+    <mets:smLink xlink:from="log1" xlink:to="div1"/>
+    <mets:smLink xlink:from="log2" xlink:to="div2"/>
+  </mets:structLink>
+</mets:mets>

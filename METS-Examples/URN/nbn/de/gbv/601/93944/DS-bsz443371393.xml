@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets OBJID="25201" xsi:schemaLocation="http://www.loc.gov/standards/premis/ http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/standards/mix/ http://www.loc.gov/standards/mix/mix.xsd" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <mets:metsHdr CREATEDATE="2021-09-08T09:00:44Z">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>Goobi - e353d - 2020-08-02 18:36:20+0000</mets:name>
+         <mets:note>Goobi</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDLOG_0000">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:originInfo>
+                  <mods:edition>2. Tsd.</mods:edition>
+                  <mods:place>
+                     <mods:placeTerm type="text">München</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1919</mods:dateIssued>
+                  <mods:publisher>Roland-Verl.</mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2015</mods:dateCaptured>
+               </mods:originInfo>
+               <mods:classification>Universität Konstanz</mods:classification>
+               <mods:recordInfo>
+                  <mods:recordIdentifier source="bsz-ppn">bsz443371393</mods:recordIdentifier>
+               </mods:recordInfo>
+               <mods:identifier type="PPNanalog">bsz013657755</mods:identifier>
+               <mods:identifier type="urn">urn:nbn:de:gbv:601-93944</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title>Chimärenreiter</mods:title>
+                  <mods:subTitle>Novellen</mods:subTitle>
+               </mods:titleInfo>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/162022301">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Loerke</mods:namePart>
+                  <mods:namePart type="given">Oskar</mods:namePart>
+                  <mods:displayForm>Loerke, Oskar</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>58 S.</mods:extent>
+               </mods:physicalDescription>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>1. Kaiser</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0002">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>2. Die Puppe</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0003">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>3. Die beiden Götter</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0004">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>4. Der Handschuh</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0005">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>5. Zimbehl in den Wolken</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0006">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>6. Der Sandberg</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0007">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:titleInfo>
+                  <mods:title>7. Der Seufzer Weltbistdudumm</mods:title>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="AMD">
+      <mets:rightsMD ID="RIGHTS">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+            <mets:xmlData>
+               <dv:rights>
+                  <dv:owner>Universität Konstanz, Kommunikations-, Informations-, Medienzentrum (KIM)</dv:owner>
+                  <dv:ownerLogo>http://digishelf.de/resources/themes/digishelf/images/dfg_viewer_logo.png</dv:ownerLogo>
+                  <dv:ownerSiteURL/>
+                  <dv:ownerContact/>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="DIGIPROV">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <dv:links>
+                  <dv:reference>http://swb2.bsz-bw.de/DB=2.1/PPN?PPN=443371393</dv:reference>
+                  <dv:presentation>http://digishelf.de/ppnresolver?id=bsz443371393</dv:presentation>
+               </dv:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file ID="FILE_0001_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0001-cover_front-X0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0002-cover_front-X0002.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0003-title_page-X0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0004_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0004-title_page-X0002.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0005_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0005-title_page-X0003.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0006_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0006-text-A0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0007_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0007-text-A0002.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0008_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0008-text-A0003.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0009_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0009-text-A0004.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0010_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0010-text-A0005.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0011_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0011-text-A0006.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0012_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0012-text-A0007.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0013_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0013-text-A0008.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0014_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0014-text-A0009.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0015_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0015-text-A0010.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0016_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0016-text-A0011.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0017_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0017-text-A0012.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0018_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0018-text-A0013.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0019_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0019-text-A0014.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0020_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0020-text-A0015.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0021_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0021-text-A0016.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0022_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0022-text-A0017.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0023_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0023-text-A0018.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0024_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0024-text-A0019.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0025_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0025-text-A0020.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0026_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0026-text-A0021.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0027_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0027-text-A0022.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0028_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0028-text-A0023.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0029_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0029-text-A0024.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0030_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0030-text-A0025.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0031_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0031-text-A0026.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0032_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0032-text-A0027.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0033_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0033-text-A0028.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0034_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0034-text-A0029.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0035_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0035-text-A0030.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0036_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0036-text-A0031.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0037_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0037-text-A0032.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0038_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0038-text-A0033.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0039_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0039-text-A0034.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0040_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0040-text-A0035.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0041_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0041-text-A0036.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0042_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0042-text-A0037.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0043_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0043-text-A0038.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0044_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0044-text-A0039.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0045_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0045-text-A0040.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0046_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0046-text-A0041.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0047_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0047-text-A0042.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0048_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0048-text-A0043.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0049_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0049-text-A0044.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0050_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0050-text-A0045.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0051_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0051-text-A0046.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0052_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0052-text-A0047.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0053_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0053-text-A0048.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0054_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0054-text-A0049.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0055_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0055-text-A0050.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0056_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0056-text-A0051.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0057_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0057-text-A0052.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0058_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0058-text-A0053.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0059_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0059-text-A0054.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0060_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0060-text-A0055.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0061_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0061-text-A0056.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0062_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0062-text-A0057.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0063_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0063-text-A0058.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0064_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0064-contents-X0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0065_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0065-index-X0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0066_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0066-cover_back-X0001.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0067_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/bsz443371393/1000/0/013657755-S0067-cover_back-X0002.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="PRESENTATION">
+         <mets:file ID="FILE_0001_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0001-cover_front-X0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0002-cover_front-X0002.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0003-title_page-X0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0004_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0004-title_page-X0002.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0005_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0005-title_page-X0003.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0006_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0006-text-A0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0007_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0007-text-A0002.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0008_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0008-text-A0003.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0009_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0009-text-A0004.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0010_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0010-text-A0005.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0011_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0011-text-A0006.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0012_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0012-text-A0007.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0013_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0013-text-A0008.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0014_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0014-text-A0009.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0015_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0015-text-A0010.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0016_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0016-text-A0011.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0017_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0017-text-A0012.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0018_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0018-text-A0013.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0019_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0019-text-A0014.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0020_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0020-text-A0015.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0021_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0021-text-A0016.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0022_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0022-text-A0017.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0023_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0023-text-A0018.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0024_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0024-text-A0019.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0025_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0025-text-A0020.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0026_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0026-text-A0021.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0027_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0027-text-A0022.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0028_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0028-text-A0023.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0029_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0029-text-A0024.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0030_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0030-text-A0025.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0031_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0031-text-A0026.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0032_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0032-text-A0027.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0033_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0033-text-A0028.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0034_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0034-text-A0029.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0035_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0035-text-A0030.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0036_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0036-text-A0031.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0037_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0037-text-A0032.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0038_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0038-text-A0033.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0039_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0039-text-A0034.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0040_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0040-text-A0035.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0041_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0041-text-A0036.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0042_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0042-text-A0037.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0043_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0043-text-A0038.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0044_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0044-text-A0039.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0045_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0045-text-A0040.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0046_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0046-text-A0041.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0047_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0047-text-A0042.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0048_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0048-text-A0043.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0049_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0049-text-A0044.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0050_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0050-text-A0045.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0051_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0051-text-A0046.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0052_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0052-text-A0047.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0053_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0053-text-A0048.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0054_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0054-text-A0049.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0055_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0055-text-A0050.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0056_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0056-text-A0051.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0057_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0057-text-A0052.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0058_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0058-text-A0053.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0059_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0059-text-A0054.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0060_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0060-text-A0055.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0061_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0061-text-A0056.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0062_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0062-text-A0057.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0063_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0063-text-A0058.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0064_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0064-contents-X0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0065_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0065-index-X0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0066_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0066-cover_back-X0001.tif"/>
+         </mets:file>
+         <mets:file ID="FILE_0067_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/bsz443371393/013657755-S0067-cover_back-X0002.tif"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div ADMID="AMD" CONTENTIDS="urn:nbn:de:gbv:601-93944" DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="Chimärenreiter" TYPE="monograph">
+         <mets:div ID="LOG_0001" TYPE="cover_front"/>
+         <mets:div ID="LOG_0002" TYPE="title_page"/>
+         <mets:div DMDID="DMDLOG_0001" ID="LOG_0003" LABEL="1. Kaiser" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0002" ID="LOG_0004" LABEL="2. Die Puppe" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0003" ID="LOG_0005" LABEL="3. Die beiden Götter" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0004" ID="LOG_0006" LABEL="4. Der Handschuh" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0005" ID="LOG_0007" LABEL="5. Zimbehl in den Wolken" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0006" ID="LOG_0008" LABEL="6. Der Sandberg" TYPE="chapter"/>
+         <mets:div DMDID="DMDLOG_0007" ID="LOG_0009" LABEL="7. Der Seufzer Weltbistdudumm" TYPE="chapter"/>
+         <mets:div ID="LOG_0010" TYPE="contents"/>
+         <mets:div ID="LOG_0011" TYPE="cover_back"/>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div ID="PHYS_0000" TYPE="physSequence">
+         <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0001_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0001_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0002" ORDER="2" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0002_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0002_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0003" ORDER="3" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0003_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0003_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0004" ORDER="4" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0004_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0004_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0005" ORDER="5" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0005_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0005_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0006" ORDER="6" ORDERLABEL="1" TYPE="page">
+            <mets:fptr FILEID="FILE_0006_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0006_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0007" ORDER="7" ORDERLABEL="2" TYPE="page">
+            <mets:fptr FILEID="FILE_0007_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0007_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0008" ORDER="8" ORDERLABEL="3" TYPE="page">
+            <mets:fptr FILEID="FILE_0008_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0008_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0009" ORDER="9" ORDERLABEL="4" TYPE="page">
+            <mets:fptr FILEID="FILE_0009_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0009_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0010" ORDER="10" ORDERLABEL="5" TYPE="page">
+            <mets:fptr FILEID="FILE_0010_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0010_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0011" ORDER="11" ORDERLABEL="6" TYPE="page">
+            <mets:fptr FILEID="FILE_0011_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0011_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0012" ORDER="12" ORDERLABEL="7" TYPE="page">
+            <mets:fptr FILEID="FILE_0012_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0012_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0013" ORDER="13" ORDERLABEL="8" TYPE="page">
+            <mets:fptr FILEID="FILE_0013_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0013_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0014" ORDER="14" ORDERLABEL="9" TYPE="page">
+            <mets:fptr FILEID="FILE_0014_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0014_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0015" ORDER="15" ORDERLABEL="10" TYPE="page">
+            <mets:fptr FILEID="FILE_0015_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0015_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0016" ORDER="16" ORDERLABEL="11" TYPE="page">
+            <mets:fptr FILEID="FILE_0016_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0016_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0017" ORDER="17" ORDERLABEL="12" TYPE="page">
+            <mets:fptr FILEID="FILE_0017_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0017_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0018" ORDER="18" ORDERLABEL="13" TYPE="page">
+            <mets:fptr FILEID="FILE_0018_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0018_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0019" ORDER="19" ORDERLABEL="14" TYPE="page">
+            <mets:fptr FILEID="FILE_0019_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0019_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0020" ORDER="20" ORDERLABEL="15" TYPE="page">
+            <mets:fptr FILEID="FILE_0020_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0020_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0021" ORDER="21" ORDERLABEL="16" TYPE="page">
+            <mets:fptr FILEID="FILE_0021_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0021_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0022" ORDER="22" ORDERLABEL="17" TYPE="page">
+            <mets:fptr FILEID="FILE_0022_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0022_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0023" ORDER="23" ORDERLABEL="18" TYPE="page">
+            <mets:fptr FILEID="FILE_0023_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0023_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0024" ORDER="24" ORDERLABEL="19" TYPE="page">
+            <mets:fptr FILEID="FILE_0024_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0024_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0025" ORDER="25" ORDERLABEL="20" TYPE="page">
+            <mets:fptr FILEID="FILE_0025_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0025_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0026" ORDER="26" ORDERLABEL="21" TYPE="page">
+            <mets:fptr FILEID="FILE_0026_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0026_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0027" ORDER="27" ORDERLABEL="22" TYPE="page">
+            <mets:fptr FILEID="FILE_0027_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0027_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0028" ORDER="28" ORDERLABEL="23" TYPE="page">
+            <mets:fptr FILEID="FILE_0028_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0028_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0029" ORDER="29" ORDERLABEL="24" TYPE="page">
+            <mets:fptr FILEID="FILE_0029_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0029_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0030" ORDER="30" ORDERLABEL="25" TYPE="page">
+            <mets:fptr FILEID="FILE_0030_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0030_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0031" ORDER="31" ORDERLABEL="26" TYPE="page">
+            <mets:fptr FILEID="FILE_0031_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0031_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0032" ORDER="32" ORDERLABEL="27" TYPE="page">
+            <mets:fptr FILEID="FILE_0032_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0032_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0033" ORDER="33" ORDERLABEL="28" TYPE="page">
+            <mets:fptr FILEID="FILE_0033_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0033_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0034" ORDER="34" ORDERLABEL="29" TYPE="page">
+            <mets:fptr FILEID="FILE_0034_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0034_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0035" ORDER="35" ORDERLABEL="30" TYPE="page">
+            <mets:fptr FILEID="FILE_0035_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0035_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0036" ORDER="36" ORDERLABEL="31" TYPE="page">
+            <mets:fptr FILEID="FILE_0036_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0036_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0037" ORDER="37" ORDERLABEL="32" TYPE="page">
+            <mets:fptr FILEID="FILE_0037_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0037_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0038" ORDER="38" ORDERLABEL="33" TYPE="page">
+            <mets:fptr FILEID="FILE_0038_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0038_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0039" ORDER="39" ORDERLABEL="34" TYPE="page">
+            <mets:fptr FILEID="FILE_0039_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0039_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0040" ORDER="40" ORDERLABEL="35" TYPE="page">
+            <mets:fptr FILEID="FILE_0040_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0040_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0041" ORDER="41" ORDERLABEL="36" TYPE="page">
+            <mets:fptr FILEID="FILE_0041_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0041_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0042" ORDER="42" ORDERLABEL="37" TYPE="page">
+            <mets:fptr FILEID="FILE_0042_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0042_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0043" ORDER="43" ORDERLABEL="38" TYPE="page">
+            <mets:fptr FILEID="FILE_0043_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0043_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0044" ORDER="44" ORDERLABEL="39" TYPE="page">
+            <mets:fptr FILEID="FILE_0044_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0044_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0045" ORDER="45" ORDERLABEL="40" TYPE="page">
+            <mets:fptr FILEID="FILE_0045_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0045_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0046" ORDER="46" ORDERLABEL="41" TYPE="page">
+            <mets:fptr FILEID="FILE_0046_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0046_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0047" ORDER="47" ORDERLABEL="42" TYPE="page">
+            <mets:fptr FILEID="FILE_0047_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0047_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0048" ORDER="48" ORDERLABEL="43" TYPE="page">
+            <mets:fptr FILEID="FILE_0048_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0048_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0049" ORDER="49" ORDERLABEL="44" TYPE="page">
+            <mets:fptr FILEID="FILE_0049_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0049_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0050" ORDER="50" ORDERLABEL="45" TYPE="page">
+            <mets:fptr FILEID="FILE_0050_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0050_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0051" ORDER="51" ORDERLABEL="46" TYPE="page">
+            <mets:fptr FILEID="FILE_0051_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0051_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0052" ORDER="52" ORDERLABEL="47" TYPE="page">
+            <mets:fptr FILEID="FILE_0052_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0052_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0053" ORDER="53" ORDERLABEL="48" TYPE="page">
+            <mets:fptr FILEID="FILE_0053_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0053_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0054" ORDER="54" ORDERLABEL="49" TYPE="page">
+            <mets:fptr FILEID="FILE_0054_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0054_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0055" ORDER="55" ORDERLABEL="50" TYPE="page">
+            <mets:fptr FILEID="FILE_0055_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0055_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0056" ORDER="56" ORDERLABEL="51" TYPE="page">
+            <mets:fptr FILEID="FILE_0056_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0056_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0057" ORDER="57" ORDERLABEL="52" TYPE="page">
+            <mets:fptr FILEID="FILE_0057_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0057_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0058" ORDER="58" ORDERLABEL="53" TYPE="page">
+            <mets:fptr FILEID="FILE_0058_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0058_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0059" ORDER="59" ORDERLABEL="54" TYPE="page">
+            <mets:fptr FILEID="FILE_0059_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0059_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0060" ORDER="60" ORDERLABEL="55" TYPE="page">
+            <mets:fptr FILEID="FILE_0060_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0060_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0061" ORDER="61" ORDERLABEL="56" TYPE="page">
+            <mets:fptr FILEID="FILE_0061_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0061_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0062" ORDER="62" ORDERLABEL="57" TYPE="page">
+            <mets:fptr FILEID="FILE_0062_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0062_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0063" ORDER="63" ORDERLABEL="58" TYPE="page">
+            <mets:fptr FILEID="FILE_0063_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0063_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0064" ORDER="64" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0064_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0064_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0065" ORDER="65" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0065_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0065_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0066" ORDER="66" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0066_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0066_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0067" ORDER="67" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0067_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0067_PRESENTATION"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0002" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0003" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0004" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0005" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0006" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0007" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0008" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0009" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0010" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0011" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0012" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0013" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0014" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0015" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0016" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0017" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0018" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0019" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0020" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0021" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0022" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0023" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0024" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0025" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0026" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0027" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0028" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0029" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0030" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0031" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0032" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0033" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0034" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0035" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0036" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0037" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0038" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0039" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0040" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0041" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0042" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0043" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0044" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0045" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0046" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0047" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0048" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0049" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0050" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0051" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0052" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0053" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0054" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0055" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0056" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0057" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0058" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0059" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0060" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0061" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0062" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0063" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0064" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0065" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0066" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0067" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0001"/>
+      <mets:smLink xlink:to="PHYS_0002" xlink:from="LOG_0001"/>
+      <mets:smLink xlink:to="PHYS_0003" xlink:from="LOG_0002"/>
+      <mets:smLink xlink:to="PHYS_0004" xlink:from="LOG_0002"/>
+      <mets:smLink xlink:to="PHYS_0005" xlink:from="LOG_0002"/>
+      <mets:smLink xlink:to="PHYS_0006" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0007" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0008" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0009" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0010" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0011" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0012" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0013" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0014" xlink:from="LOG_0003"/>
+      <mets:smLink xlink:to="PHYS_0015" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0016" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0017" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0018" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0019" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0020" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0021" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0022" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0023" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0024" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0025" xlink:from="LOG_0004"/>
+      <mets:smLink xlink:to="PHYS_0026" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0027" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0028" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0029" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0030" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0031" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0032" xlink:from="LOG_0005"/>
+      <mets:smLink xlink:to="PHYS_0033" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0034" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0035" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0036" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0037" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0038" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0039" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0040" xlink:from="LOG_0006"/>
+      <mets:smLink xlink:to="PHYS_0041" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0042" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0043" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0044" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0045" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0046" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0047" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0048" xlink:from="LOG_0007"/>
+      <mets:smLink xlink:to="PHYS_0049" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0050" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0051" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0052" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0053" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0054" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0055" xlink:from="LOG_0008"/>
+      <mets:smLink xlink:to="PHYS_0056" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0057" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0058" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0059" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0060" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0061" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0062" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0063" xlink:from="LOG_0009"/>
+      <mets:smLink xlink:to="PHYS_0064" xlink:from="LOG_0010"/>
+      <mets:smLink xlink:to="PHYS_0066" xlink:from="LOG_0011"/>
+      <mets:smLink xlink:to="PHYS_0067" xlink:from="LOG_0011"/>
+   </mets:structLink>
+</mets:mets>

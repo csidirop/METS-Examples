@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>https://gei-digital.gei.de/viewer/content/PPN816659915/1000/0/00000010.jpg</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.2.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1000" HEIGHT="1451" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1000" HEIGHT="1451">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="0" WIDTH="177" HEIGHT="1422"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="309" VPOS="309" WIDTH="443" HEIGHT="97">
+					<TextBlock ID="block_0" HPOS="309" VPOS="309" WIDTH="443" HEIGHT="97">
+						<TextLine ID="line_0" HPOS="436" VPOS="309" WIDTH="262" HEIGHT="37">
+							<String ID="string_0" HPOS="436" VPOS="309" WIDTH="262" HEIGHT="37" WC="0.86" CONTENT="Statiſtik."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="309" VPOS="363" WIDTH="443" HEIGHT="43">
+							<String ID="string_1" HPOS="309" VPOS="375" WIDTH="73" HEIGHT="31" WC="0.91" CONTENT="Erſter"/><SP WIDTH="8" VPOS="375" HPOS="382"/>
+							<String ID="string_2" HPOS="390" VPOS="370" WIDTH="132" HEIGHT="33" WC="0.91" CONTENT="Haupttheil."/><SP WIDTH="31" VPOS="370" HPOS="522"/>
+							<String ID="string_3" HPOS="553" VPOS="367" WIDTH="80" HEIGHT="25" WC="0.70" CONTENT="Länder."/><SP WIDTH="17" VPOS="367" HPOS="633"/>
+							<String ID="string_4" HPOS="650" VPOS="363" WIDTH="102" HEIGHT="31" WC="0.91" CONTENT="Einwoh⸗"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="392" VPOS="397" WIDTH="360" HEIGHT="71">
+					<TextBlock ID="block_1" HPOS="392" VPOS="397" WIDTH="360" HEIGHT="71">
+						<TextLine ID="line_2" HPOS="392" VPOS="397" WIDTH="360" HEIGHT="35">
+							<String ID="string_5" HPOS="392" VPOS="412" WIDTH="45" HEIGHT="17" WC="0.93" CONTENT="ner."/><SP WIDTH="25" VPOS="412" HPOS="437"/>
+							<String ID="string_6" HPOS="462" VPOS="400" WIDTH="125" HEIGHT="32" WC="0.88" CONTENT="Natuͤrliche"/><SP WIDTH="9" VPOS="400" HPOS="587"/>
+							<String ID="string_7" HPOS="596" VPOS="401" WIDTH="41" HEIGHT="22" WC="0.93" CONTENT="und"/><SP WIDTH="10" VPOS="401" HPOS="637"/>
+							<String ID="string_8" HPOS="647" VPOS="397" WIDTH="105" HEIGHT="30" WC="0.90" CONTENT="kuͤnſtliche"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="394" VPOS="437" WIDTH="116" HEIGHT="31">
+							<String ID="string_9" HPOS="394" VPOS="437" WIDTH="116" HEIGHT="31" WC="0.95" CONTENT="Produkte."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="342" VPOS="487" WIDTH="502" HEIGHT="212">
+					<TextBlock ID="block_2" HPOS="342" VPOS="487" WIDTH="291" HEIGHT="33">
+						<TextLine ID="line_4" HPOS="342" VPOS="487" WIDTH="291" HEIGHT="33">
+							<String ID="string_10" HPOS="342" VPOS="494" WIDTH="68" HEIGHT="26" WC="0.92" CONTENT="Erſtes"/><SP WIDTH="16" VPOS="494" HPOS="410"/>
+							<String ID="string_11" HPOS="426" VPOS="490" WIDTH="91" HEIGHT="27" WC="0.96" CONTENT="Kapitel."/><SP WIDTH="30" VPOS="490" HPOS="517"/>
+							<String ID="string_12" HPOS="547" VPOS="487" WIDTH="86" HEIGHT="25" WC="0.52" CONTENT="Lander."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_3" HPOS="379" VPOS="524" WIDTH="462" HEIGHT="99">
+						<TextLine ID="line_5" HPOS="379" VPOS="524" WIDTH="376" HEIGHT="31">
+							<String ID="string_13" HPOS="379" VPOS="532" WIDTH="29" HEIGHT="23" WC="0.92" CONTENT="A."/><SP WIDTH="18" VPOS="532" HPOS="408"/>
+							<String ID="string_14" HPOS="426" VPOS="530" WIDTH="112" HEIGHT="25" WC="0.85" CONTENT="Arealgroͤße"/><SP WIDTH="16" VPOS="530" HPOS="538"/>
+							<String ID="string_15" HPOS="554" VPOS="531" WIDTH="31" HEIGHT="18" WC="0.96" CONTENT="der"/><SP WIDTH="11" VPOS="531" HPOS="585"/>
+							<String ID="string_16" HPOS="596" VPOS="527" WIDTH="109" HEIGHT="25" WC="0.96" CONTENT="Provinzen"/><SP WIDTH="13" VPOS="527" HPOS="705"/>
+							<String ID="string_17" HPOS="718" VPOS="524" WIDTH="37" HEIGHT="20" WC="0.96" CONTENT="und"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="425" VPOS="556" WIDTH="333" HEIGHT="35">
+							<String ID="string_18" HPOS="425" VPOS="564" WIDTH="110" HEIGHT="27" WC="0.91" CONTENT="muthmaßl."/><SP WIDTH="7" VPOS="564" HPOS="535"/>
+							<String ID="string_19" HPOS="542" VPOS="561" WIDTH="71" HEIGHT="28" WC="0.94" CONTENT="Anzahl"/><SP WIDTH="6" VPOS="561" HPOS="613"/>
+							<String ID="string_20" HPOS="619" VPOS="560" WIDTH="48" HEIGHT="27" WC="0.94" CONTENT="ihrer"/><SP WIDTH="8" VPOS="560" HPOS="667"/>
+							<String ID="string_21" HPOS="675" VPOS="556" WIDTH="83" HEIGHT="25" WC="0.38" CONTENT="Bewoh⸗"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="425" VPOS="590" WIDTH="416" HEIGHT="33">
+							<String ID="string_22" HPOS="425" VPOS="590" WIDTH="416" HEIGHT="33" WC="0.22" CONTENT="TCC"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_4" HPOS="382" VPOS="636" WIDTH="461" HEIGHT="25">
+						<TextLine ID="line_8" HPOS="382" VPOS="636" WIDTH="461" HEIGHT="25">
+							<String ID="string_23" HPOS="382" VPOS="640" WIDTH="27" HEIGHT="21" WC="0.93" CONTENT="B."/><SP WIDTH="19" VPOS="640" HPOS="409"/>
+							<String ID="string_24" HPOS="428" VPOS="636" WIDTH="96" HEIGHT="24" WC="0.0" CONTENT="Gewöſſ"/><SP WIDTH="40" VPOS="636" HPOS="524"/>
+							<String ID="string_25" HPOS="564" VPOS="644" WIDTH="128" HEIGHT="12" WC="0.0" CONTENT="er"/><SP WIDTH="118" VPOS="644" HPOS="692"/>
+							<String ID="string_26" HPOS="810" VPOS="636" WIDTH="33" HEIGHT="15" WC="0.54" CONTENT="3."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_5" HPOS="384" VPOS="671" WIDTH="460" HEIGHT="28">
+						<TextLine ID="line_9" HPOS="384" VPOS="671" WIDTH="460" HEIGHT="28">
+							<String ID="string_27" HPOS="384" VPOS="675" WIDTH="27" HEIGHT="24" WC="0.94" CONTENT="C."/><SP WIDTH="20" VPOS="675" HPOS="411"/>
+							<String ID="string_28" HPOS="431" VPOS="677" WIDTH="70" HEIGHT="20" WC="0.95" CONTENT="Boden"/><SP WIDTH="28" VPOS="677" HPOS="501"/>
+							<String ID="string_29" HPOS="529" VPOS="675" WIDTH="37" HEIGHT="20" WC="0.95" CONTENT="und"/><SP WIDTH="21" VPOS="675" HPOS="566"/>
+							<String ID="string_30" HPOS="587" VPOS="671" WIDTH="148" HEIGHT="21" WC="0.71" CONTENT="Klima"/><SP WIDTH="77" VPOS="671" HPOS="735"/>
+							<String ID="string_31" HPOS="812" VPOS="672" WIDTH="32" HEIGHT="20" WC="0.71" CONTENT="27."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="362" VPOS="723" WIDTH="485" HEIGHT="111">
+					<TextBlock ID="block_6" HPOS="362" VPOS="723" WIDTH="485" HEIGHT="111">
+						<TextLine ID="line_10" HPOS="362" VPOS="723" WIDTH="373" HEIGHT="41">
+							<String ID="string_32" HPOS="362" VPOS="727" WIDTH="95" HEIGHT="37" WC="0.90" CONTENT="Zweytes"/><SP WIDTH="15" VPOS="727" HPOS="457"/>
+							<String ID="string_33" HPOS="472" VPOS="726" WIDTH="91" HEIGHT="28" WC="0.96" CONTENT="Kapitel."/><SP WIDTH="39" VPOS="726" HPOS="563"/>
+							<String ID="string_34" HPOS="602" VPOS="723" WIDTH="133" HEIGHT="26" WC="0.95" CONTENT="Einwohner."/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="387" VPOS="760" WIDTH="460" HEIGHT="30">
+							<String ID="string_35" HPOS="387" VPOS="767" WIDTH="29" HEIGHT="23" WC="0.93" CONTENT="A."/><SP WIDTH="19" VPOS="767" HPOS="416"/>
+							<String ID="string_36" HPOS="435" VPOS="767" WIDTH="58" HEIGHT="22" WC="0.96" CONTENT="Ueber"/><SP WIDTH="11" VPOS="767" HPOS="493"/>
+							<String ID="string_37" HPOS="504" VPOS="767" WIDTH="28" HEIGHT="21" WC="0.93" CONTENT="die"/><SP WIDTH="11" VPOS="767" HPOS="532"/>
+							<String ID="string_38" HPOS="543" VPOS="762" WIDTH="100" HEIGHT="27" WC="0.90" CONTENT="Volkszahl"/><SP WIDTH="11" VPOS="762" HPOS="643"/>
+							<String ID="string_39" HPOS="654" VPOS="760" WIDTH="103" HEIGHT="26" WC="0.92" CONTENT="uͤberhaupt"/><SP WIDTH="58" VPOS="760" HPOS="757"/>
+							<String ID="string_40" HPOS="815" VPOS="765" WIDTH="32" HEIGHT="20" WC="0.96" CONTENT="30."/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="388" VPOS="804" WIDTH="377" HEIGHT="30">
+							<String ID="string_41" HPOS="388" VPOS="811" WIDTH="27" HEIGHT="23" WC="0.92" CONTENT="B."/><SP WIDTH="16" VPOS="811" HPOS="415"/>
+							<String ID="string_42" HPOS="431" VPOS="808" WIDTH="159" HEIGHT="26" WC="0.92" CONTENT="Verſchiedenheit"/><SP WIDTH="16" VPOS="808" HPOS="590"/>
+							<String ID="string_43" HPOS="606" VPOS="809" WIDTH="31" HEIGHT="18" WC="0.96" CONTENT="der"/><SP WIDTH="13" VPOS="809" HPOS="637"/>
+							<String ID="string_44" HPOS="650" VPOS="804" WIDTH="115" HEIGHT="25" WC="0.95" CONTENT="Einwohner"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="434" VPOS="840" WIDTH="416" HEIGHT="58">
+					<TextBlock ID="block_7" HPOS="434" VPOS="840" WIDTH="416" HEIGHT="58">
+						<TextLine ID="line_13" HPOS="434" VPOS="840" WIDTH="332" HEIGHT="26">
+							<String ID="string_45" HPOS="434" VPOS="844" WIDTH="44" HEIGHT="22" WC="0.96" CONTENT="nach"/><SP WIDTH="23" VPOS="844" HPOS="478"/>
+							<String ID="string_46" HPOS="501" VPOS="845" WIDTH="30" HEIGHT="17" WC="0.93" CONTENT="der"/><SP WIDTH="25" VPOS="845" HPOS="531"/>
+							<String ID="string_47" HPOS="556" VPOS="840" WIDTH="146" HEIGHT="26" WC="0.91" CONTENT="Abſtammung,"/><SP WIDTH="30" VPOS="840" HPOS="702"/>
+							<String ID="string_48" HPOS="732" VPOS="841" WIDTH="34" HEIGHT="18" WC="0.96" CONTENT="den"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="436" VPOS="873" WIDTH="414" HEIGHT="25">
+							<String ID="string_49" HPOS="436" VPOS="875" WIDTH="94" HEIGHT="22" WC="0.92" CONTENT="Staͤnden"/><SP WIDTH="17" VPOS="875" HPOS="530"/>
+							<String ID="string_50" HPOS="547" VPOS="876" WIDTH="38" HEIGHT="18" WC="0.96" CONTENT="und"/><SP WIDTH="12" VPOS="876" HPOS="585"/>
+							<String ID="string_51" HPOS="597" VPOS="873" WIDTH="143" HEIGHT="25" WC="0.75" CONTENT="Sprachen"/><SP WIDTH="77" VPOS="873" HPOS="740"/>
+							<String ID="string_52" HPOS="817" VPOS="876" WIDTH="33" HEIGHT="18" WC="0.44" CONTENT="33“"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="354" VPOS="923" WIDTH="415" HEIGHT="59">
+					<TextBlock ID="block_8" HPOS="354" VPOS="923" WIDTH="415" HEIGHT="59">
+						<TextLine ID="line_15" HPOS="354" VPOS="923" WIDTH="415" HEIGHT="35">
+							<String ID="string_53" HPOS="354" VPOS="933" WIDTH="87" HEIGHT="25" WC="0.94" CONTENT="Drittes"/><SP WIDTH="15" VPOS="933" HPOS="441"/>
+							<String ID="string_54" HPOS="456" VPOS="929" WIDTH="90" HEIGHT="27" WC="0.93" CONTENT="Kapitel."/><SP WIDTH="45" VPOS="929" HPOS="546"/>
+							<String ID="string_55" HPOS="591" VPOS="924" WIDTH="122" HEIGHT="26" WC="0.55" CONTENT="Naluͤrliche"/><SP WIDTH="15" VPOS="924" HPOS="713"/>
+							<String ID="string_56" HPOS="728" VPOS="923" WIDTH="41" HEIGHT="23" WC="0.96" CONTENT="und"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="425" VPOS="954" WIDTH="232" HEIGHT="28">
+							<String ID="string_57" HPOS="425" VPOS="958" WIDTH="103" HEIGHT="24" WC="0.63" CONTENT="kuͤnſtliche"/><SP WIDTH="14" VPOS="958" HPOS="528"/>
+							<String ID="string_58" HPOS="542" VPOS="954" WIDTH="115" HEIGHT="28" WC="0.95" CONTENT="Produkte."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="396" VPOS="991" WIDTH="460" HEIGHT="99">
+					<TextBlock ID="block_9" HPOS="396" VPOS="991" WIDTH="460" HEIGHT="99">
+						<TextLine ID="line_17" HPOS="396" VPOS="991" WIDTH="374" HEIGHT="32">
+							<String ID="string_59" HPOS="396" VPOS="1000" WIDTH="28" HEIGHT="23" WC="0.93" CONTENT="A."/><SP WIDTH="19" VPOS="1000" HPOS="424"/>
+							<String ID="string_60" HPOS="443" VPOS="995" WIDTH="154" HEIGHT="25" WC="0.92" CONTENT="Naturprodukte"/><SP WIDTH="19" VPOS="995" HPOS="597"/>
+							<String ID="string_61" HPOS="616" VPOS="1003" WIDTH="32" HEIGHT="6" WC="0.91" CONTENT="—"/><SP WIDTH="29" VPOS="1003" HPOS="648"/>
+							<String ID="string_62" HPOS="677" VPOS="994" WIDTH="34" HEIGHT="18" WC="0.96" CONTENT="aus"/><SP WIDTH="19" VPOS="994" HPOS="711"/>
+							<String ID="string_63" HPOS="730" VPOS="991" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="dem"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="441" VPOS="1025" WIDTH="332" HEIGHT="32">
+							<String ID="string_64" HPOS="441" VPOS="1032" WIDTH="101" HEIGHT="25" WC="0.31" CONTENT="Pflanzen-"/><SP WIDTH="11" VPOS="1032" HPOS="542"/>
+							<String ID="string_65" HPOS="553" VPOS="1028" WIDTH="65" HEIGHT="25" WC="0.15" CONTENT="Thier"/><SP WIDTH="13" VPOS="1028" HPOS="618"/>
+							<String ID="string_66" HPOS="631" VPOS="1029" WIDTH="37" HEIGHT="18" WC="0.91" CONTENT="und"/><SP WIDTH="9" VPOS="1029" HPOS="668"/>
+							<String ID="string_67" HPOS="677" VPOS="1025" WIDTH="96" HEIGHT="21" WC="0.89" CONTENT="Mineral⸗"/>
+						</TextLine>
+						<TextLine ID="line_19" HPOS="441" VPOS="1059" WIDTH="415" HEIGHT="31">
+							<String ID="string_68" HPOS="441" VPOS="1067" WIDTH="263" HEIGHT="23" WC="0.65" CONTENT="reiche"/><SP WIDTH="77" VPOS="1067" HPOS="704"/>
+							<String ID="string_69" HPOS="781" VPOS="1059" WIDTH="75" HEIGHT="24" WC="0.71" CONTENT="36."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="399" VPOS="1108" WIDTH="459" HEIGHT="27">
+					<TextBlock ID="block_10" HPOS="399" VPOS="1108" WIDTH="459" HEIGHT="27">
+						<TextLine ID="line_20" HPOS="399" VPOS="1108" WIDTH="459" HEIGHT="27">
+							<String ID="string_70" HPOS="399" VPOS="1113" WIDTH="26" HEIGHT="22" WC="0.92" CONTENT="B."/><SP WIDTH="19" VPOS="1113" HPOS="425"/>
+							<String ID="string_71" HPOS="444" VPOS="1110" WIDTH="101" HEIGHT="25" WC="0.42" CONTENT="Kuͤnſtliche"/><SP WIDTH="23" VPOS="1110" HPOS="545"/>
+							<String ID="string_72" HPOS="568" VPOS="1108" WIDTH="181" HEIGHT="25" WC="0.74" CONTENT="Produkte"/><SP WIDTH="34" VPOS="1108" HPOS="749"/>
+							<String ID="string_73" HPOS="783" VPOS="1122" WIDTH="7" HEIGHT="7" WC="0.74" CONTENT="."/><SP WIDTH="34" VPOS="1122" HPOS="790"/>
+							<String ID="string_74" HPOS="824" VPOS="1111" WIDTH="34" HEIGHT="19" WC="0.78" CONTENT="47."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="446" VPOS="1143" WIDTH="414" HEIGHT="71">
+					<TextBlock ID="block_11" HPOS="446" VPOS="1143" WIDTH="414" HEIGHT="71">
+						<TextLine ID="line_21" HPOS="446" VPOS="1143" WIDTH="323" HEIGHT="26">
+							<String ID="string_75" HPOS="446" VPOS="1146" WIDTH="144" HEIGHT="23" WC="0.86" CONTENT="Landwirthſchaft"/><SP WIDTH="15" VPOS="1146" HPOS="590"/>
+							<String ID="string_76" HPOS="605" VPOS="1146" WIDTH="33" HEIGHT="18" WC="0.96" CONTENT="und"/><SP WIDTH="15" VPOS="1146" HPOS="638"/>
+							<String ID="string_77" HPOS="653" VPOS="1144" WIDTH="34" HEIGHT="21" WC="0.93" CONTENT="ihre"/><SP WIDTH="14" VPOS="1144" HPOS="687"/>
+							<String ID="string_78" HPOS="701" VPOS="1143" WIDTH="68" HEIGHT="21" WC="0.45" CONTENT="Hauptk⸗"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="446" VPOS="1167" WIDTH="414" HEIGHT="29">
+							<String ID="string_79" HPOS="446" VPOS="1172" WIDTH="69" HEIGHT="20" WC="0.90" CONTENT="zwelge,"/><SP WIDTH="22" VPOS="1172" HPOS="515"/>
+							<String ID="string_80" HPOS="537" VPOS="1163" WIDTH="89" HEIGHT="37" WC="0.54" CONTENT="Viehzucht"/><SP WIDTH="14" VPOS="1163" HPOS="626"/>
+							<String ID="string_81" HPOS="640" VPOS="1168" WIDTH="32" HEIGHT="18" WC="0.96" CONTENT="und"/><SP WIDTH="14" VPOS="1168" HPOS="672"/>
+							<String ID="string_82" HPOS="686" VPOS="1167" WIDTH="83" HEIGHT="20" WC="0.94" CONTENT="Ackerbau"/><SP WIDTH="63" VPOS="1167" HPOS="769"/>
+							<String ID="string_83" HPOS="832" VPOS="1167" WIDTH="28" HEIGHT="17" WC="0.93" CONTENT="48."/>
+						</TextLine>
+						<TextLine ID="line_23" HPOS="447" VPOS="1189" WIDTH="413" HEIGHT="25">
+							<String ID="string_84" HPOS="447" VPOS="1190" WIDTH="238" HEIGHT="24" WC="0.55" CONTENT="Stadtwirchſchaft"/><SP WIDTH="47" VPOS="1190" HPOS="685"/>
+							<String ID="string_85" HPOS="732" VPOS="1201" WIDTH="5" HEIGHT="6" WC="0.11" CONTENT="8"/><SP WIDTH="48" VPOS="1201" HPOS="737"/>
+							<String ID="string_86" HPOS="785" VPOS="1189" WIDTH="75" HEIGHT="17" WC="0.42" CONTENT="38,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

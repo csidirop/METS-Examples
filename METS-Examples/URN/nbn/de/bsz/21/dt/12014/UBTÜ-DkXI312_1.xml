@@ -1,0 +1,357 @@
+<mets xmlns="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mets/mets.xsd http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <metsHdr>
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>Universitätsbibliothek Tübingen</name>
+        </agent>
+        <agent OTHERROLE="Sponsor" ROLE="OTHER" TYPE="ORGANIZATION">
+            <name>Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg</name>
+        </agent>
+    </metsHdr>
+    <dmdSec ID="dmdSec_DkXI312_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Preussisches Buss- und Behtlied ...</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="urn">urn:nbn:de:bsz:21-dt-12014</mods:identifier>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-12014</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="swb-ppn">1651043809</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:location>
+                        <mods:physicalLocation>Universitätsbibliothek Tübingen</mods:physicalLocation>
+                        <mods:shelfLocator>Dk XI 312</mods:shelfLocator>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=1</mods:url>
+                    </mods:location>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                    <mods:subject>
+                        <mods:topic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4147044-8">
+                            <mods:displayForm>Bußgebet</mods:displayForm>
+                        </mods:topic>
+                    </mods:subject>
+                    <mods:subject>
+                        <mods:geographic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4047194-9">
+                            <mods:displayForm>Preußen</mods:displayForm>
+                        </mods:geographic>
+                    </mods:subject>
+                    <mods:name type="personal">
+                        <mods:displayForm>Dach, Simon</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">Königsberg</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1647</mods:dateIssued>
+                        <mods:dateIssued>1647</mods:dateIssued>
+                    </mods:originInfo>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_2">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband vorn</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=1</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_3">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel vorn</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=2</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_4">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Titelblatt</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=3</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_5">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>A2r-A7v Text</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=5</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_6">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Kolophon</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=17</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_7">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel hinten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=19</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_8">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband hinten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=20</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_DkXI312_9">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Farbkeil</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/DkXI312#p=21</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amdSec_DkXI312">
+        <rightsMD ID="rightsMD_DkXI312">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Tübingen</dv:owner>
+                        <dv:ownerLogo>http://idb.ub.uni-tuebingen.de/static/img/logo_dfgviewer.gif</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ub.uni-tuebingen.de</dv:ownerSiteURL>
+                        <dv:license>pdm</dv:license>
+                    </dv:rights>
+                </xmlData>
+            </mdWrap>
+        </rightsMD>
+        <digiprovMD ID="digiprovMD_DkXI312">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <xmlData>
+                    <dv:links>
+                        <dv:reference>https://katalog.ub.uni-tuebingen.de/opac/RDSIndex/Results?type0[]=ex&amp;lookfor0[]=id:1651043809</dv:reference>
+                        <dv:presentation>http://idb.ub.uni-tuebingen.de/opendigi/DkXI312</dv:presentation>
+                    </dv:links>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="DEFAULT">
+            <file ID="file_DkXI312_1" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_001.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_2" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_002.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_3" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_003.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_4" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_004.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_5" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_005.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_6" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_006.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_7" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_007.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_8" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_008.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_9" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_009.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_10" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_010.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_11" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_011.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_12" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_012.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_13" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_013.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_14" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_014.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_15" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_015.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_16" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_016.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_17" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_017.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_18" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_018.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_19" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_019.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_20" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_020.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_DkXI312_21" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/DkXI312/DkXI312_021.jp2/full/full/0/default.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="PHYSICAL">
+        <div ID="phys_DkXI312" TYPE="physSequence">
+            <div ID="phys_DkXI312_1" ORDER="1" ORDERLABEL="0" TYPE="page">
+                <fptr FILEID="file_DkXI312_1"/>
+            </div>
+            <div ID="phys_DkXI312_2" ORDER="2" ORDERLABEL="0a" TYPE="page">
+                <fptr FILEID="file_DkXI312_2"/>
+            </div>
+            <div ID="phys_DkXI312_3" ORDER="3" ORDERLABEL="A1r" TYPE="page">
+                <fptr FILEID="file_DkXI312_3"/>
+            </div>
+            <div ID="phys_DkXI312_4" ORDER="4" ORDERLABEL="A1v" TYPE="page">
+                <fptr FILEID="file_DkXI312_4"/>
+            </div>
+            <div ID="phys_DkXI312_5" ORDER="5" ORDERLABEL="A2r" TYPE="page">
+                <fptr FILEID="file_DkXI312_5"/>
+            </div>
+            <div ID="phys_DkXI312_6" ORDER="6" ORDERLABEL="A2v" TYPE="page">
+                <fptr FILEID="file_DkXI312_6"/>
+            </div>
+            <div ID="phys_DkXI312_7" ORDER="7" ORDERLABEL="A3r" TYPE="page">
+                <fptr FILEID="file_DkXI312_7"/>
+            </div>
+            <div ID="phys_DkXI312_8" ORDER="8" ORDERLABEL="A3v" TYPE="page">
+                <fptr FILEID="file_DkXI312_8"/>
+            </div>
+            <div ID="phys_DkXI312_9" ORDER="9" ORDERLABEL="A4r" TYPE="page">
+                <fptr FILEID="file_DkXI312_9"/>
+            </div>
+            <div ID="phys_DkXI312_10" ORDER="10" ORDERLABEL="A4v" TYPE="page">
+                <fptr FILEID="file_DkXI312_10"/>
+            </div>
+            <div ID="phys_DkXI312_11" ORDER="11" ORDERLABEL="A5r" TYPE="page">
+                <fptr FILEID="file_DkXI312_11"/>
+            </div>
+            <div ID="phys_DkXI312_12" ORDER="12" ORDERLABEL="A5v" TYPE="page">
+                <fptr FILEID="file_DkXI312_12"/>
+            </div>
+            <div ID="phys_DkXI312_13" ORDER="13" ORDERLABEL="A6r" TYPE="page">
+                <fptr FILEID="file_DkXI312_13"/>
+            </div>
+            <div ID="phys_DkXI312_14" ORDER="14" ORDERLABEL="A6v" TYPE="page">
+                <fptr FILEID="file_DkXI312_14"/>
+            </div>
+            <div ID="phys_DkXI312_15" ORDER="15" ORDERLABEL="A7r" TYPE="page">
+                <fptr FILEID="file_DkXI312_15"/>
+            </div>
+            <div ID="phys_DkXI312_16" ORDER="16" ORDERLABEL="A7v" TYPE="page">
+                <fptr FILEID="file_DkXI312_16"/>
+            </div>
+            <div ID="phys_DkXI312_17" ORDER="17" ORDERLABEL="A8r" TYPE="page">
+                <fptr FILEID="file_DkXI312_17"/>
+            </div>
+            <div ID="phys_DkXI312_18" ORDER="18" ORDERLABEL="A8v" TYPE="page">
+                <fptr FILEID="file_DkXI312_18"/>
+            </div>
+            <div ID="phys_DkXI312_19" ORDER="19" ORDERLABEL="A8va" TYPE="page">
+                <fptr FILEID="file_DkXI312_19"/>
+            </div>
+            <div ID="phys_DkXI312_20" ORDER="20" ORDERLABEL="A8vb" TYPE="page">
+                <fptr FILEID="file_DkXI312_20"/>
+            </div>
+            <div ID="phys_DkXI312_21" ORDER="21" ORDERLABEL="A8vc" TYPE="page">
+                <fptr FILEID="file_DkXI312_21"/>
+            </div>
+        </div>
+    </structMap>
+    <structMap TYPE="LOGICAL">
+        <div DMDID="dmdSec_DkXI312_1" ID="log_DkXI312_1" LABEL="Preussisches Buss- und Behtlied ..." TYPE="monograph">
+            <div DMDID="dmdSec_DkXI312_2" ID="log_DkXI312_2" LABEL="Einband vorn" TYPE="chapter"/>
+            <div DMDID="dmdSec_DkXI312_3" ID="log_DkXI312_3" LABEL="Spiegel vorn" TYPE="chapter"/>
+            <div DMDID="dmdSec_DkXI312_4" ID="log_DkXI312_4" LABEL="Titelblatt" TYPE="chapter">
+                <div DMDID="dmdSec_DkXI312_5" ID="log_DkXI312_5" LABEL="A2r-A7v Text" TYPE="chapter"/>
+            </div>
+            <div DMDID="dmdSec_DkXI312_6" ID="log_DkXI312_6" LABEL="Kolophon" TYPE="chapter"/>
+            <div DMDID="dmdSec_DkXI312_7" ID="log_DkXI312_7" LABEL="Spiegel hinten" TYPE="chapter"/>
+            <div DMDID="dmdSec_DkXI312_8" ID="log_DkXI312_8" LABEL="Einband hinten" TYPE="chapter"/>
+            <div DMDID="dmdSec_DkXI312_9" ID="log_DkXI312_9" LABEL="Farbkeil" TYPE="chapter"/>
+        </div>
+    </structMap>
+    <structLink>
+        <smLink xlink:from="log_DkXI312_1" xlink:to="phys_DkXI312_1"/>
+        <smLink xlink:from="log_DkXI312_2" xlink:to="phys_DkXI312_1"/>
+        <smLink xlink:from="log_DkXI312_3" xlink:to="phys_DkXI312_2"/>
+        <smLink xlink:from="log_DkXI312_4" xlink:to="phys_DkXI312_3"/>
+        <smLink xlink:from="log_DkXI312_5" xlink:to="phys_DkXI312_5"/>
+        <smLink xlink:from="log_DkXI312_6" xlink:to="phys_DkXI312_17"/>
+        <smLink xlink:from="log_DkXI312_7" xlink:to="phys_DkXI312_19"/>
+        <smLink xlink:from="log_DkXI312_8" xlink:to="phys_DkXI312_20"/>
+        <smLink xlink:from="log_DkXI312_9" xlink:to="phys_DkXI312_21"/>
+    </structLink>
+</mets>

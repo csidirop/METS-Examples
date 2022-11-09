@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets OBJID="25613" xsi:schemaLocation="http://www.loc.gov/standards/premis/ http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/standards/mix/ http://www.loc.gov/standards/mix/mix.xsd" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <mets:metsHdr CREATEDATE="2021-08-02T10:43:58Z">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>Goobi - e353d - 2020-08-02 18:36:20+0000</mets:name>
+         <mets:note>Goobi</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDLOG_0000">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:identifier type="urn">urn:nbn:de:gbv:601-90962</mods:identifier>
+               <mods:location>
+                  <mods:physicalLocation>Gleimhaus Halberstadt</mods:physicalLocation>
+                  <mods:shelfLocator>NL Widdel W 116</mods:shelfLocator>
+               </mods:location>
+               <mods:classification authority="GBV">Nachlässe#Wolfgang Widdel</mods:classification>
+               <mods:recordInfo>
+                  <mods:recordIdentifier source="gbv-ppn">846805723</mods:recordIdentifier>
+               </mods:recordInfo>
+               <mods:titleInfo>
+                  <mods:title>oktobertag in wittenberg</mods:title>
+               </mods:titleInfo>
+               <mods:part>
+                  <mods:detail>
+                     <mods:number>[W116]</mods:number>
+                  </mods:detail>
+               </mods:part>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+               </mods:language>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Dessau</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1978</mods:dateIssued>
+               </mods:originInfo>
+               <mods:subject authority="">
+                  <mods:topic>widdokto</mods:topic>
+               </mods:subject>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/770562612">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Widdel</mods:namePart>
+                  <mods:namePart type="given">Wolfgang</mods:namePart>
+                  <mods:displayForm>Widdel, Wolfgang</mods:displayForm>
+               </mods:name>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Halberstadt</mods:placeTerm>
+                  </mods:place>
+                  <mods:publisher>Gleimhaus</mods:publisher>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+                  <mods:dateCaptured encoding="w3cdtf">2017</mods:dateCaptured>
+               </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                  <mods:extent>1 S.</mods:extent>
+               </mods:physicalDescription>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="AMD">
+      <mets:rightsMD ID="RIGHTS">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+            <mets:xmlData>
+               <dv:rights>
+                  <dv:owner>Gleimhaus Halberstadt</dv:owner>
+                  <dv:ownerLogo>http://digishelf.de/resources/themes/digishelf/images/dfg_viewer_logo.png</dv:ownerLogo>
+                  <dv:ownerSiteURL>http://www.gleimhaus.de</dv:ownerSiteURL>
+                  <dv:ownerContact>mailto:gleimhaus@halberstadt.de</dv:ownerContact>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="DIGIPROV">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <dv:links>
+                  <dv:reference>https://gso.gbv.de/DB=2.1/PPN?PPN=846805723</dv:reference>
+                  <dv:presentation>http://digishelf.de/ppnresolver?id=846805723</dv:presentation>
+               </dv:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="MAX">
+         <mets:file ID="FILE_0001_MAX" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/846805723/1000/0/00000001.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="THUMBS">
+         <mets:file ID="FILE_0001_THUMBS" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/846805723/150/0/00000001.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="MIN">
+         <mets:file ID="FILE_0001_MIN" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/846805723/600/0/00000001.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="PRESENTATION">
+         <mets:file ID="FILE_0001_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="file:///opt/digiverso/viewer/media/846805723/00000001.tif"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file ID="FILE_0001_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://digishelf.de/content/846805723/800/0/00000001.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div ADMID="AMD" CONTENTIDS="urn:nbn:de:gbv:601-90962" DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="oktobertag in wittenberg" TYPE="SingleLetter"/>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div ID="PHYS_0000" TYPE="physSequence">
+         <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL=" - " TYPE="page">
+            <mets:fptr FILEID="FILE_0001_MAX"/>
+            <mets:fptr FILEID="FILE_0001_THUMBS"/>
+            <mets:fptr FILEID="FILE_0001_MIN"/>
+            <mets:fptr FILEID="FILE_0001_PRESENTATION"/>
+            <mets:fptr FILEID="FILE_0001_DEFAULT"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0000"/>
+   </mets:structLink>
+</mets:mets>

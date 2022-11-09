@@ -1,0 +1,660 @@
+<mets xmlns="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mets/mets.xsd http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <metsHdr>
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>Universitätsbibliothek Tübingen</name>
+        </agent>
+        <agent OTHERROLE="Sponsor" ROLE="OTHER" TYPE="ORGANIZATION">
+            <name>Deutsche Forschungsgemeinschaft (DFG)</name>
+        </agent>
+    </metsHdr>
+    <dmdSec ID="dmdSec_Bi211_fol-4_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Andreae Iohannis Retzii Phil. Mag. Ad Reg. Acad. Lvndens. Hist. Natvr. Prof. R. Et Ord. Des. Societ. Physiographicae Lvnd. Secretarii Etc. Fascicvlvs Observationvm Botanicarvm Qvartvs; Cvm Figvris Aeneis</mods:title>
+                        <mods:partName>4</mods:partName>
+                    </mods:titleInfo>
+                    <mods:identifier type="urn">urn:nbn:de:bsz:21-dt-125273</mods:identifier>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-125273</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="swb-ppn">1540677990</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:identifier type="vd18">VD18 90489039</mods:identifier>
+                    <mods:location>
+                        <mods:physicalLocation>Universitätsbibliothek Tübingen</mods:physicalLocation>
+                        <mods:shelfLocator>Bi 211.2</mods:shelfLocator>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=1</mods:url>
+                    </mods:location>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:name type="personal">
+                        <mods:displayForm>Retzius, Anders Jåhan</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:displayForm>Crusius, Siegfried Leberecht</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1786</mods:dateIssued>
+                        <mods:dateIssued>1786</mods:dateIssued>
+                    </mods:originInfo>
+                    <mods:relatedItem type="host">
+                        <mods:recordInfo>
+                            <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-125227</mods:recordIdentifier>
+                        </mods:recordInfo>
+                    </mods:relatedItem>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_2">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=1</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_3">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=2</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_4">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Vorsatz</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=3</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_5">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Illustration</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=5</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_6">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>1-2, Titelblatt</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>1-2</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=7</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_7">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>3-4, Viro Nobilissimo D. Thomae Pennant Armigero ...</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>3-4</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=11</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_8">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>5-6, L. B. Ultra dimidiam huius Fasciculi partem ...</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>5-6</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=13</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_9">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>7-16, § 1 - 43</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>7-16</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=15</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_10">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>17-26, § 44 - 83</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>17-26</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=25</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_11">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>27-30, § 84 - 103</mods:title>
+                    </mods:titleInfo>
+                    <mods:physicalDescription>
+                        <mods:extent>27-30</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=35</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_12">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Tab. I - III</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=39</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_13">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Vorsatz</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=45</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_14">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=47</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_15">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=48</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_Bi211_fol-4_16">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Farbkeil</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4#p=49</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amdSec_Bi211_fol-4">
+        <rightsMD ID="rightsMD_Bi211_fol-4">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Tübingen</dv:owner>
+                        <dv:ownerLogo>http://idb.ub.uni-tuebingen.de/static/img/logo_dfgviewer.gif</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ub.uni-tuebingen.de</dv:ownerSiteURL>
+                        <dv:license>pdm</dv:license>
+                    </dv:rights>
+                </xmlData>
+            </mdWrap>
+        </rightsMD>
+        <digiprovMD ID="digiprovMD_Bi211_fol-4">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <xmlData>
+                    <dv:links>
+                        <dv:reference>https://katalog.ub.uni-tuebingen.de/opac/RDSIndex/Results?type0[]=ex&amp;lookfor0[]=id:1540677990</dv:reference>
+                        <dv:presentation>http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol-4</dv:presentation>
+                    </dv:links>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="DEFAULT">
+            <file ID="file_Bi211_fol-4_1" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_01.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_2" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_02.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_3" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_03.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_4" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_04.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_5" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_05.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_6" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_06.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_7" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_07.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_8" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_08.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_9" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_09.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_10" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_10.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_11" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_11.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_12" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_12.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_13" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_13.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_14" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_14.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_15" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_15.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_16" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_16.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_17" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_17.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_18" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_18.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_19" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_19.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_20" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_20.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_21" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_21.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_22" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_22.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_23" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_23.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_24" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_24.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_25" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_25.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_26" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_26.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_27" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_27.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_28" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_28.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_29" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_29.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_30" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_30.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_31" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_31.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_32" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_32.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_33" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_33.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_34" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_34.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_35" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_35.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_36" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_36.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_37" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_37.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_38" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_38.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_39" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_39.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_40" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_40.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_41" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_41.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_42" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_42.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_43" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_43.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_44" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_44.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_45" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_45.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_46" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_46.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_47" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_47.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_48" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_48.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_Bi211_fol-4_49" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/Bi211_fol-4/Bi211_fol-4_49.jp2/full/full/0/default.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="PHYSICAL">
+        <div ID="phys_Bi211_fol-4" TYPE="physSequence">
+            <div ID="phys_Bi211_fol-4_1" ORDER="1" ORDERLABEL="0" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_1"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_2" ORDER="2" ORDERLABEL="0a" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_2"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_3" ORDER="3" ORDERLABEL="0b" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_3"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_4" ORDER="4" ORDERLABEL="0c" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_4"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_5" ORDER="5" ORDERLABEL="0d" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_5"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_6" ORDER="6" ORDERLABEL="0e" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_6"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_7" ORDER="7" ORDERLABEL="0f" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_7"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_8" ORDER="8" ORDERLABEL="0g" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_8"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_9" ORDER="9" ORDERLABEL="1" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_9"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_10" ORDER="10" ORDERLABEL="2" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_10"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_11" ORDER="11" ORDERLABEL="3" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_11"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_12" ORDER="12" ORDERLABEL="4" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_12"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_13" ORDER="13" ORDERLABEL="5" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_13"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_14" ORDER="14" ORDERLABEL="6" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_14"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_15" ORDER="15" ORDERLABEL="7" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_15"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_16" ORDER="16" ORDERLABEL="8" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_16"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_17" ORDER="17" ORDERLABEL="9" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_17"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_18" ORDER="18" ORDERLABEL="10" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_18"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_19" ORDER="19" ORDERLABEL="11" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_19"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_20" ORDER="20" ORDERLABEL="12" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_20"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_21" ORDER="21" ORDERLABEL="13" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_21"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_22" ORDER="22" ORDERLABEL="14" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_22"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_23" ORDER="23" ORDERLABEL="15" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_23"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_24" ORDER="24" ORDERLABEL="16" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_24"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_25" ORDER="25" ORDERLABEL="17" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_25"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_26" ORDER="26" ORDERLABEL="18" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_26"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_27" ORDER="27" ORDERLABEL="19" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_27"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_28" ORDER="28" ORDERLABEL="20" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_28"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_29" ORDER="29" ORDERLABEL="21" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_29"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_30" ORDER="30" ORDERLABEL="22" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_30"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_31" ORDER="31" ORDERLABEL="23" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_31"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_32" ORDER="32" ORDERLABEL="24" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_32"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_33" ORDER="33" ORDERLABEL="25" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_33"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_34" ORDER="34" ORDERLABEL="26" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_34"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_35" ORDER="35" ORDERLABEL="27" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_35"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_36" ORDER="36" ORDERLABEL="28" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_36"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_37" ORDER="37" ORDERLABEL="29" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_37"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_38" ORDER="38" ORDERLABEL="30" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_38"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_39" ORDER="39" ORDERLABEL="30a" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_39"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_40" ORDER="40" ORDERLABEL="30b" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_40"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_41" ORDER="41" ORDERLABEL="30c" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_41"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_42" ORDER="42" ORDERLABEL="30d" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_42"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_43" ORDER="43" ORDERLABEL="30e" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_43"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_44" ORDER="44" ORDERLABEL="30f" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_44"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_45" ORDER="45" ORDERLABEL="30g" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_45"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_46" ORDER="46" ORDERLABEL="30h" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_46"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_47" ORDER="47" ORDERLABEL="30i" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_47"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_48" ORDER="48" ORDERLABEL="30j" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_48"/>
+            </div>
+            <div ID="phys_Bi211_fol-4_49" ORDER="49" ORDERLABEL="30k" TYPE="page">
+                <fptr FILEID="file_Bi211_fol-4_49"/>
+            </div>
+        </div>
+    </structMap>
+    <structMap TYPE="LOGICAL">
+        <div DMDID="dmdSec_Bi211_fol_1" ID="log_Bi211_fol_1" LABEL="Andreae Johannis Retzii Phil. Mag. Ad Reg. Acad. Lvndens. Historiae Natvr. Et Oeconom. Prof. R. Et Ord. Societ. Physiographicae Lvnd. Secretarii Etc. Observationes Botanicae" TYPE="multivolume_work">
+            <mptr LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/Bi211_fol/mets"/>
+            <div DMDID="dmdSec_Bi211_fol-4_1" ID="log_Bi211_fol-4_1" LABEL="Andreae Iohannis Retzii Phil. Mag. Ad Reg. Acad. Lvndens. Hist. Natvr. Prof. R. Et Ord. Des. Societ. Physiographicae Lvnd. Secretarii Etc. Fascicvlvs Observationvm Botanicarvm Qvartvs; Cvm Figvris Aeneis, 4" TYPE="volume">
+                <div DMDID="dmdSec_Bi211_fol-4_2" ID="log_Bi211_fol-4_2" LABEL="Einband, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_3" ID="log_Bi211_fol-4_3" LABEL="Spiegel, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_4" ID="log_Bi211_fol-4_4" LABEL="Vorsatz, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_5" ID="log_Bi211_fol-4_5" LABEL="Illustration, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_6" ID="log_Bi211_fol-4_6" LABEL="1-2, Titelblatt, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_7" ID="log_Bi211_fol-4_7" LABEL="3-4, Viro Nobilissimo D. Thomae Pennant Armigero ..., 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_8" ID="log_Bi211_fol-4_8" LABEL="5-6, L. B. Ultra dimidiam huius Fasciculi partem ..., 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_9" ID="log_Bi211_fol-4_9" LABEL="7-16, § 1 - 43, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_10" ID="log_Bi211_fol-4_10" LABEL="17-26, § 44 - 83, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_11" ID="log_Bi211_fol-4_11" LABEL="27-30, § 84 - 103, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_12" ID="log_Bi211_fol-4_12" LABEL="Tab. I - III, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_13" ID="log_Bi211_fol-4_13" LABEL="Vorsatz, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_14" ID="log_Bi211_fol-4_14" LABEL="Spiegel, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_15" ID="log_Bi211_fol-4_15" LABEL="Einband, 4" TYPE="chapter"/>
+                <div DMDID="dmdSec_Bi211_fol-4_16" ID="log_Bi211_fol-4_16" LABEL="Farbkeil, 4" TYPE="chapter"/>
+            </div>
+        </div>
+    </structMap>
+    <structLink>
+        <smLink xlink:from="log_Bi211_fol-4_1" xlink:to="phys_Bi211_fol-4_1"/>
+        <smLink xlink:from="log_Bi211_fol-4_2" xlink:to="phys_Bi211_fol-4_1"/>
+        <smLink xlink:from="log_Bi211_fol-4_3" xlink:to="phys_Bi211_fol-4_2"/>
+        <smLink xlink:from="log_Bi211_fol-4_4" xlink:to="phys_Bi211_fol-4_3"/>
+        <smLink xlink:from="log_Bi211_fol-4_5" xlink:to="phys_Bi211_fol-4_5"/>
+        <smLink xlink:from="log_Bi211_fol-4_6" xlink:to="phys_Bi211_fol-4_7"/>
+        <smLink xlink:from="log_Bi211_fol-4_7" xlink:to="phys_Bi211_fol-4_11"/>
+        <smLink xlink:from="log_Bi211_fol-4_8" xlink:to="phys_Bi211_fol-4_13"/>
+        <smLink xlink:from="log_Bi211_fol-4_9" xlink:to="phys_Bi211_fol-4_15"/>
+        <smLink xlink:from="log_Bi211_fol-4_10" xlink:to="phys_Bi211_fol-4_25"/>
+        <smLink xlink:from="log_Bi211_fol-4_11" xlink:to="phys_Bi211_fol-4_35"/>
+        <smLink xlink:from="log_Bi211_fol-4_12" xlink:to="phys_Bi211_fol-4_39"/>
+        <smLink xlink:from="log_Bi211_fol-4_13" xlink:to="phys_Bi211_fol-4_45"/>
+        <smLink xlink:from="log_Bi211_fol-4_14" xlink:to="phys_Bi211_fol-4_47"/>
+        <smLink xlink:from="log_Bi211_fol-4_15" xlink:to="phys_Bi211_fol-4_48"/>
+        <smLink xlink:from="log_Bi211_fol-4_16" xlink:to="phys_Bi211_fol-4_49"/>
+    </structLink>
+</mets>

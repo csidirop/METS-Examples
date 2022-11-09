@@ -1,0 +1,505 @@
+<mets xmlns="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mets/mets.xsd http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <metsHdr>
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>Universitätsbibliothek Tübingen</name>
+        </agent>
+    </metsHdr>
+    <dmdSec ID="dmdSec_KeXXI21_1">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Erwägung des Verlags-Rechts in Ansehung des Nachdruks</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="urn">urn:nbn:de:bsz:21-dt-18290</mods:identifier>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="urn">urn:nbn:de:bsz:21-dt-18290</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:recordInfo>
+                        <mods:recordIdentifier source="swb-ppn">1651303150</mods:recordIdentifier>
+                    </mods:recordInfo>
+                    <mods:location>
+                        <mods:physicalLocation>Universitätsbibliothek Tübingen</mods:physicalLocation>
+                        <mods:shelfLocator>Ke XXI 21</mods:shelfLocator>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=1</mods:url>
+                    </mods:location>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                    <mods:subject>
+                        <mods:topic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4063022-5">
+                            <mods:displayForm>Verlagsrecht</mods:displayForm>
+                        </mods:topic>
+                    </mods:subject>
+                    <mods:subject>
+                        <mods:topic authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4171002-2">
+                            <mods:displayForm>Nachdruck</mods:displayForm>
+                        </mods:topic>
+                    </mods:subject>
+                    <mods:name type="personal">
+                        <mods:displayForm>Reimarus, Johann Albert Heinrich</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">Hamburg</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1792</mods:dateIssued>
+                        <mods:dateIssued>1792</mods:dateIssued>
+                    </mods:originInfo>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_2">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband vorne</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=1</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_3">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel vorne</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=2</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_4">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Titelseiten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=3</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_5">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>3-10</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=5</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_6">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>11-20</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=13</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_7">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>21-30</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=23</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_8">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>31-36</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=33</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_9">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Spiegel hinten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=39</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_10">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Einband hinten</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=40</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <dmdSec ID="dmdSec_KeXXI21_11">
+        <mdWrap MDTYPE="MODS">
+            <xmlData>
+                <mods:mods>
+                    <mods:titleInfo>
+                        <mods:title>Farbkeil</mods:title>
+                    </mods:titleInfo>
+                    <mods:location>
+                        <mods:url access="object in context">http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21#p=41</mods:url>
+                    </mods:location>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec ID="amdSec_KeXXI21">
+        <rightsMD ID="rightsMD_KeXXI21">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+                <xmlData>
+                    <dv:rights>
+                        <dv:owner>Universitätsbibliothek Tübingen</dv:owner>
+                        <dv:ownerLogo>http://idb.ub.uni-tuebingen.de/static/img/logo_dfgviewer.gif</dv:ownerLogo>
+                        <dv:ownerSiteURL>http://www.ub.uni-tuebingen.de</dv:ownerSiteURL>
+                        <dv:license>pdm</dv:license>
+                    </dv:rights>
+                </xmlData>
+            </mdWrap>
+        </rightsMD>
+        <digiprovMD ID="digiprovMD_KeXXI21">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+                <xmlData>
+                    <dv:links>
+                        <dv:reference>https://katalog.ub.uni-tuebingen.de/opac/RDSIndex/Results?type0[]=ex&amp;lookfor0[]=id:1651303150</dv:reference>
+                        <dv:presentation>http://idb.ub.uni-tuebingen.de/opendigi/KeXXI21</dv:presentation>
+                    </dv:links>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp USE="DEFAULT">
+            <file ID="file_KeXXI21_1" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_01.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_2" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_02.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_3" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_03.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_4" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_04.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_5" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_05.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_6" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_06.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_7" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_07.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_8" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_08.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_9" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_09.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_10" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_10.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_11" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_11.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_12" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_12.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_13" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_13.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_14" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_14.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_15" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_15.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_16" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_16.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_17" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_17.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_18" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_18.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_19" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_19.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_20" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_20.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_21" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_21.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_22" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_22.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_23" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_23.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_24" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_24.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_25" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_25.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_26" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_26.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_27" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_27.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_28" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_28.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_29" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_29.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_30" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_30.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_31" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_31.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_32" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_32.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_33" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_33.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_34" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_34.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_35" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_35.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_36" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_36.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_37" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_37.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_38" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_38.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_39" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_39.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_40" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_40.jp2/full/full/0/default.jpg"/>
+            </file>
+            <file ID="file_KeXXI21_41" MIMETYPE="image/jpeg">
+                <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/KeXXI21/KeXXI21_41.jp2/full/full/0/default.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="PHYSICAL">
+        <div ID="phys_KeXXI21" TYPE="physSequence">
+            <div ID="phys_KeXXI21_1" ORDER="1" ORDERLABEL="0" TYPE="page">
+                <fptr FILEID="file_KeXXI21_1"/>
+            </div>
+            <div ID="phys_KeXXI21_2" ORDER="2" ORDERLABEL="0a" TYPE="page">
+                <fptr FILEID="file_KeXXI21_2"/>
+            </div>
+            <div ID="phys_KeXXI21_3" ORDER="3" ORDERLABEL="1" TYPE="page">
+                <fptr FILEID="file_KeXXI21_3"/>
+            </div>
+            <div ID="phys_KeXXI21_4" ORDER="4" ORDERLABEL="2" TYPE="page">
+                <fptr FILEID="file_KeXXI21_4"/>
+            </div>
+            <div ID="phys_KeXXI21_5" ORDER="5" ORDERLABEL="3" TYPE="page">
+                <fptr FILEID="file_KeXXI21_5"/>
+            </div>
+            <div ID="phys_KeXXI21_6" ORDER="6" ORDERLABEL="4" TYPE="page">
+                <fptr FILEID="file_KeXXI21_6"/>
+            </div>
+            <div ID="phys_KeXXI21_7" ORDER="7" ORDERLABEL="5" TYPE="page">
+                <fptr FILEID="file_KeXXI21_7"/>
+            </div>
+            <div ID="phys_KeXXI21_8" ORDER="8" ORDERLABEL="6" TYPE="page">
+                <fptr FILEID="file_KeXXI21_8"/>
+            </div>
+            <div ID="phys_KeXXI21_9" ORDER="9" ORDERLABEL="7" TYPE="page">
+                <fptr FILEID="file_KeXXI21_9"/>
+            </div>
+            <div ID="phys_KeXXI21_10" ORDER="10" ORDERLABEL="8" TYPE="page">
+                <fptr FILEID="file_KeXXI21_10"/>
+            </div>
+            <div ID="phys_KeXXI21_11" ORDER="11" ORDERLABEL="9" TYPE="page">
+                <fptr FILEID="file_KeXXI21_11"/>
+            </div>
+            <div ID="phys_KeXXI21_12" ORDER="12" ORDERLABEL="10" TYPE="page">
+                <fptr FILEID="file_KeXXI21_12"/>
+            </div>
+            <div ID="phys_KeXXI21_13" ORDER="13" ORDERLABEL="11" TYPE="page">
+                <fptr FILEID="file_KeXXI21_13"/>
+            </div>
+            <div ID="phys_KeXXI21_14" ORDER="14" ORDERLABEL="12" TYPE="page">
+                <fptr FILEID="file_KeXXI21_14"/>
+            </div>
+            <div ID="phys_KeXXI21_15" ORDER="15" ORDERLABEL="13" TYPE="page">
+                <fptr FILEID="file_KeXXI21_15"/>
+            </div>
+            <div ID="phys_KeXXI21_16" ORDER="16" ORDERLABEL="14" TYPE="page">
+                <fptr FILEID="file_KeXXI21_16"/>
+            </div>
+            <div ID="phys_KeXXI21_17" ORDER="17" ORDERLABEL="15" TYPE="page">
+                <fptr FILEID="file_KeXXI21_17"/>
+            </div>
+            <div ID="phys_KeXXI21_18" ORDER="18" ORDERLABEL="16" TYPE="page">
+                <fptr FILEID="file_KeXXI21_18"/>
+            </div>
+            <div ID="phys_KeXXI21_19" ORDER="19" ORDERLABEL="17" TYPE="page">
+                <fptr FILEID="file_KeXXI21_19"/>
+            </div>
+            <div ID="phys_KeXXI21_20" ORDER="20" ORDERLABEL="18" TYPE="page">
+                <fptr FILEID="file_KeXXI21_20"/>
+            </div>
+            <div ID="phys_KeXXI21_21" ORDER="21" ORDERLABEL="19" TYPE="page">
+                <fptr FILEID="file_KeXXI21_21"/>
+            </div>
+            <div ID="phys_KeXXI21_22" ORDER="22" ORDERLABEL="20" TYPE="page">
+                <fptr FILEID="file_KeXXI21_22"/>
+            </div>
+            <div ID="phys_KeXXI21_23" ORDER="23" ORDERLABEL="21" TYPE="page">
+                <fptr FILEID="file_KeXXI21_23"/>
+            </div>
+            <div ID="phys_KeXXI21_24" ORDER="24" ORDERLABEL="22" TYPE="page">
+                <fptr FILEID="file_KeXXI21_24"/>
+            </div>
+            <div ID="phys_KeXXI21_25" ORDER="25" ORDERLABEL="23" TYPE="page">
+                <fptr FILEID="file_KeXXI21_25"/>
+            </div>
+            <div ID="phys_KeXXI21_26" ORDER="26" ORDERLABEL="24" TYPE="page">
+                <fptr FILEID="file_KeXXI21_26"/>
+            </div>
+            <div ID="phys_KeXXI21_27" ORDER="27" ORDERLABEL="25" TYPE="page">
+                <fptr FILEID="file_KeXXI21_27"/>
+            </div>
+            <div ID="phys_KeXXI21_28" ORDER="28" ORDERLABEL="26" TYPE="page">
+                <fptr FILEID="file_KeXXI21_28"/>
+            </div>
+            <div ID="phys_KeXXI21_29" ORDER="29" ORDERLABEL="27" TYPE="page">
+                <fptr FILEID="file_KeXXI21_29"/>
+            </div>
+            <div ID="phys_KeXXI21_30" ORDER="30" ORDERLABEL="28" TYPE="page">
+                <fptr FILEID="file_KeXXI21_30"/>
+            </div>
+            <div ID="phys_KeXXI21_31" ORDER="31" ORDERLABEL="29" TYPE="page">
+                <fptr FILEID="file_KeXXI21_31"/>
+            </div>
+            <div ID="phys_KeXXI21_32" ORDER="32" ORDERLABEL="30" TYPE="page">
+                <fptr FILEID="file_KeXXI21_32"/>
+            </div>
+            <div ID="phys_KeXXI21_33" ORDER="33" ORDERLABEL="31" TYPE="page">
+                <fptr FILEID="file_KeXXI21_33"/>
+            </div>
+            <div ID="phys_KeXXI21_34" ORDER="34" ORDERLABEL="32" TYPE="page">
+                <fptr FILEID="file_KeXXI21_34"/>
+            </div>
+            <div ID="phys_KeXXI21_35" ORDER="35" ORDERLABEL="33" TYPE="page">
+                <fptr FILEID="file_KeXXI21_35"/>
+            </div>
+            <div ID="phys_KeXXI21_36" ORDER="36" ORDERLABEL="34" TYPE="page">
+                <fptr FILEID="file_KeXXI21_36"/>
+            </div>
+            <div ID="phys_KeXXI21_37" ORDER="37" ORDERLABEL="35" TYPE="page">
+                <fptr FILEID="file_KeXXI21_37"/>
+            </div>
+            <div ID="phys_KeXXI21_38" ORDER="38" ORDERLABEL="36" TYPE="page">
+                <fptr FILEID="file_KeXXI21_38"/>
+            </div>
+            <div ID="phys_KeXXI21_39" ORDER="39" ORDERLABEL="36a" TYPE="page">
+                <fptr FILEID="file_KeXXI21_39"/>
+            </div>
+            <div ID="phys_KeXXI21_40" ORDER="40" ORDERLABEL="36b" TYPE="page">
+                <fptr FILEID="file_KeXXI21_40"/>
+            </div>
+            <div ID="phys_KeXXI21_41" ORDER="41" ORDERLABEL="36c" TYPE="page">
+                <fptr FILEID="file_KeXXI21_41"/>
+            </div>
+        </div>
+    </structMap>
+    <structMap TYPE="LOGICAL">
+        <div DMDID="dmdSec_KeXXI21_1" ID="log_KeXXI21_1" LABEL="Erwägung des Verlags-Rechts in Ansehung des Nachdruks" TYPE="monograph">
+            <div DMDID="dmdSec_KeXXI21_2" ID="log_KeXXI21_2" LABEL="Einband vorne" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_3" ID="log_KeXXI21_3" LABEL="Spiegel vorne" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_4" ID="log_KeXXI21_4" LABEL="Titelseiten" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_5" ID="log_KeXXI21_5" LABEL="3-10" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_6" ID="log_KeXXI21_6" LABEL="11-20" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_7" ID="log_KeXXI21_7" LABEL="21-30" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_8" ID="log_KeXXI21_8" LABEL="31-36" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_9" ID="log_KeXXI21_9" LABEL="Spiegel hinten" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_10" ID="log_KeXXI21_10" LABEL="Einband hinten" TYPE="chapter"/>
+            <div DMDID="dmdSec_KeXXI21_11" ID="log_KeXXI21_11" LABEL="Farbkeil" TYPE="chapter"/>
+        </div>
+    </structMap>
+    <structLink>
+        <smLink xlink:from="log_KeXXI21_1" xlink:to="phys_KeXXI21_1"/>
+        <smLink xlink:from="log_KeXXI21_2" xlink:to="phys_KeXXI21_1"/>
+        <smLink xlink:from="log_KeXXI21_3" xlink:to="phys_KeXXI21_2"/>
+        <smLink xlink:from="log_KeXXI21_4" xlink:to="phys_KeXXI21_3"/>
+        <smLink xlink:from="log_KeXXI21_5" xlink:to="phys_KeXXI21_5"/>
+        <smLink xlink:from="log_KeXXI21_6" xlink:to="phys_KeXXI21_13"/>
+        <smLink xlink:from="log_KeXXI21_7" xlink:to="phys_KeXXI21_23"/>
+        <smLink xlink:from="log_KeXXI21_8" xlink:to="phys_KeXXI21_33"/>
+        <smLink xlink:from="log_KeXXI21_9" xlink:to="phys_KeXXI21_39"/>
+        <smLink xlink:from="log_KeXXI21_10" xlink:to="phys_KeXXI21_40"/>
+        <smLink xlink:from="log_KeXXI21_11" xlink:to="phys_KeXXI21_41"/>
+    </structLink>
+</mets>
