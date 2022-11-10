@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets OBJID="" xsi:schemaLocation="http://www.loc.gov/standards/premis/ http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/standards/mix/ http://www.loc.gov/standards/mix/mix.xsd" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mets:metsHdr CREATEDATE="2022-09-09T08:23:46Z">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>Goobi - ugh-3.0-ugh-2.0.0-29-g3b6efe1 - 21−December−2016</mets:name>
+         <mets:note>Goobi</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDLOG_0000">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+               <mods:titleInfo>
+                  <mods:title>Cod. Ms. W. Müller I, 2</mods:title>
+               </mods:titleInfo>
+               <mods:genre authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/4155137-0">Fragment</mods:genre>
+               <mods:originInfo>
+                  <mods:dateCreated encoding="iso8601" point="start">1201</mods:dateCreated>
+                  <mods:dateCreated>13./14. Jahrhundert</mods:dateCreated>
+               </mods:originInfo>
+               <mods:originInfo eventType="digitization">
+                  <mods:place>
+                     <mods:placeTerm type="text">Göttingen</mods:placeTerm>
+                  </mods:place>
+                  <mods:publisher>Niedersächsische Staats- und Universitätsbibliothek</mods:publisher>
+                  <mods:dateCaptured encoding="iso8601" point="start">2022</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">und</mods:languageTerm>
+                  <mods:scriptTerm type="text">Textualis formata/Textura</mods:scriptTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+               </mods:language>
+               <mods:physicalDescription>
+                  <mods:extent>2 Blätter, foliiert ; 23,5 x 16,5 cm</mods:extent>
+                  <mods:form type="material">Pergament</mods:form>
+               </mods:physicalDescription>
+               <mods:abstract>Wolfram von Eschenbach, Parzival (54,23–65,18)</mods:abstract>
+               <mods:note type="reproduction">Electronic reproduction. Göttingen : Niedersächsische Staats- und Universitätsbibliothek, 2022. TIFF, Vers. 6.0, 300 ppi, 24 bit (Farbe), RGB; Digitalisierungsvorlage: Primärausgabe. (Mittelalterliche Fragmente)</mods:note>
+               <mods:note type="original location">SUB Göttingen (Cod. Ms. W. Müller I, 2)</mods:note>
+               <mods:note type="original version">Wolfram: Cod. Ms. W. Müller I, 2. -- [s.l.] : [s.n.], 13./14. Jahrhundert. -- 2 Blätter, foliiert ; 23,5 x 16,5 cm</mods:note>
+               <mods:identifier type="PPNanalog">PPN1810741734</mods:identifier>
+               <mods:location>
+                  <mods:physicalLocation>Nds. Staats- und Universitätsbibliothek Göttingen (DE-7)</mods:physicalLocation>
+                  <mods:url access="object in context">http://resolver.sub.uni-goettingen.de/purl?PPN1810742196</mods:url>
+               </mods:location>
+               <mods:location>
+                  <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>Cod. Ms. W. Müller I, 2</mods:shelfLocator>
+               </mods:location>
+               <mods:accessCondition type="use and reproduction">http://creativecommons.org/publicdomain/mark/1.0/</mods:accessCondition>
+               <mods:recordInfo>
+                  <mods:recordIdentifier source="gbv-ppn">PPN1810742196</mods:recordIdentifier>
+                  <mods:recordInfoNote type="license">http://creativecommons.org/publicdomain/zero/1.0/</mods:recordInfoNote>
+               </mods:recordInfo>
+               <mods:extension>
+                  <edm:edm xmlns:edm="http://www.europeana.eu/schemas/edm/">
+                     <edm:isGatheredInto>Handschriften</edm:isGatheredInto>
+                  </edm:edm>
+                  <edm:edm xmlns:edm="http://www.europeana.eu/schemas/edm/">
+                     <edm:isGatheredInto>Mittelalterliche_Fragmente</edm:isGatheredInto>
+                  </edm:edm>
+               </mods:extension>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/118634933">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/aut">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="given">Wolfram von Eschenbach</mods:namePart>
+                  <mods:displayForm>Wolfram von Eschenbach</mods:displayForm>
+               </mods:name>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDLOG_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+               <mods:titleInfo>
+                  <mods:title>Wolfram von Eschenbach, Parzival (54,23–65,18)</mods:title>
+               </mods:titleInfo>
+               <mods:name authority="gnd" authorityURI="http://d-nb.info/gnd/" type="personal" valueURI="http://d-nb.info/gnd/118634933">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/aut">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="given">Wolfram von Eschenbach</mods:namePart>
+                  <mods:displayForm>Wolfram von Eschenbach</mods:displayForm>
+               </mods:name>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="AMD">
+      <mets:rightsMD ID="RIGHTS">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+            <mets:xmlData>
+               <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                  <dv:owner>Digitalisierungszentrum der Niedersächsischen Staats- und Universitätsbibliothek Göttingen</dv:owner>
+                  <dv:ownerLogo>http://gdz.sub.uni-goettingen.de/logo_gdz_dfgv.png</dv:ownerLogo>
+                  <dv:ownerSiteURL>http://gdz.sub.uni-goettingen.de</dv:ownerSiteURL>
+                  <dv:ownerContact/>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="DIGIPROV">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <dv:links xmlns:dv="http://dfg-viewer.de/">
+                  <dv:reference>http://opac.sub.uni-goettingen.de/DB=1/PPN?PPN=1810742196</dv:reference>
+                  <dv:presentation>http://resolver.sub.uni-goettingen.de/purl?PPN1810742196</dv:presentation>
+               </dv:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="MIN">
+         <mets:file ID="FILE_0001_MIN" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/500/0/00000001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_MIN" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/500/0/00000002.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_MIN" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/500/0/00000003.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="THUMBS">
+         <mets:file ID="FILE_0001_THUMBS" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/150/0/00000001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_THUMBS" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/150/0/00000002.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_THUMBS" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/150/0/00000003.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="MAX">
+         <mets:file ID="FILE_0001_MAX" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/1000/0/00000001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_MAX" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/1000/0/00000002.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_MAX" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/1000/0/00000003.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file ID="FILE_0001_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/800/0/00000001.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/800/0/00000002.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/content/PPN1810742196/800/0/00000003.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="PRESENTATION">
+         <mets:file ID="FILE_0001_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/tiff/PPN1810742196/00000001.tif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/tiff/PPN1810742196/00000002.tif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+         <mets:file ID="FILE_0003_PRESENTATION" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="https://gdz.sub.uni-goettingen.de/tiff/PPN1810742196/00000003.tif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div ADMID="AMD" DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="Cod. Ms. W. Müller I, 2" TYPE="manuscript">
+         <mets:div DMDID="DMDLOG_0001" ID="LOG_0001" LABEL="Wolfram von Eschenbach, Parzival (54,23–65,18)" TYPE="section"/>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div ID="PHYS_0000" TYPE="physSequence">
+         <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL="1r" TYPE="page">
+            <mets:fptr FILEID="FILE_0001_MIN"/>
+            <mets:fptr FILEID="FILE_0001_THUMBS"/>
+            <mets:fptr FILEID="FILE_0001_MAX"/>
+            <mets:fptr FILEID="FILE_0001_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0001_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0002" ORDER="2" ORDERLABEL="1v 2r" TYPE="page">
+            <mets:fptr FILEID="FILE_0002_MIN"/>
+            <mets:fptr FILEID="FILE_0002_THUMBS"/>
+            <mets:fptr FILEID="FILE_0002_MAX"/>
+            <mets:fptr FILEID="FILE_0002_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0002_PRESENTATION"/>
+         </mets:div>
+         <mets:div ID="PHYS_0003" ORDER="3" ORDERLABEL="2v" TYPE="page">
+            <mets:fptr FILEID="FILE_0003_MIN"/>
+            <mets:fptr FILEID="FILE_0003_THUMBS"/>
+            <mets:fptr FILEID="FILE_0003_MAX"/>
+            <mets:fptr FILEID="FILE_0003_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0003_PRESENTATION"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0000" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      <mets:smLink xlink:to="PHYS_0002" xlink:from="LOG_0000" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      <mets:smLink xlink:to="PHYS_0003" xlink:from="LOG_0000" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      <mets:smLink xlink:to="PHYS_0002" xlink:from="LOG_0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      <mets:smLink xlink:to="PHYS_0003" xlink:from="LOG_0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   </mets:structLink>
+</mets:mets>

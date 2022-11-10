@@ -9,7 +9,15 @@ The folder structure is derived from the [URNs](https://en.wikipedia.org/wiki/Un
 
 ```
 ├─noURN
-│ └─── ...
+│ │   SUB Göttingen
+│ │
+│ ├───6af60bd55804696b5ebe3b9c6f41747ac51a79d9
+│ │     │---metslink.url
+│ │     └---SUB-PPN1810742196.xml
+│ │
+│ └───e8e043131b1ebc2559d6eff98204bea937726c80
+│       │---metslink.url
+│       └---SUB-PPN001458469.xml
 └─URN
   └─nbn
     └─de
